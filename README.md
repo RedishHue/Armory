@@ -46,4 +46,5 @@ Prices are copied from the ["Sane Magic Item Prices"](http://www.giantitp.com/fo
   * Find out where that one searchbar went...
 * *Try* to make everything look a bit nicer
 * *Try* to Add support for non-1920x1080 monitors.
+ * Includes mobile, tablets, etc.
 * ~~Write Readme since I keep forgetting what I was doing~~ 
