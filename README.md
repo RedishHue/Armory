@@ -34,6 +34,7 @@ Prices are copied from the ["Sane Magic Item Prices"](http://www.giantitp.com/fo
 * Added Nightmode (small button, buttom right).
 * Removed PHB Fonts.
   * Looked dreadful with nightmode and having it change fonts was jarring.
+* Purged Everything because it wasn't updating correctly.
 
 
 ###To do
