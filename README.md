@@ -5,7 +5,7 @@ Prices are copied from the ["Sane Magic Item Prices"](http://www.giantitp.com/fo
 
 
 ###Features
-* Sort columns by clicking on them.
+* Order columns by clicking on them.
 * Sort multiple Columns by shiftclicking them in order.
   * For example, click "Rarity" and then shift-click "Names" to sort any items with the same rarity in alphabetical order.
 * Enable/Disable Nightmode by clicking the small round buttom in the bottom right corner.
