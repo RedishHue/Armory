@@ -46,6 +46,7 @@ Prices are copied from the ["Sane Magic Item Prices"](http://www.giantitp.com/fo
   * Take the default DataTables CSS through a formatter for better readability.
   * Find out where that one searchbar went...
 * *Try* to make everything look a bit nicer
+* *Try* to do proper nightmode rather than inverting all the colours.
 * *Try* to Add support for non-1920x1080 monitors.
  * Includes mobile, tablets, etc.
 * ~~Write Readme since I keep forgetting what I was doing~~ 
