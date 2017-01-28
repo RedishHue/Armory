@@ -1,6 +1,6 @@
 # The Armory
 
-This is a list of Magic Items in a 5e D&D Campaign. It's 100% RAW at the moment but may be expanded to include homebrew items in the future. All Homebrew items will be marked somehow.
+This is a list of Magic Items in a 5e D&D Campaign. It's 100% RAW at the moment but I plan to include homebrew items in the future. All Homebrew *items* will probably be marked, but there may be some unmarked alteration of rarities, general balance and such. I would **not** recommend using this if you happen to stumble on it as the information may prove inacurate. 
 Prices are copied from the ["Sane Magic Item Prices"](http://www.giantitp.com/forums/showthread.php?424243-Sane-Magic-Item-Prices) list.
 
 
@@ -49,3 +49,4 @@ Prices are copied from the ["Sane Magic Item Prices"](http://www.giantitp.com/fo
 * *Try* to Add support for non-1920x1080 monitors.
  * Includes mobile, tablets, etc.
 * ~~Write Readme since I keep forgetting what I was doing~~ 
+* Acquire a better URL.
