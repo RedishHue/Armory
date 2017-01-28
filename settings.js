@@ -1,19 +1,30 @@
-$(document).ready(function () {
-    // Setup - add a text input to each footer cell
+$(document).ready(function() {
+    
     $('.input-filter').each(function () {
         var title = $(this).text();
         $(this).html('<input type="text" placeholder="Search ' + title + '" />');
     });
- 
-    // DataTable
-    var table = $('#example').DataTable( {
+    
+    
+    
+    $('#example').DataTable( {
         "order": [[0, "asc"]],
         "paging": false,
         "info": false,
-        "ajax": "dataTables.txt",
-        "columnDefs": [
-        {"className": "dt-center", "targets": [3,5,6]}
-      ],
+        ajax: "data.txt",
+        columns: [
+            { data: "name" },
+            { data: "type" },
+            { data: {
+                _:    "rarity.display",
+                sort: "rarity.sort"
+            } },
+            { data: "attunement" },
+            { data: "notes" },
+            { data: "price" },
+            { data: "source"}
+        ],
+        "columndefs": [],
         initComplete: function () {
             this.api().columns([1,2,3]).every( function () {
                 var column = this;
@@ -34,12 +45,8 @@ $(document).ready(function () {
                 } );
             } );
         }
-        
-        
-    });
+    } );
     
- 
-    // Apply the search
     table.columns().every(function () {
         var that = this;
  
@@ -52,4 +59,5 @@ $(document).ready(function () {
         });
     });
     
-});
+} );
+
