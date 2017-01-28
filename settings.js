@@ -1,13 +1,12 @@
 $(document).ready(function() {
-    
-    $('.input-filter').each(function () {
+    // Setup - add a text input to each footer cell
+    $('#example tfoot th').each( function () {
         var title = $(this).text();
-        $(this).html('<input type="text" placeholder="Search ' + title + '" />');
-    });
-    
-    
-    
-    $('#example').DataTable( {
+        $(this).html( '<input type="text" placeholder="Search '+title+'" />' );
+    } );
+ 
+    // DataTable
+    var table = $('#example').DataTable( {
         "order": [[0, "asc"]],
         "paging": false,
         "info": false,
@@ -24,7 +23,9 @@ $(document).ready(function() {
             { data: "price" },
             { data: "source"}
         ],
-        "columndefs": [],
+        "columnDefs": [
+        {"className": "dt-center", "targets": [3,5,6]}
+      ],
         initComplete: function () {
             this.api().columns([1,2,3]).every( function () {
                 var column = this;
@@ -34,30 +35,29 @@ $(document).ready(function() {
                         var val = $.fn.dataTable.util.escapeRegex(
                             $(this).val()
                         );
-  
+ 
                         column
                             .search( val ? '^'+val+'$' : '', true, false )
                             .draw();
                     } );
-  
+ 
                 column.data().unique().sort().each( function ( d, j ) {
                     select.append( '<option value="'+d+'">'+d+'</option>' )
                 } );
             } );
         }
-    } );
-    
-    table.columns().every(function () {
+    });
+ 
+    // Apply the search
+    table.columns().every( function () {
         var that = this;
  
-        $('input', this.footer()).on('keyup change', function () {
-            if (that.search() !== this.value) {
+        $( 'input', this.footer() ).on( 'keyup change', function () {
+            if ( that.search() !== this.value ) {
                 that
-                    .search(this.value)
+                    .search( this.value )
                     .draw();
             }
-        });
-    });
-    
+        } );
+    } );
 } );
-
