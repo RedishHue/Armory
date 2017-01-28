@@ -36,6 +36,10 @@ Prices are copied from the ["Sane Magic Item Prices"](http://www.giantitp.com/fo
   * Looked dreadful with nightmode and having it change fonts was jarring.
 * Purged Everything because it wasn't updating correctly.
 
+###0.0.4
+* Fixed the broken searhbars.
+* Started CSS rewamp.
+
 
 ###To do
 * *Try* to add descriptions.
