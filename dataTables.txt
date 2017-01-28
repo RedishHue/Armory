@@ -1,0 +1,3091 @@
+{
+  "data": [
+    [
+      "Adamantine Armor",
+      "Armor",
+      "Uncommon",
+      "No",
+      "Medium or heavy, but not hide",
+      "500",
+      "DMG 150"
+    ],
+    [
+      "Alchemy Jug",
+      "Wondrous Item",
+      "Uncommon",
+      "No",
+      "",
+      "6000",
+      "DMG 150"
+    ],
+    [
+      "Ammunition, +1",
+      "Weapon",
+      "Uncommon",
+      "No",
+      "Any ammunition",
+      "25",
+      "DMG 150"
+    ],
+    [
+      "Ammunition, +2",
+      "Weapon",
+      "Rare",
+      "No",
+      "Any ammunition",
+      "100",
+      "DMG 150"
+    ],
+    [
+      "Ammunition, +3",
+      "Weapon",
+      "Very Rare",
+      "No",
+      "Any ammunition",
+      "400",
+      "DMG 150"
+    ],
+    [
+      "Amulet of Health",
+      "Wondrous Item",
+      "Rare",
+      "Yes",
+      "",
+      "8000",
+      "DMG 150"
+    ],
+    [
+      "Amulet of Proof Against Detection and Location",
+      "Wondrous Item",
+      "Uncommon",
+      "Yes",
+      "",
+      "20000",
+      "DMG 150"
+    ],
+    [
+      "Amulet of the Planes",
+      "Wondrous Item",
+      "Very Rare",
+      "Yes",
+      "",
+      "160000",
+      "DMG 150"
+    ],
+    [
+      "Animated Shield",
+      "Armor",
+      "Very Rare",
+      "Yes",
+      "Shield",
+      "6000",
+      "DMG 151"
+    ],
+    [
+      "Apparatus of Kwalish",
+      "Wondrous Item",
+      "Legendary",
+      "No",
+      "",
+      "10000",
+      "DMG 151"
+    ],
+    [
+      "Armor of Invulnerability",
+      "Armor",
+      "Legendary",
+      "Yes",
+      "Plate",
+      "18000",
+      "DMG 152"
+    ],
+    [
+      "Armor of Resistance",
+      "Armor",
+      "Rare",
+      "Yes",
+      "Plate",
+      "6000",
+      "DMG 152"
+    ],
+    [
+      "Armor of Vulnerability",
+      "Armor",
+      "Rare",
+      "Yes",
+      "Plate",
+      "",
+      "DMG 152"
+    ],
+    [
+      "Armor, +1",
+      "Armor",
+      "Rare",
+      "No",
+      "",
+      "1500",
+      "DMG 152"
+    ],
+    [
+      "Armor, +2",
+      "Armor",
+      "Very Rare",
+      "No",
+      "",
+      "6000",
+      "DMG 152"
+    ],
+    [
+      "Armor, +3",
+      "Armor",
+      "Legendary",
+      "No",
+      "",
+      "24000",
+      "DMG 152"
+    ],
+    [
+      "Arrow of Slaying",
+      "Weapon",
+      "Rare",
+      "No",
+      "Arrow",
+      "600",
+      "DMG 152"
+    ],
+    [
+      "Arrow of Slaying",
+      "Weapon",
+      "Rare",
+      "No",
+      "Arrow",
+      "600",
+      "DMG 152"
+    ],
+    [
+      "Arrow-catching Shield",
+      "Armor",
+      "Rare",
+      "Yes",
+      "Shield",
+      "6000",
+      "DMG 152"
+    ],
+    [
+      "Bag of Beans",
+      "Wondrous Item",
+      "Rare",
+      "No",
+      "",
+      "",
+      "DMG 152"
+    ],
+    [
+      "Bag of Devouring",
+      "Wondrous Item",
+      "Very Rare",
+      "No",
+      "",
+      "",
+      "DMG 153"
+    ],
+    [
+      "Bag of Holding",
+      "Wondrous Item",
+      "Uncommon",
+      "No",
+      "",
+      "4000",
+      "DMG 153"
+    ],
+    [
+      "Bag of Tricks",
+      "Wondrous Item",
+      "Uncommon",
+      "No",
+      "",
+      "",
+      "DMG 154"
+    ],
+    [
+      "Bead of Force",
+      "Wondrous Item",
+      "Rare",
+      "No",
+      "",
+      "960",
+      "DMG 154"
+    ],
+    [
+      "Belt of Cloud Giant Strength",
+      "Wondrous Item",
+      "Legendary",
+      "Yes",
+      "",
+      "",
+      "DMG 155"
+    ],
+    [
+      "Belt of Dwarvenkind",
+      "Wondrous Item",
+      "Rare",
+      "Yes",
+      "",
+      "6000",
+      "DMG 155"
+    ],
+    [
+      "Belt of Fire Giant Strength",
+      "Wondrous Item",
+      "Very Rare",
+      "Yes",
+      "",
+      "",
+      "DMG 155"
+    ],
+    [
+      "Belt of Frost Giant Strength",
+      "Wondrous Item",
+      "Very Rare",
+      "Yes",
+      "",
+      "",
+      "DMG 155"
+    ],
+    [
+      "Belt of Hill Giant Strength",
+      "Wondrous Item",
+      "Rare",
+      "Yes",
+      "",
+      "",
+      "DMG 155"
+    ],
+    [
+      "Belt of Stone Giant Strength",
+      "Wondrous Item",
+      "Very Rare",
+      "Yes",
+      "",
+      "",
+      "DMG 155"
+    ],
+    [
+      "Belt of Storm Giant Strength",
+      "Wondrous Item",
+      "Legendary",
+      "Yes",
+      "",
+      "",
+      "DMG 155"
+    ],
+    [
+      "Berserker Axe",
+      "Weapon",
+      "Rare",
+      "Yes",
+      "Any axe",
+      "",
+      "DMG 155"
+    ],
+    [
+      "Boots of Elvenkind",
+      "Wondrous Item",
+      "Uncommon",
+      "No",
+      "",
+      "2500",
+      "DMG 155"
+    ],
+    [
+      "Boots of Levitation",
+      "Wondrous Item",
+      "Rare",
+      "Yes",
+      "",
+      "4000",
+      "DMG 155"
+    ],
+    [
+      "Boots of Speed",
+      "Wondrous Item",
+      "Rare",
+      "Yes",
+      "",
+      "4000",
+      "DMG 155"
+    ],
+    [
+      "Boots of Striding and Springing",
+      "Wondrous Item",
+      "Uncommon",
+      "Yes",
+      "",
+      "5000",
+      "DMG 156"
+    ],
+    [
+      "Boots of the Winterlands",
+      "Wondrous Item",
+      "Uncommon",
+      "Yes",
+      "",
+      "10000",
+      "DMG 156"
+    ],
+    [
+      "Bowl of Commanding Water Elementals",
+      "Wondrous Item",
+      "Uncommon",
+      "No",
+      "",
+      "8000",
+      "DMG 156"
+    ],
+    [
+      "Bracers of Archery",
+      "Wondrous Item",
+      "Uncommon",
+      "Yes",
+      "",
+      "1500",
+      "DMG 156"
+    ],
+    [
+      "Bracers of Defense",
+      "Wondrous Item",
+      "Rare",
+      "Yes",
+      "",
+      "6000",
+      "DMG 156"
+    ],
+    [
+      "Brazier of Commanding Fire Elementals",
+      "Wondrous Item",
+      "Rare",
+      "No",
+      "",
+      "8000",
+      "DMG 156"
+    ],
+    [
+      "Bronze Griffon",
+      "Wondrous Item",
+      "Rare",
+      "Yes",
+      "",
+      "8000",
+      "DMG 169"
+    ],
+    [
+      "Bronze Horn of Valhalla",
+      "Wondrous Item",
+      "Very Rare",
+      "No",
+      "",
+      "11200",
+      "DMG 175"
+    ],
+    [
+      "Brooch of Shielding",
+      "Wondrous Item",
+      "Uncommon",
+      "Yes",
+      "",
+      "7500",
+      "DMG 156"
+    ],
+    [
+      "Broom of Flying",
+      "Wondrous Item",
+      "Uncommon",
+      "No",
+      "",
+      "8000",
+      "DMG 156"
+    ],
+    [
+      "Candle of Invocation",
+      "Wondrous Item",
+      "Very Rare",
+      "Yes",
+      "",
+      "",
+      "DMG 157"
+    ],
+    [
+      "Cap of Water Breathing",
+      "Wondrous Item",
+      "Very Rare",
+      "Yes",
+      "",
+      "1000",
+      "DMG 157"
+    ],
+    [
+      "Cape of the Mountebank",
+      "Wondrous Item",
+      "Rare",
+      "No",
+      "",
+      "8000",
+      "DMG 157"
+    ],
+    [
+      "Carpet of Flying",
+      "Wondrous Item",
+      "Very Rare",
+      "No",
+      "",
+      "12000",
+      "DMG 157"
+    ],
+    [
+      "Censer of Controlling Air Elementals",
+      "Wondrous Item",
+      "Rare",
+      "No",
+      "",
+      "8000",
+      "DMG 158"
+    ],
+    [
+      "Chime of Opening",
+      "Wondrous Item",
+      "Rare",
+      "No",
+      "",
+      "1500",
+      "DMG 158"
+    ],
+    [
+      "Circlet of Blasting",
+      "Wondrous Item",
+      "Uncommon",
+      "No",
+      "",
+      "1500",
+      "DMG 158"
+    ],
+    [
+      "Cloak of Arachnida",
+      "Wondrous Item",
+      "Very Rare",
+      "Yes",
+      "",
+      "5000",
+      "DMG 158"
+    ],
+    [
+      "Cloak of Displacement",
+      "Wondrous Item",
+      "Rare",
+      "Yes",
+      "",
+      "60000",
+      "DMG 158"
+    ],
+    [
+      "Cloak of Elvenkind",
+      "Wondrous Item",
+      "Uncommon",
+      "Yes",
+      "",
+      "5000",
+      "DMG 158"
+    ],
+    [
+      "Cloak of Invisibility",
+      "Wondrous Item",
+      "Legendary",
+      "Yes",
+      "",
+      "80000",
+      "DMG 158"
+    ],
+    [
+      "Cloak of Protection",
+      "Wondrous Item",
+      "Uncommon",
+      "Yes",
+      "",
+      "3500",
+      "DMG 159"
+    ],
+    [
+      "Cloak of the Bat",
+      "Wondrous Item",
+      "Rare",
+      "Yes",
+      "",
+      "6000",
+      "DMG 159"
+    ],
+    [
+      "Cloak of the Manta Ray",
+      "Wondrous Item",
+      "Uncommon",
+      "No",
+      "",
+      "6000",
+      "DMG 159"
+    ],
+    [
+      "Crystal Ball",
+      "Wondrous Item",
+      "Very Rare",
+      "Yes",
+      "",
+      "50000",
+      "DMG 159"
+    ],
+    [
+      "Crystal Ball of Mind Reading",
+      "Wondrous Item",
+      "Legendary",
+      "Yes",
+      "",
+      "",
+      "DMG 159"
+    ],
+    [
+      "Crystal Ball of Telepathy",
+      "Wondrous Item",
+      "Legendary",
+      "Yes",
+      "",
+      "",
+      "DMG 159"
+    ],
+    [
+      "Crystal Ball of True Seeing",
+      "Wondrous Item",
+      "Legendary",
+      "Yes",
+      "",
+      "",
+      "DMG 159"
+    ],
+    [
+      "Cube of Force",
+      "Wondrous Item",
+      "Rare",
+      "Yes",
+      "",
+      "16000",
+      "DMG 159"
+    ],
+    [
+      "Cubic Gate",
+      "Wondrous Item",
+      "Legendary",
+      "No",
+      "",
+      "40000",
+      "DMG 160"
+    ],
+    [
+      "Daern's Instant Fortress",
+      "Wondrous Item",
+      "Rare",
+      "No",
+      "",
+      "75000",
+      "DMG 160"
+    ],
+    [
+      "Dagger of Venom",
+      "Weapon",
+      "Rare",
+      "No",
+      "Dagger",
+      "2500",
+      "DMG 161"
+    ],
+    [
+      "Dancing Sword",
+      "Weapon",
+      "Very Rare",
+      "Yes",
+      "Any sword",
+      "2000",
+      "DMG 161"
+    ],
+    [
+      "Decanter of Endless Water",
+      "Wondrous Item",
+      "Uncommon",
+      "No",
+      "",
+      "135000",
+      "DMG 161"
+    ],
+    [
+      "Deck of Illusions",
+      "Wondrous Item",
+      "Uncommon",
+      "No",
+      "",
+      "6120",
+      "DMG 161"
+    ],
+    [
+      "Deck of Many Things",
+      "Wondrous Item",
+      "Legendary",
+      "No",
+      "",
+      "",
+      "DMG 162"
+    ],
+    [
+      "Defender",
+      "Weapon",
+      "Legendary",
+      "Yes",
+      "Any Sword",
+      "24000",
+      "DMG 164"
+    ],
+    [
+      "Demon Armor",
+      "Armor",
+      "Rare",
+      "No",
+      "Plate",
+      "",
+      "DMG 165"
+    ],
+    [
+      "Dimensional Shackles",
+      "Wondrous Item",
+      "Rare",
+      "No",
+      "",
+      "3000",
+      "DMG 165"
+    ],
+    [
+      "Dragon Scale Mail",
+      "Armor",
+      "Very Rare",
+      "Yes",
+      "",
+      "4000",
+      "DMG 165"
+    ],
+    [
+      "Dragon Slayer",
+      "Weapon",
+      "Rare",
+      "No",
+      "Any sword",
+      "8000",
+      "DMG 166"
+    ],
+    [
+      "Driftglobe",
+      "Wondrous Item",
+      "Uncommon",
+      "No",
+      "",
+      "750",
+      "DMG 166"
+    ],
+    [
+      "Dust of Disappearance",
+      "Wondrous Item",
+      "Uncommon",
+      "No",
+      "",
+      "300",
+      "DMG 166"
+    ],
+    [
+      "Dust of Dryness",
+      "Wondrous Item",
+      "Uncommon",
+      "No",
+      "",
+      "120",
+      "DMG 166"
+    ],
+    [
+      "Dust of Sneezing and Choking",
+      "Wondrous Item",
+      "Uncommon",
+      "No",
+      "",
+      "480",
+      "DMG 166"
+    ],
+    [
+      "Dwarven Plate",
+      "Armor",
+      "Very Rare",
+      "No",
+      "Plate",
+      "9000",
+      "DMG 167"
+    ],
+    [
+      "Dwarven Thrower",
+      "Weapon",
+      "Very Rare",
+      "Yes",
+      "Warhammer, dwarf",
+      "18000",
+      "DMG 167"
+    ],
+    [
+      "Efreeti Bottle",
+      "Wondrous Item",
+      "Very Rare",
+      "No",
+      "",
+      "",
+      "DMG 167"
+    ],
+    [
+      "Efreeti Chain",
+      "Armor",
+      "Legendary",
+      "Yes",
+      "Chain mail",
+      "20000",
+      "DMG 167"
+    ],
+    [
+      "Elemental Gem",
+      "Wondrous Item",
+      "Uncommon",
+      "No",
+      "",
+      "960",
+      "DMG 167"
+    ],
+    [
+      "Elixir of Health",
+      "Potion",
+      "Rare",
+      "No",
+      "",
+      "120",
+      "DMG 168"
+    ],
+    [
+      "Elven Chain",
+      "Armor",
+      "Rare",
+      "No",
+      "Chain shirt",
+      "4000",
+      "DMG 168"
+    ],
+    [
+      "Eversmoking Bottle",
+      "Wondrous Item",
+      "Uncommon",
+      "No",
+      "",
+      "1000",
+      "DMG 168"
+    ],
+    [
+      "Eyes of Charming",
+      "Wondrous Item",
+      "Uncommon",
+      "Yes",
+      "",
+      "3000",
+      "DMG 168"
+    ],
+    [
+      "Eyes of Minute Seeing",
+      "Wondrous Item",
+      "Uncommon",
+      "No",
+      "",
+      "2500",
+      "DMG 168"
+    ],
+    [
+      "Eyes of the Eagle",
+      "Wondrous Item",
+      "Uncommon",
+      "Yes",
+      "",
+      "2500",
+      "DMG 168"
+    ],
+    [
+      "Figurine of Wondrous Power, Bronze Griffon",
+      "Wondrous Item",
+      "Rare",
+      "No",
+      "",
+      "8000",
+      "DMG 169"
+    ],
+    [
+      "Figurine of Wondrous Power, Ebony Fly",
+      "Wondrous Item",
+      "Rare",
+      "No",
+      "",
+      "6000",
+      "DMG 169"
+    ],
+    [
+      "Figurine of Wondrous Power, Golden Lions",
+      "Wondrous Item",
+      "Rare",
+      "No",
+      "MM 331",
+      "600",
+      "DMG 169"
+    ],
+    [
+      "Figurine of Wondrous Power, Marble Elephant",
+      "Wondrous Item",
+      "Rare",
+      "No",
+      "MM 332",
+      "6000",
+      "DMG 170"
+    ],
+    [
+      "Figurine of Wondrous Power, Obsidian Steed",
+      "Wondrous Item",
+      "Very Rare",
+      "No",
+      "MM 235",
+      "128000",
+      "DMG 170"
+    ],
+    [
+      "Figurine of Wondrous Power, Onyx Dog",
+      "Wondrous Item",
+      "Rare",
+      "No",
+      "MM 332",
+      "3000",
+      "DMG 170"
+    ],
+    [
+      "Figurine of Wondrous Power, Serpentine Owl",
+      "Wondrous Item",
+      "Rare",
+      "No",
+      "",
+      "8000",
+      "DMG 170"
+    ],
+    [
+      "Figurine of Wondrous Power, Silver Raven",
+      "Wondrous Item",
+      "Uncommon",
+      "No",
+      "MM 335",
+      "5000",
+      "DMG 170"
+    ],
+    [
+      "Flame Tongue",
+      "Weapon",
+      "Rare",
+      "Yes",
+      "Any sword",
+      "5000",
+      "DMG 170"
+    ],
+    [
+      "Folding Boat",
+      "Wondrous Item",
+      "Rare",
+      "No",
+      "",
+      "10000",
+      "DMG 170"
+    ],
+    [
+      "Frost Brand",
+      "Weapon",
+      "Very Rare",
+      "Yes",
+      "Any sword",
+      "2200",
+      "DMG 171"
+    ],
+    [
+      "Gauntlets of Ogre Power",
+      "Wondrous Item",
+      "Uncommon",
+      "Yes",
+      "",
+      "8000",
+      "DMG 171"
+    ],
+    [
+      "Gem of Brightness",
+      "Wondrous Item",
+      "Uncommon",
+      "No",
+      "",
+      "5000",
+      "DMG 171"
+    ],
+    [
+      "Gem of Seeing",
+      "Wondrous Item",
+      "Rare",
+      "Yes",
+      "",
+      "32000",
+      "DMG 172"
+    ],
+    [
+      "Giant Slayer",
+      "Weapon",
+      "Rare",
+      "No",
+      "Any axe or sword",
+      "7000",
+      "DMG 172"
+    ],
+    [
+      "Glamoured Studded Leather",
+      "Armor",
+      "Rare",
+      "No",
+      "Studded leather",
+      "2000",
+      "DMG 172"
+    ],
+    [
+      "Gloves of Missile Snaring",
+      "Wondrous Item",
+      "Uncommon",
+      "Yes",
+      "",
+      "3000",
+      "DMG 172"
+    ],
+    [
+      "Gloves of Swimming and Climbing",
+      "Wondrous Item",
+      "Uncommon",
+      "Yes",
+      "",
+      "2000",
+      "DMG 172"
+    ],
+    [
+      "Gloves of Thievery",
+      "Wondrous Item",
+      "Uncommon",
+      "No",
+      "",
+      "5000",
+      "DMG 172"
+    ],
+    [
+      "Goggles of Night",
+      "Wondrous Item",
+      "Uncommon",
+      "No",
+      "",
+      "1500",
+      "DMG 172"
+    ],
+    [
+      "Hammer of Thunderbolts",
+      "Weapon",
+      "Legendary",
+      "No",
+      "Maul",
+      "16000",
+      "DMG 173"
+    ],
+    [
+      "Hat of Disguise",
+      "Wondrous Item",
+      "Uncommon",
+      "Yes",
+      "",
+      "5000",
+      "DMG 173"
+    ],
+    [
+      "Headband of Intellect",
+      "Wondrous Item",
+      "Uncommon",
+      "Yes",
+      "",
+      "8000",
+      "DMG 173"
+    ],
+    [
+      "Helm of Comprehend Languages",
+      "Wondrous Item",
+      "Uncommon",
+      "No",
+      "",
+      "500",
+      "DMG 173"
+    ],
+    [
+      "Helm of Telepathy",
+      "Wondrous Item",
+      "Uncommon",
+      "Yes",
+      "",
+      "12000",
+      "DMG 174"
+    ],
+    [
+      "Helm of Teleportation",
+      "Wondrous Item",
+      "Rare",
+      "Yes",
+      "",
+      "64000",
+      "DMG 174"
+    ],
+    [
+      "Heward's Handy Haversack",
+      "Wondrous Item",
+      "Rare",
+      "No",
+      "",
+      "2000",
+      "DMG 174"
+    ],
+    [
+      "Holy Avenger",
+      "Weapon",
+      "Legendary",
+      "Yes",
+      "Any sword, Paladin",
+      "165000",
+      "DMG 174"
+    ],
+    [
+      "Horn of Blasting",
+      "Wondrous Item",
+      "Rare",
+      "No",
+      "",
+      "450",
+      "DMG 174"
+    ],
+    [
+      "Horn of Valhalla, Brass",
+      "Wondrous Item",
+      "Rare",
+      "No",
+      "MM 344",
+      "8400",
+      "DMG 175"
+    ],
+    [
+      "Horn of Valhalla, Bronze",
+      "Wondrous Item",
+      "Very Rare",
+      "No",
+      "MM 344",
+      "11200",
+      "DMG 175"
+    ],
+    [
+      "Horn of Valhalla, Iron",
+      "Wondrous Item",
+      "Legendary",
+      "No",
+      "MM 344",
+      "14000",
+      "DMG 175"
+    ],
+    [
+      "Horn of Valhalla, Silver",
+      "Wondrous Item",
+      "Rare",
+      "No",
+      "MM 344",
+      "5600",
+      "DMG 175"
+    ],
+    [
+      "Horsehoes of Speed",
+      "Wondrous Item",
+      "Rare",
+      "No",
+      "",
+      "5000",
+      "DMG 175"
+    ],
+    [
+      "Horsehoes of the Zephyr",
+      "Wondrous Item",
+      "Very Rare",
+      "No",
+      "",
+      "1500",
+      "DMG 175"
+    ],
+    [
+      "Immovable Rod",
+      "Rod",
+      "Uncommon",
+      "No",
+      "",
+      "5000",
+      "DMG 175"
+    ],
+    [
+      "Instrument of the Bards, Anstruth Harp",
+      "Wondrous Item",
+      "Very Rare",
+      "Yes",
+      "Bard",
+      "109000",
+      "DMG 176"
+    ],
+    [
+      "Instrument of the Bards, Canaith Mandolin",
+      "Wondrous Item",
+      "Rare",
+      "Yes",
+      "Bard",
+      "30000",
+      "DMG 176"
+    ],
+    [
+      "Instrument of the Bards, Cli Lyre",
+      "Wondrous Item",
+      "Rare",
+      "Yes",
+      "Bard",
+      "35000",
+      "DMG 176"
+    ],
+    [
+      "Instrument of the Bards, Doss Lute",
+      "Wondrous Item",
+      "Uncommon",
+      "Yes",
+      "Bard",
+      "28500",
+      "DMG 176"
+    ],
+    [
+      "Instrument of the Bards, Fochulan Bandlore",
+      "Wondrous Item",
+      "Uncommon",
+      "Yes",
+      "Bard",
+      "26500",
+      "DMG 176"
+    ],
+    [
+      "Instrument of the Bards, Mac-Fuirmidh Cittern",
+      "Wondrous Item",
+      "Uncommon",
+      "Yes",
+      "Bard",
+      "27000",
+      "DMG 176"
+    ],
+    [
+      "Instrument of the Bards, Ollamh Harp",
+      "Wondrous Item",
+      "Legendary",
+      "Yes",
+      "Bard",
+      "125000",
+      "DMG 176"
+    ],
+    [
+      "Ioun Stone, Absorption",
+      "Wondrous Item",
+      "Very Rare",
+      "Yes",
+      "",
+      "2400",
+      "DMG 177"
+    ],
+    [
+      "Ioun Stone, Agility",
+      "Wondrous Item",
+      "Very Rare",
+      "Yes",
+      "",
+      "3000",
+      "DMG 177"
+    ],
+    [
+      "Ioun Stone, Awareness",
+      "Wondrous Item",
+      "Rare",
+      "Yes",
+      "",
+      "12000",
+      "DMG 177"
+    ],
+    [
+      "Ioun Stone, Fortitude",
+      "Wondrous Item",
+      "Very Rare",
+      "Yes",
+      "",
+      "3000",
+      "DMG 177"
+    ],
+    [
+      "Ioun Stone, Greater Absorption",
+      "Wondrous Item",
+      "Legendary",
+      "Yes",
+      "",
+      "31000",
+      "DMG 177"
+    ],
+    [
+      "Ioun Stone, Insight",
+      "Wondrous Item",
+      "Very Rare",
+      "Yes",
+      "",
+      "3000",
+      "DMG 177"
+    ],
+    [
+      "Ioun Stone, Intellect",
+      "Wondrous Item",
+      "Very Rare",
+      "Yes",
+      "",
+      "3000",
+      "DMG 177"
+    ],
+    [
+      "Ioun Stone, Leadership",
+      "Wondrous Item",
+      "Very Rare",
+      "Yes",
+      "",
+      "3000",
+      "DMG 177"
+    ],
+    [
+      "Ioun Stone, Mastery",
+      "Wondrous Item",
+      "Legendary",
+      "Yes",
+      "",
+      "15000",
+      "DMG 177"
+    ],
+    [
+      "Ioun Stone, Protection",
+      "Wondrous Item",
+      "Rare",
+      "Yes",
+      "",
+      "1200",
+      "DMG 177"
+    ],
+    [
+      "Ioun Stone, Regeneration",
+      "Wondrous Item",
+      "Legendary",
+      "Yes",
+      "",
+      "4000",
+      "DMG 177"
+    ],
+    [
+      "Ioun Stone, Reserve",
+      "Wondrous Item",
+      "Rare",
+      "Yes",
+      "",
+      "6000",
+      "DMG 177"
+    ],
+    [
+      "Ioun Stone, Strength",
+      "Wondrous Item",
+      "Very Rare",
+      "Yes",
+      "",
+      "3000",
+      "DMG 177"
+    ],
+    [
+      "Ioun Stone, Sustenance",
+      "Wondrous Item",
+      "Rare",
+      "Yes",
+      "",
+      "1000",
+      "DMG 177"
+    ],
+    [
+      "Iron Bands of Bilarro",
+      "Wondrous Item",
+      "Rare",
+      "No",
+      "",
+      "4000",
+      "DMG 177"
+    ],
+    [
+      "Iron Flask",
+      "Wondrous Item",
+      "Legendary",
+      "No",
+      "",
+      "",
+      "DMG 178"
+    ],
+    [
+      "Javelin of Lightning",
+      "Weapon",
+      "Uncommon",
+      "No",
+      "Javelin",
+      "1500",
+      "DMG 178"
+    ],
+    [
+      "Keoghtom's Ointment",
+      "Wondrous Item",
+      "Uncommon",
+      "No",
+      "",
+      "120",
+      "DMG 179"
+    ],
+    [
+      "Lantern of Revealing",
+      "Wondrous Item",
+      "Uncommon",
+      "No",
+      "",
+      "5000",
+      "DMG 179"
+    ],
+    [
+      "Luckblade",
+      "Weapon",
+      "Legendary",
+      "Yes",
+      "Any sword",
+      "",
+      "DMG 179"
+    ],
+    [
+      "Luckstone",
+      "Wondrous Item",
+      "Uncommon",
+      "Yes",
+      "",
+      "4200",
+      "DMG 205"
+    ],
+    [
+      "Mace of Disruption",
+      "Weapon",
+      "Rare",
+      "Yes",
+      "Mace",
+      "8000",
+      "DMG 179"
+    ],
+    [
+      "Mace of Smiting",
+      "Weapon",
+      "Rare",
+      "No",
+      "Mace",
+      "7000",
+      "DMG 179"
+    ],
+    [
+      "Mace of Terror",
+      "Weapon",
+      "Rare",
+      "Yes",
+      "Mace",
+      "8000",
+      "DMG 180"
+    ],
+    [
+      "Mantle of Spell Resistance",
+      "Wondrous Item",
+      "Rare",
+      "Yes",
+      "",
+      "30000",
+      "DMG 180"
+    ],
+    [
+      "Manual of Bodily Health",
+      "Wondrous Item",
+      "Very Rare",
+      "No",
+      "",
+      "",
+      "DMG 180"
+    ],
+    [
+      "Manual of Gainful Exercise",
+      "Wondrous Item",
+      "Very Rare",
+      "No",
+      "",
+      "",
+      "DMG 180"
+    ],
+    [
+      "Manual of Golems",
+      "Wondrous Item",
+      "Very Rare",
+      "No",
+      "",
+      "",
+      "DMG 180"
+    ],
+    [
+      "Manual of Quickness of Action",
+      "Wondrous Item",
+      "Very Rare",
+      "No",
+      "",
+      "",
+      "DMG 181"
+    ],
+    [
+      "Mariner's Armor",
+      "Armor",
+      "Uncommon",
+      "No",
+      "",
+      "1500",
+      "DMG 181"
+    ],
+    [
+      "Medallion of Thoughts",
+      "Wondrous Item",
+      "Uncommon",
+      "Yes",
+      "",
+      "3000",
+      "DMG 181"
+    ],
+    [
+      "Mirror of Life Trapping",
+      "Wondrous Item",
+      "Very Rare",
+      "No",
+      "",
+      "18000",
+      "DMG 181"
+    ],
+    [
+      "Mithral Armor",
+      "Wondrous Item",
+      "Uncommon",
+      "No",
+      "Medium or heavy, but not hide",
+      "800",
+      "DMG 182"
+    ],
+    [
+      "Necklace of Adaptation",
+      "Wondrous Item",
+      "Uncommon",
+      "Yes",
+      "",
+      "1500",
+      "DMG 182"
+    ],
+    [
+      "Necklace of Fireballs, One Bead",
+      "Wondrous Item",
+      "Rare",
+      "No",
+      "",
+      "300",
+      "DMG 182"
+    ],
+    [
+      "Necklace of Fireballs, Two Beads",
+      "Wondrous Item",
+      "Rare",
+      "No",
+      "",
+      "480",
+      "DMG 182"
+    ],
+    [
+      "Necklace of Fireballs, Three Beads",
+      "Wondrous Item",
+      "Rare",
+      "No",
+      "",
+      "960",
+      "DMG 182"
+    ],
+    [
+      "Necklace of Fireballs, Four Beads",
+      "Wondrous Item",
+      "Rare",
+      "No",
+      "",
+      "1600",
+      "DMG 182"
+    ],
+    [
+      "Necklace of Fireballs, Five Beads",
+      "Wondrous Item",
+      "Rare",
+      "No",
+      "",
+      "3840",
+      "DMG 182"
+    ],
+    [
+      "Necklace of Fireballs, Six Beads",
+      "Wondrous Item",
+      "Rare",
+      "No",
+      "",
+      "7680",
+      "DMG 182"
+    ],
+    [
+      "Necklace of Prayer Beads, Smiting",
+      "Wondrous Item",
+      "Rare",
+      "Yes",
+      "Cleric, Druid, or Paladin",
+      "1500",
+      "DMG 182"
+    ],
+    [
+      "Necklace of Prayer Beads, Bless",
+      "Wondrous Item",
+      "Rare",
+      "Yes",
+      "Cleric, Druid, or Paladin",
+      "2000",
+      "DMG 182"
+    ],
+    [
+      "Necklace of Prayer Beads, Curing",
+      "Wondrous Item",
+      "Rare",
+      "Yes",
+      "Cleric, Druid, or Paladin",
+      "1500",
+      "DMG 182"
+    ],
+    [
+      "Necklace of Prayer Beads, Favor",
+      "Wondrous Item",
+      "Rare",
+      "Yes",
+      "Cleric, Druid, or Paladin",
+      "32000",
+      "DMG 182"
+    ],
+    [
+      "Necklace of Prayer Beads, Summons",
+      "Wondrous Item",
+      "Rare",
+      "Yes",
+      "Cleric, Druid, or Paladin",
+      "128000",
+      "DMG 182"
+    ],
+    [
+      "Necklace of Prayer Beads, Wind Walking",
+      "Wondrous Item",
+      "Rare",
+      "Yes",
+      "Cleric, Druid, or Paladin",
+      "96000",
+      "DMG 182"
+    ],
+    [
+      "Nine Lives Stealer",
+      "Weapon",
+      "Very Rare",
+      "Yes",
+      "Any sword",
+      "8000",
+      "DMG 183"
+    ],
+    [
+      "Nolzur's Marvelous Pigments",
+      "Wondrous Item",
+      "Very Rare",
+      "No",
+      "",
+      "200",
+      "DMG 183"
+    ],
+    [
+      "Oathbow",
+      "Weapon",
+      "Very Rare",
+      "Yes",
+      "Longbow",
+      "3500",
+      "DMG 183"
+    ],
+    [
+      "Oil of Etherealness",
+      "Potion",
+      "Rare",
+      "No",
+      "",
+      "1920",
+      "DMG 183"
+    ],
+    [
+      "Oil of Sharpness",
+      "Potion",
+      "Very Rare",
+      "No",
+      "",
+      "3200",
+      "DMG 184"
+    ],
+    [
+      "Oil of Slipperiness",
+      "Potion",
+      "Uncommon",
+      "No",
+      "",
+      "480",
+      "DMG 184"
+    ],
+    [
+      "Pearl of Power",
+      "Wondrous Item",
+      "Uncommon",
+      "Yes",
+      "Spellcaster",
+      "6000",
+      "DMG 184"
+    ],
+    [
+      "Periapt of Health",
+      "Wondrous Item",
+      "Uncommon",
+      "No",
+      "",
+      "5000",
+      "DMG 184"
+    ],
+    [
+      "Periapt of Proof Against Poison",
+      "Wondrous Item",
+      "Rare",
+      "No",
+      "",
+      "5000",
+      "DMG 184"
+    ],
+    [
+      "Periapt of Wound Closure",
+      "Wondrous Item",
+      "Uncommon",
+      "Yes",
+      "",
+      "5000",
+      "DMG 184"
+    ],
+    [
+      "Philter of Love",
+      "Potion",
+      "Uncommon",
+      "No",
+      "",
+      "90",
+      "DMG 184"
+    ],
+    [
+      "Pipes of Haunting",
+      "Wondrous Item",
+      "Uncommon",
+      "No",
+      "",
+      "6000",
+      "DMG 185"
+    ],
+    [
+      "Pipes of the Sewers",
+      "Wondrous Item",
+      "Uncommon",
+      "Yes",
+      "",
+      "2000",
+      "DMG 185"
+    ],
+    [
+      "Plate Armor of Etherealness",
+      "Armor",
+      "Legendary",
+      "Yes",
+      "Plate",
+      "48000",
+      "DMG 185"
+    ],
+    [
+      "Portable Hole",
+      "Wondrous Item",
+      "Rare",
+      "No",
+      "",
+      "8000",
+      "DMG 185"
+    ],
+    [
+      "Potion of Animal Friendship",
+      "Potion",
+      "Uncommon",
+      "No",
+      "",
+      "200",
+      "DMG 187"
+    ],
+    [
+      "Potion of Clairvoyance",
+      "Potion",
+      "Rare",
+      "No",
+      "",
+      "960",
+      "DMG 187"
+    ],
+    [
+      "Potion of Climbing",
+      "Potion",
+      "Common",
+      "No",
+      "",
+      "180",
+      "DMG 187"
+    ],
+    [
+      "Potion of Diminution",
+      "Potion",
+      "Rare",
+      "No",
+      "",
+      "270",
+      "DMG 187"
+    ],
+    [
+      "Potion of Fire Breath",
+      "Potion",
+      "Uncommon",
+      "No",
+      "",
+      "150",
+      "DMG 187"
+    ],
+    [
+      "Potion of Flying",
+      "Potion",
+      "Very Rare",
+      "No",
+      "",
+      "500",
+      "DMG 187"
+    ],
+    [
+      "Potion of Gaseous Form",
+      "Potion",
+      "Rare",
+      "No",
+      "",
+      "300",
+      "DMG 187"
+    ],
+    [
+      "Potion of Greater Healing",
+      "Potion",
+      "Uncommon",
+      "No",
+      "",
+      "150",
+      "DMG 187"
+    ],
+    [
+      "Potion of Growth",
+      "Potion",
+      "Uncommon",
+      "No",
+      "",
+      "270",
+      "DMG 187"
+    ],
+    [
+      "Potion of Healing",
+      "Potion",
+      "Common",
+      "No",
+      "",
+      "50",
+      "DMG 187"
+    ],
+    [
+      "Potion of Heroism",
+      "Potion",
+      "Rare",
+      "No",
+      "",
+      "180",
+      "DMG 188"
+    ],
+    [
+      "Potion of Invisibility",
+      "Potion",
+      "Very Rare",
+      "No",
+      "",
+      "180",
+      "DMG 188"
+    ],
+    [
+      "Potion of Invulnerability",
+      "Potion",
+      "Rare",
+      "No",
+      "",
+      "3840",
+      "DMG 188"
+    ],
+    [
+      "Potion of Longevity",
+      "Potion",
+      "Very Rare",
+      "No",
+      "",
+      "9000",
+      "DMG 188"
+    ],
+    [
+      "Potion of Mind Reading",
+      "Potion",
+      "Rare",
+      "No",
+      "",
+      "180",
+      "DMG 188"
+    ],
+    [
+      "Potion of Posion",
+      "Potion",
+      "Uncommon",
+      "No",
+      "",
+      "100",
+      "DMG 188"
+    ],
+    [
+      "Potion of Resistance",
+      "Potion",
+      "Uncommon",
+      "No",
+      "",
+      "300",
+      "DMG 188"
+    ],
+    [
+      "Potion of Speed",
+      "Potion",
+      "Very Rare",
+      "No",
+      "",
+      "400",
+      "DMG 188"
+    ],
+    [
+      "Potion of Superior Healing",
+      "Potion",
+      "Very Rare",
+      "No",
+      "",
+      "450",
+      "DMG 187"
+    ],
+    [
+      "Potion of Supreme Healing",
+      "Potion",
+      "Very Rare",
+      "No",
+      "",
+      "1350",
+      "DMG 187"
+    ],
+    [
+      "Potion of Vitality",
+      "Potion",
+      "Very Rare",
+      "No",
+      "",
+      "960",
+      "DMG 188"
+    ],
+    [
+      "Potion of Water Breathing",
+      "Potion",
+      "Uncommon",
+      "No",
+      "",
+      "180",
+      "DMG 188"
+    ],
+    [
+      "Quaal's Feather Token, Anchor",
+      "Wondrous Item",
+      "Rare",
+      "No",
+      "",
+      "50",
+      "DMG 188"
+    ],
+    [
+      "Quaal's Feather Token, Bird",
+      "Wondrous Item",
+      "Rare",
+      "No",
+      "",
+      "3000",
+      "DMG 188"
+    ],
+    [
+      "Quaal's Feather Token, Fan",
+      "Wondrous Item",
+      "Rare",
+      "No",
+      "",
+      "250",
+      "DMG 188"
+    ],
+    [
+      "Quaal's Feather Token, Swan Boat",
+      "Wondrous Item",
+      "Rare",
+      "No",
+      "",
+      "3000",
+      "DMG 188"
+    ],
+    [
+      "Quaal's Feather Token, Whip",
+      "Wondrous Item",
+      "Rare",
+      "No",
+      "",
+      "250",
+      "DMG 188"
+    ],
+    [
+      "Quiver of Ehlonna",
+      "Wondrous Item",
+      "Uncommon",
+      "No",
+      "",
+      "1000",
+      "DMG 189"
+    ],
+    [
+      "Ring of Air Elemental Command",
+      "Ring",
+      "Legendary",
+      "Yes",
+      "",
+      "35000",
+      "DMG 190"
+    ],
+    [
+      "Ring of Animal Influence",
+      "Ring",
+      "Rare",
+      "No",
+      "",
+      "4000",
+      "DMG 189"
+    ],
+    [
+      "Ring of Djinni Summoning",
+      "Ring",
+      "Legendary",
+      "Yes",
+      "",
+      "",
+      "DMG 190"
+    ],
+    [
+      "Ring of Earth Elemental Command",
+      "Ring",
+      "Legendary",
+      "Yes",
+      "",
+      "31000",
+      "DMG 190"
+    ],
+    [
+      "Ring of Evasion",
+      "Ring",
+      "Rare",
+      "Yes",
+      "",
+      "5000",
+      "DMG 191"
+    ],
+    [
+      "Ring of Feather Falling",
+      "Ring",
+      "Rare",
+      "Yes",
+      "",
+      "2000",
+      "DMG 191"
+    ],
+    [
+      "Ring of Fire Elemental Command",
+      "Ring",
+      "Legendary",
+      "Yes",
+      "",
+      "17000",
+      "DMG 190"
+    ],
+    [
+      "Ring of Free Action",
+      "Ring",
+      "Rare",
+      "Yes",
+      "",
+      "20000",
+      "DMG 191"
+    ],
+    [
+      "Ring of Invisibility",
+      "Ring",
+      "Legendary",
+      "Yes",
+      "",
+      "10000",
+      "DMG 191"
+    ],
+    [
+      "Ring of Jumping",
+      "Ring",
+      "Uncommon",
+      "Yes",
+      "",
+      "2500",
+      "DMG 191"
+    ],
+    [
+      "Ring of Mind Shielding",
+      "Ring",
+      "Uncommon",
+      "Yes",
+      "",
+      "16000",
+      "DMG 191"
+    ],
+    [
+      "Ring of Protection",
+      "Ring",
+      "Rare",
+      "Yes",
+      "",
+      "3500",
+      "DMG 191"
+    ],
+    [
+      "Ring of Regeneration",
+      "Ring",
+      "Very Rare",
+      "Yes",
+      "",
+      "12000",
+      "DMG 191"
+    ],
+    [
+      "Ring of Resistance",
+      "Ring",
+      "Rare",
+      "Yes",
+      "",
+      "6000",
+      "DMG 192"
+    ],
+    [
+      "Ring of Shooting Stars",
+      "Ring",
+      "Very Rare",
+      "Yes",
+      "",
+      "14000",
+      "DMG 192"
+    ],
+    [
+      "Ring of Spell Storing",
+      "Ring",
+      "Rare",
+      "Yes",
+      "",
+      "24000",
+      "DMG 192"
+    ],
+    [
+      "Ring of Spell Turning",
+      "Ring",
+      "Legendary",
+      "Yes",
+      "",
+      "30000",
+      "DMG 193"
+    ],
+    [
+      "Ring of Swimming",
+      "Ring",
+      "Uncommon",
+      "No",
+      "",
+      "3000",
+      "DMG 193"
+    ],
+    [
+      "Ring of Telekinesis",
+      "Ring",
+      "Very Rare",
+      "Yes",
+      "",
+      "80000",
+      "DMG 193"
+    ],
+    [
+      "Ring of The Ram",
+      "Ring",
+      "Rare",
+      "Yes",
+      "",
+      "5000",
+      "DMG 193"
+    ],
+    [
+      "Ring of Three Wishes",
+      "Ring",
+      "Legendary",
+      "No",
+      "",
+      "",
+      "DMG 193"
+    ],
+    [
+      "Ring of Warmth",
+      "Ring",
+      "Uncommon",
+      "Yes",
+      "",
+      "1000",
+      "DMG 193"
+    ],
+    [
+      "Ring of Water Elemental Command",
+      "Ring",
+      "Uncommon",
+      "Yes",
+      "",
+      "25000",
+      "DMG 190"
+    ],
+    [
+      "Ring of Water Walking",
+      "Ring",
+      "Uncommon",
+      "No",
+      "",
+      "1500",
+      "DMG 193"
+    ],
+    [
+      "Ring of X-Ray Vision",
+      "Ring",
+      "Rare",
+      "Yes",
+      "",
+      "6000",
+      "DMG 193"
+    ],
+    [
+      "Robe of Eyes",
+      "Wondrous Item",
+      "Rare",
+      "Yes",
+      "",
+      "30000",
+      "DMG 193"
+    ],
+    [
+      "Robe of Scintillating Colors",
+      "Wondrous Item",
+      "Very Rare",
+      "Yes",
+      "",
+      "6000",
+      "DMG 194"
+    ],
+    [
+      "Robe of Stars",
+      "Wondrous Item",
+      "Very Rare",
+      "Yes",
+      "",
+      "60000",
+      "DMG 194"
+    ],
+    [
+      "Robe of the Archmagi",
+      "Wondrous Item",
+      "Legendary",
+      "Yes",
+      "Sorcerer, Warlock, or Wizard",
+      "34000",
+      "DMG 194"
+    ],
+    [
+      "Robe of Useful Items",
+      "Wondrous Item",
+      "Uncommon",
+      "No",
+      "",
+      "",
+      "DMG 195"
+    ],
+    [
+      "Rod of Absorption",
+      "Rod",
+      "Very Rare",
+      "Yes",
+      "",
+      "50000",
+      "DMG 195"
+    ],
+    [
+      "Rod of Alertness",
+      "Rod",
+      "Very Rare",
+      "Yes",
+      "",
+      "25000",
+      "DMG 196"
+    ],
+    [
+      "Rod of Lordy Might",
+      "Rod",
+      "Legendary",
+      "Yes",
+      "",
+      "28000",
+      "DMG 196"
+    ],
+    [
+      "Rod of Resurrection",
+      "Rod",
+      "Legendary",
+      "Yes",
+      "Cleric, Druid, or Paladin",
+      "",
+      "DMG 196"
+    ],
+    [
+      "Rod of Rulership",
+      "Rod",
+      "Rare",
+      "Yes",
+      "",
+      "16000",
+      "DMG 197"
+    ],
+    [
+      "Rod of Security",
+      "Rod",
+      "Very Rare",
+      "No",
+      "",
+      "16000",
+      "DMG 197"
+    ],
+    [
+      "Rod of the Pact Keeper, +1",
+      "Rod",
+      "Uncommon",
+      "Yes",
+      "Warlock",
+      "12000",
+      "DMG 197"
+    ],
+    [
+      "Rod of the Pact Keeper, +2",
+      "Rod",
+      "Rare",
+      "Yes",
+      "Warlock",
+      "16000",
+      "DMG 197"
+    ],
+    [
+      "Rod of the Pact Keeper, +3",
+      "Rod",
+      "Very Rare",
+      "Yes",
+      "Warlock",
+      "28000",
+      "DMG 197"
+    ],
+    [
+      "Rope of Climbing",
+      "Wondrous Item",
+      "Uncommon",
+      "No",
+      "",
+      "2000",
+      "DMG 197"
+    ],
+    [
+      "Rope of Entanglement",
+      "Wondrous Item",
+      "Rare",
+      "No",
+      "",
+      "4000",
+      "DMG 197"
+    ],
+    [
+      "Saddle of the Cavalier",
+      "Wondrous Item",
+      "Uncommon",
+      "No",
+      "",
+      "2000",
+      "DMG 199"
+    ],
+    [
+      "Scarab of Protection",
+      "Wondrous Item",
+      "Legendary",
+      "Yes",
+      "",
+      "36000",
+      "DMG 199"
+    ],
+    [
+      "Scimitar of Speed",
+      "Weapon",
+      "Very Rare",
+      "Yes",
+      "Scimitar",
+      "6000",
+      "DMG 199"
+    ],
+    [
+      "Scroll of Protection",
+      "Scroll",
+      "Rare",
+      "No",
+      "",
+      "180",
+      "DMG 199"
+    ],
+    [
+      "Sending Stones",
+      "Wondrous Item",
+      "Uncommon",
+      "No",
+      "",
+      "2000",
+      "DMG 199"
+    ],
+    [
+      "Sentinel Shield",
+      "Armor",
+      "Uncommon",
+      "No",
+      "Shield",
+      "20000",
+      "DMG 199"
+    ],
+    [
+      "Shield of Missile Attraction",
+      "Armor",
+      "Rare",
+      "Yes",
+      "Shield",
+      "",
+      "DMG 200"
+    ],
+    [
+      "Shield, +1",
+      "Armor",
+      "Uncommon",
+      "No",
+      "Shield",
+      "1500",
+      "DMG 200"
+    ],
+    [
+      "Shield, +2",
+      "Armor",
+      "Rare",
+      "No",
+      "Shield",
+      "6000",
+      "DMG 200"
+    ],
+    [
+      "Shield, +3",
+      "Armor",
+      "Very Rare",
+      "No",
+      "Shield",
+      "24000",
+      "DMG 200"
+    ],
+    [
+      "Slippers of Spider Climbing",
+      "Wondrous Item",
+      "Uncommon",
+      "Yes",
+      "",
+      "5000",
+      "DMG 200"
+    ],
+    [
+      "Sovereign Glue",
+      "Wondrous Item",
+      "Legendary",
+      "No",
+      "",
+      "400",
+      "DMG 200"
+    ],
+    [
+      "Spell Scroll, Level 0",
+      "Scroll",
+      "Common",
+      "No",
+      "",
+      "10",
+      "DMG 200"
+    ],
+    [
+      "Spell Scroll, Level 1",
+      "Scroll",
+      "Common",
+      "No",
+      "",
+      "60",
+      "DMG 200"
+    ],
+    [
+      "Spell Scroll, Level 2",
+      "Scroll",
+      "Uncommon",
+      "No",
+      "",
+      "120",
+      "DMG 200"
+    ],
+    [
+      "Spell Scroll, Level 3",
+      "Scroll",
+      "Uncommon",
+      "No",
+      "",
+      "200",
+      "DMG 200"
+    ],
+    [
+      "Spell Scroll, Level 4",
+      "Scroll",
+      "Rare",
+      "No",
+      "",
+      "320",
+      "DMG 200"
+    ],
+    [
+      "Spell Scroll, Level 5",
+      "Scroll",
+      "Rare",
+      "No",
+      "",
+      "640",
+      "DMG 200"
+    ],
+    [
+      "Spell Scroll, Level 6",
+      "Scroll",
+      "Very Rare",
+      "No",
+      "",
+      "1280",
+      "DMG 200"
+    ],
+    [
+      "Spell Scroll, Level 7",
+      "Scroll",
+      "Very Rare",
+      "No",
+      "",
+      "2560",
+      "DMG 200"
+    ],
+    [
+      "Spell Scroll, Level 8",
+      "Scroll",
+      "Very Rare",
+      "No",
+      "",
+      "5120",
+      "DMG 200"
+    ],
+    [
+      "Spell Scroll, Level 9",
+      "Scroll",
+      "Legendary",
+      "No",
+      "",
+      "10240",
+      "DMG 200"
+    ],
+    [
+      "Spellguard Shield",
+      "Armor",
+      "Very Rare",
+      "Yes",
+      "Shield",
+      "50000",
+      "DMG 201"
+    ],
+    [
+      "Sphere of Annihilation",
+      "Wondrous Item",
+      "Legendary",
+      "No",
+      "",
+      "15000",
+      "DMG 201"
+    ],
+    [
+      "Staff of Charming",
+      "Staff",
+      "Rare",
+      "Yes",
+      "Bard, Cleric, Druid, Sorcerer, Warlock, or Wizard",
+      "12000",
+      "DMG 201"
+    ],
+    [
+      "Staff of Fire",
+      "Staff",
+      "Very Rare",
+      "Yes",
+      "Druid, Sorcerer, Warlock, or Druid",
+      "16000",
+      "DMG 201"
+    ],
+    [
+      "Staff of Frost",
+      "Staff",
+      "Very Rare",
+      "Yes",
+      "Druid, Sorcerer, Warlock, or Druid",
+      "26000",
+      "DMG 201"
+    ],
+    [
+      "Staff of Healing",
+      "Staff",
+      "Rare",
+      "Yes",
+      "Bard, Cleric, or Druid",
+      "13000",
+      "DMG 202"
+    ],
+    [
+      "Staff of Power",
+      "Staff",
+      "Very Rare",
+      "Yes",
+      "Sorcerer, Warlock, or Druid",
+      "95500",
+      "DMG 202"
+    ],
+    [
+      "Staff of Striking",
+      "Staff",
+      "Very Rare",
+      "Yes",
+      "",
+      "21000",
+      "DMG 203"
+    ],
+    [
+      "Staff of Swarming Insects",
+      "Staff",
+      "Rare",
+      "Yes",
+      "Bard, Cleric, Druid, Sorcerer, Warlock, or Wizard",
+      "16000",
+      "DMG 203"
+    ],
+    [
+      "Staff of the Adder",
+      "Staff",
+      "Uncommon",
+      "Yes",
+      "Cleric, Druid, or Warlock",
+      "1800",
+      "DMG 203"
+    ],
+    [
+      "Staff of the Magi",
+      "Staff",
+      "Legendary",
+      "Yes",
+      "Sorcerer, Warlock, or Wizard",
+      "",
+      "DMG 203"
+    ],
+    [
+      "Staff of the Python",
+      "Staff",
+      "Uncommon",
+      "Yes",
+      "Cleric, Druid, or Warlock",
+      "2000",
+      "DMG 204"
+    ],
+    [
+      "Staff of the Woodlands",
+      "Staff",
+      "Rare",
+      "Yes",
+      "Druid",
+      "44000",
+      "DMG 204"
+    ],
+    [
+      "Staff of Thunder and Lightning",
+      "Staff",
+      "Very Rare",
+      "Yes",
+      "",
+      "10000",
+      "DMG 204"
+    ],
+    [
+      "Staff of Withering",
+      "Staff",
+      "Rare",
+      "Yes",
+      "Cleric, Druid, or Warlock",
+      "3000",
+      "DMG 205"
+    ],
+    [
+      "Stone of Controlling Earth Elementals",
+      "Wondrous Item",
+      "Rare",
+      "No",
+      "",
+      "8000",
+      "DMG 205"
+    ],
+    [
+      "Stone of Good Luck",
+      "Wondrous Item",
+      "Uncommon",
+      "Yes",
+      "Luckstone",
+      "4200",
+      "DMG 205"
+    ],
+    [
+      "Sun Blade",
+      "Weapon",
+      "Rare",
+      "Yes",
+      "Longsword",
+      "12000",
+      "DMG 205"
+    ],
+    [
+      "Sword of Answering",
+      "Weapon",
+      "Legendary",
+      "Yes",
+      "Longsword, by alignment",
+      "36000",
+      "DMG 206"
+    ],
+    [
+      "Sword of Life Stealing",
+      "Weapon",
+      "Rare",
+      "Yes",
+      "Any sword",
+      "1000",
+      "DMG 205"
+    ],
+    [
+      "Sword of Sharpness",
+      "Weapon",
+      "Very Rare",
+      "Yes",
+      "Any sword that deals slashing damage",
+      "1700",
+      "DMG 206"
+    ],
+    [
+      "Sword of Vengeance",
+      "Weapon",
+      "Uncommon",
+      "Yes",
+      "Any Sword",
+      "",
+      "DMG 206"
+    ],
+    [
+      "Sword of Wounding",
+      "Weapon",
+      "Rare",
+      "Yes",
+      "Any Sword",
+      "",
+      "DMG 207"
+    ],
+    [
+      "Talisman of Pure Good",
+      "Wondrous Item",
+      "Legendary",
+      "Yes",
+      "Good alignment",
+      "71680",
+      "DMG 207"
+    ],
+    [
+      "Talisman of The Sphere",
+      "Wondrous Item",
+      "Legendary",
+      "Yes",
+      "",
+      "20000",
+      "DMG 207"
+    ],
+    [
+      "Talisman of Ultimate Evil",
+      "Wondrous Item",
+      "Legendary",
+      "Yes",
+      "Evil alignment",
+      "61440",
+      "DMG 207"
+    ],
+    [
+      "Tentacle Rod",
+      "Rod",
+      "Rare",
+      "Yes",
+      "",
+      "5000",
+      "DMG 208"
+    ],
+    [
+      "Tome of Clear Thought",
+      "Wondrous Item",
+      "Very Rare",
+      "No",
+      "",
+      "",
+      "DMG 208"
+    ],
+    [
+      "Tome of Leadership and Influence",
+      "Wondrous Item",
+      "Very Rare",
+      "No",
+      "",
+      "",
+      "DMG 208"
+    ],
+    [
+      "Tome of Stilled Tongue",
+      "Wondrous Item",
+      "Legendary",
+      "Yes",
+      "Wizard",
+      "",
+      "DMG 208"
+    ],
+    [
+      "Tome of Understanding",
+      "Wondrous Item",
+      "Very Rare",
+      "No",
+      "",
+      "",
+      "DMG 209"
+    ],
+    [
+      "Trident of Fish Command",
+      "Weapon",
+      "Uncommon",
+      "Yes",
+      "Trident",
+      "800",
+      "DMG 209"
+    ],
+    [
+      "Universal Solvent",
+      "Wondrous Item",
+      "Legendary",
+      "No",
+      "",
+      "300",
+      "DMG 209"
+    ],
+    [
+      "Vicious Weapon",
+      "Weapon",
+      "Rare",
+      "No",
+      "",
+      "350",
+      "DMG 209"
+    ],
+    [
+      "Vorpal Sword",
+      "Weapon",
+      "Legendary",
+      "Yes",
+      "Any sword that deals slashing damage",
+      "24000",
+      "DMG 209"
+    ],
+    [
+      "Wand of Binding",
+      "Wand",
+      "Rare",
+      "Yes",
+      "Spellcaster",
+      "10000",
+      "DMG 209"
+    ],
+    [
+      "Wand of Enemy Detection",
+      "Wand",
+      "Rare",
+      "Yes",
+      "",
+      "4000",
+      "DMG 210"
+    ],
+    [
+      "Wand of Fear",
+      "Wand",
+      "Rare",
+      "Yes",
+      "",
+      "10000",
+      "DMG 210"
+    ],
+    [
+      "Wand of Fireballs",
+      "Wand",
+      "Rare",
+      "Yes",
+      "Spellcaster",
+      "32000",
+      "DMG 210"
+    ],
+    [
+      "Wand of Lightning Bolts",
+      "Wand",
+      "Rare",
+      "Yes",
+      "Spellcaster",
+      "32000",
+      "DMG 211"
+    ],
+    [
+      "Wand of Magic Detection",
+      "Wand",
+      "Uncommon",
+      "No",
+      "",
+      "1500",
+      "DMG 211"
+    ],
+    [
+      "Wand of Magic Missiles",
+      "Wand",
+      "Uncommon",
+      "No",
+      "",
+      "8000",
+      "DMG 211"
+    ],
+    [
+      "Wand of Paralysis",
+      "Wand",
+      "Rare",
+      "Yes",
+      "Spellcaster",
+      "16000",
+      "DMG 211"
+    ],
+    [
+      "Wand of Polymorph",
+      "Wand",
+      "Very Rare",
+      "Yes",
+      "Spellcaster",
+      "32000",
+      "DMG 211"
+    ],
+    [
+      "Wand of Secrets",
+      "Wand",
+      "Uncommon",
+      "No",
+      "",
+      "1500",
+      "DMG 211"
+    ],
+    [
+      "Wand of the War Mage, +1",
+      "Wand",
+      "Uncommon",
+      "Yes",
+      "Spellcaster",
+      "1200",
+      "DMG 212"
+    ],
+    [
+      "Wand of the War Mage, +2",
+      "Wand",
+      "Rare",
+      "Yes",
+      "Spellcaster",
+      "4800",
+      "DMG 212"
+    ],
+    [
+      "Wand of the War Mage, +3",
+      "Wand",
+      "Very Rare",
+      "Yes",
+      "Spellcaster",
+      "19200",
+      "DMG 212"
+    ],
+    [
+      "Wand of Web",
+      "Wand",
+      "Uncommon",
+      "Yes",
+      "Spellcaster",
+      "8000",
+      "DMG 212"
+    ],
+    [
+      "Weapon of Warning",
+      "Weapon",
+      "Uncommon",
+      "Yes",
+      "",
+      "60000",
+      "DMG 213"
+    ],
+    [
+      "Weapon, +1",
+      "Weapon",
+      "Uncommon",
+      "Yes",
+      "",
+      "1000",
+      "DMG 213"
+    ],
+    [
+      "Weapon, +2",
+      "Weapon",
+      "Rare",
+      "Yes",
+      "",
+      "4000",
+      "DMG 213"
+    ],
+    [
+      "Weapon, +3",
+      "Weapon",
+      "Very Rare",
+      "Yes",
+      "",
+      "16000",
+      "DMG 213"
+    ],
+    [
+      "Well of Many Worlds",
+      "Wondrous Item",
+      "Legendary",
+      "No",
+      "",
+      "",
+      "DMG 213"
+    ],
+    [
+      "Wind Fan",
+      "Wondrous Item",
+      "Uncommon",
+      "No",
+      "",
+      "1500",
+      "DMG 213"
+    ],
+    [
+      "Winged Boots",
+      "Wondrous Item",
+      "Uncommon",
+      "Yes",
+      "",
+      "8000",
+      "DMG 214"
+    ],
+    [
+      "Wings of Flying",
+      "Wondrous Item",
+      "Rare",
+      "Yes",
+      "",
+      "5000",
+      "DMG 214"
+    ]
+  ]
+}
