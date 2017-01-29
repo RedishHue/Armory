@@ -42,9 +42,9 @@ Prices are copied from the ["Sane Magic Item Prices"](http://www.giantitp.com/fo
 
 
 ###To do
-* *Try* to add descriptions.
-  * Either through pop-up or individual pages.
-  * At the very least for homebrew items
+* Add description for all items through child rows.
+* Style the child rows
+ * Use PHB parchament texture as background?
 * Optimize CSS.
   * Remove unused classes, etc.
   * Take the default DataTables CSS through a formatter for better readability.
