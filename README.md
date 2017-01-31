@@ -7,7 +7,7 @@ Prices are copied from the ["Sane Magic Item Prices"](http://www.giantitp.com/fo
 ###Features
 * Order columns by clicking on them.
 * Order multiple Columns by shiftclicking them in order.
-  * For example, click "Rarity" and then shift-click "Names" to sort any items with the same rarity in alphabetical order.
+ * For example, click "Rarity" and then shift-click "Names" to sort any items with the same rarity in alphabetical order.
 * Enable/Disable Nightmode by clicking the small round buttom in the bottom right corner.
 * Sort Individual Columns by using the search bars and dropdown menus.
 
@@ -16,42 +16,50 @@ Prices are copied from the ["Sane Magic Item Prices"](http://www.giantitp.com/fo
 * Created Github account :D
 * Created and uploaded basic (that means empty) "DataTables" website.
 
-###0.0.2
+###0.1.0
 * Added *all* the items.
 * Added PHB Fonts.
 * Reworked Sorting System.
-  * Added Individual dropdown menus.
-  * Added Individual Added Searchbar.
-  * Shift-clicking now sorts multiple columns.
-  * Now starts with name in alphabetical order (descending).
+ * Added Individual dropdown menus.
+ * Added Individual Added Searchbar.
+ * Shift-clicking now sorts multiple columns.
+ * Now starts with name in alphabetical order (descending).
  
-###0.0.3
+###0.2.0
 * Reworking Sorting, *Again*.
-  * Now sorts rarity correctly.
-  * Now uses Othogonal data.
+ * Now sorts rarity correctly.
+ * Now uses Othogonal data.
 * Corrected Spelling Errors.
 * Corrected Invalid Information.
 * Added Nightmode (small button, buttom right).
 * Removed PHB Fonts.
-  * Looked dreadful with nightmode and having it change fonts was jarring.
+ * Looked dreadful with nightmode and having it change fonts was jarring.
 * Purged Everything because it wasn't updating correctly.
 
-###0.0.4
+###0.2.1
 * Fixed the broken searhbars.
 * Started CSS rewamp.
 
+###0.3.0
+* Added children rows for item descriptions
+* Added animation for expanding children rows
+* added descriptions for items up to Dimensional Shackles (Alphabetical Order).
+* Worked more on CSS
+ * Now mimics the PHB style (especially the descriptions)
+* The Price is now Null rather than "" for items without a price (useful for statements)
+* Attunement is now separated into "display" and "other"
+ * "display" is for the list and is either "Yes" or "No"
+ * "Other" is either "" or "(requires attunement)" for nicer item descriptions. 
+
 
 ###To do
-* Add description for all items through child rows.
+* Add description for the remaining items
 * Style the child rows
- * Use PHB parchament texture as background?
-* Optimize CSS.
-  * Remove unused classes, etc.
-  * Take the default DataTables CSS through a formatter for better readability.
-  * Find out where that one searchbar went...
+ * Have child table mimic the PHB as well?
+* Find out where that one searchbar went...
 * *Try* to make everything look a bit nicer
 * *Try* to do proper nightmode rather than inverting all the colours.
 * *Try* to Add support for non-1920x1080 monitors.
  * Includes mobile, tablets, etc.
-* ~~Write Readme since I keep forgetting what I was doing~~ 
 * Acquire a better URL.
+* Searchbar for item descriptions?
