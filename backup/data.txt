@@ -1,0 +1,4121 @@
+{
+  "data": [
+    {
+		"name":      "Adamantine Armor",
+		"type":      "Armor",
+		"rarity":      {
+      		"display": 	"Uncommon",
+	 		"sort": 	"2"
+	    },
+		"attunement":      "No",
+		"notes":      "Medium or heavy, but not hide",
+		"price":      "500",
+		"source":      "DMG 150",
+        "description": "This suit of armor is reinforced with adamantine, one of the hardest substances in existence. While you're wearing it, any critical hit against you becomes a normal hit."
+    },
+    {
+		"name":      "Alchemy Jug",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Uncommon",
+	 		"sort": 	"2"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "6000",
+		"source":      "DMG 150"
+    },
+    {
+		"name":      "Ammunition, +1",
+		"type":      "Weapon",
+		"rarity":      {
+      		"display": 	"Uncommon",
+	 		"sort": 	"2"
+	    },
+		"attunement":      "No",
+		"notes":      "Any ammunition",
+		"price":      "25",
+		"source":      "DMG 150"
+    },
+    {
+		"name":      "Ammunition, +2",
+		"type":      "Weapon",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "No",
+		"notes":      "Any ammunition",
+		"price":      "100",
+		"source":      "DMG 150"
+    },
+    {
+		"name":      "Ammunition, +3",
+		"type":      "Weapon",
+		"rarity":      {
+      		"display": 	"Very Rare",
+	 		"sort": 	"4"
+	    },
+		"attunement":      "No",
+		"notes":      "Any ammunition",
+		"price":      "400",
+		"source":      "DMG 150"
+    },
+    {
+		"name":      "Amulet of Health",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "Yes",
+		"notes":      "",
+		"price":      "8000",
+		"source":      "DMG 150"
+    },
+    {
+		"name":      "Amulet of Proof Against Detection and Location",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Uncommon",
+	 		"sort": 	"2"
+	    },
+		"attunement":      "Yes",
+		"notes":      "",
+		"price":      "20000",
+		"source":      "DMG 150"
+    },
+    {
+		"name":      "Amulet of the Planes",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Very Rare",
+	 		"sort": 	"4"
+	    },
+		"attunement":      "Yes",
+		"notes":      "",
+		"price":      "160000",
+		"source":      "DMG 150"
+    },
+    {
+		"name":      "Animated Shield",
+		"type":      "Armor",
+		"rarity":      {
+      		"display": 	"Very Rare",
+	 		"sort": 	"4"
+	    },
+		"attunement":      "Yes",
+		"notes":      "Shield",
+		"price":      "6000",
+		"source":      "DMG 151"
+    },
+    {
+		"name":      "Apparatus of Kwalish",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Legendary",
+	 		"sort": 	"5"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "10000",
+		"source":      "DMG 151"
+    },
+    {
+		"name":      "Armor of Invulnerability",
+		"type":      "Armor",
+		"rarity":      {
+      		"display": 	"Legendary",
+	 		"sort": 	"5"
+	    },
+		"attunement":      "Yes",
+		"notes":      "Plate",
+		"price":      "18000",
+		"source":      "DMG 152"
+    },
+    {
+		"name":      "Armor of Resistance",
+		"type":      "Armor",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "Yes",
+		"notes":      "Plate",
+		"price":      "6000",
+		"source":      "DMG 152"
+    },
+    {
+		"name":      "Armor of Vulnerability",
+		"type":      "Armor",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "Yes",
+		"notes":      "Plate",
+		"price":      "",
+		"source":      "DMG 152"
+    },
+    {
+		"name":      "Armor, +1",
+		"type":      "Armor",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "1500",
+		"source":      "DMG 152"
+    },
+    {
+		"name":      "Armor, +2",
+		"type":      "Armor",
+		"rarity":      {
+      		"display": 	"Very Rare",
+	 		"sort": 	"4"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "6000",
+		"source":      "DMG 152"
+    },
+    {
+		"name":      "Armor, +3",
+		"type":      "Armor",
+		"rarity":      {
+      		"display": 	"Legendary",
+	 		"sort": 	"5"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "24000",
+		"source":      "DMG 152"
+    },
+    {
+		"name":      "Arrow of Slaying",
+		"type":      "Weapon",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "No",
+		"notes":      "Arrow",
+		"price":      "600",
+		"source":      "DMG 152"
+    },
+    {
+		"name":      "Arrow of Slaying",
+		"type":      "Weapon",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "No",
+		"notes":      "Arrow",
+		"price":      "600",
+		"source":      "DMG 152"
+    },
+    {
+		"name":      "Arrow-catching Shield",
+		"type":      "Armor",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "Yes",
+		"notes":      "Shield",
+		"price":      "6000",
+		"source":      "DMG 152"
+    },
+    {
+		"name":      "Bag of Beans",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "",
+		"source":      "DMG 152"
+    },
+    {
+		"name":      "Bag of Devouring",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Very Rare",
+	 		"sort": 	"4"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "",
+		"source":      "DMG 153"
+    },
+    {
+		"name":      "Bag of Holding",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Uncommon",
+	 		"sort": 	"2"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "4000",
+		"source":      "DMG 153"
+    },
+    {
+		"name":      "Bag of Tricks",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Uncommon",
+	 		"sort": 	"2"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "",
+		"source":      "DMG 154"
+    },
+    {
+		"name":      "Bead of Force",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "960",
+		"source":      "DMG 154"
+    },
+    {
+		"name":      "Belt of Cloud Giant Strength",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Legendary",
+	 		"sort": 	"5"
+	    },
+		"attunement":      "Yes",
+		"notes":      "",
+		"price":      "",
+		"source":      "DMG 155"
+    },
+    {
+		"name":      "Belt of Dwarvenkind",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "Yes",
+		"notes":      "",
+		"price":      "6000",
+		"source":      "DMG 155"
+    },
+    {
+		"name":      "Belt of Fire Giant Strength",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Very Rare",
+	 		"sort": 	"4"
+	    },
+		"attunement":      "Yes",
+		"notes":      "",
+		"price":      "",
+		"source":      "DMG 155"
+    },
+    {
+		"name":      "Belt of Frost Giant Strength",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Very Rare",
+	 		"sort": 	"4"
+	    },
+		"attunement":      "Yes",
+		"notes":      "",
+		"price":      "",
+		"source":      "DMG 155"
+    },
+    {
+		"name":      "Belt of Hill Giant Strength",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "Yes",
+		"notes":      "",
+		"price":      "",
+		"source":      "DMG 155"
+    },
+    {
+		"name":      "Belt of Stone Giant Strength",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Very Rare",
+	 		"sort": 	"4"
+	    },
+		"attunement":      "Yes",
+		"notes":      "",
+		"price":      "",
+		"source":      "DMG 155"
+    },
+    {
+		"name":      "Belt of Storm Giant Strength",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Legendary",
+	 		"sort": 	"5"
+	    },
+		"attunement":      "Yes",
+		"notes":      "",
+		"price":      "",
+		"source":      "DMG 155"
+    },
+    {
+		"name":      "Berserker Axe",
+		"type":      "Weapon",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "Yes",
+		"notes":      "Any axe",
+		"price":      "",
+		"source":      "DMG 155"
+    },
+    {
+		"name":      "Boots of Elvenkind",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Uncommon",
+	 		"sort": 	"2"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "2500",
+		"source":      "DMG 155"
+    },
+    {
+		"name":      "Boots of Levitation",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "Yes",
+		"notes":      "",
+		"price":      "4000",
+		"source":      "DMG 155"
+    },
+    {
+		"name":      "Boots of Speed",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "Yes",
+		"notes":      "",
+		"price":      "4000",
+		"source":      "DMG 155"
+    },
+    {
+		"name":      "Boots of Striding and Springing",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Uncommon",
+	 		"sort": 	"2"
+	    },
+		"attunement":      "Yes",
+		"notes":      "",
+		"price":      "5000",
+		"source":      "DMG 156"
+    },
+    {
+		"name":      "Boots of the Winterlands",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Uncommon",
+	 		"sort": 	"2"
+	    },
+		"attunement":      "Yes",
+		"notes":      "",
+		"price":      "10000",
+		"source":      "DMG 156"
+    },
+    {
+		"name":      "Bowl of Commanding Water Elementals",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Uncommon",
+	 		"sort": 	"2"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "8000",
+		"source":      "DMG 156"
+    },
+    {
+		"name":      "Bracers of Archery",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Uncommon",
+	 		"sort": 	"2"
+	    },
+		"attunement":      "Yes",
+		"notes":      "",
+		"price":      "1500",
+		"source":      "DMG 156"
+    },
+    {
+		"name":      "Bracers of Defense",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "Yes",
+		"notes":      "",
+		"price":      "6000",
+		"source":      "DMG 156"
+    },
+    {
+		"name":      "Brazier of Commanding Fire Elementals",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "8000",
+		"source":      "DMG 156"
+    },
+    {
+		"name":      "Bronze Griffon",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "Yes",
+		"notes":      "",
+		"price":      "8000",
+		"source":      "DMG 169"
+    },
+    {
+		"name":      "Bronze Horn of Valhalla",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Very Rare",
+	 		"sort": 	"4"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "11200",
+		"source":      "DMG 175"
+    },
+    {
+		"name":      "Brooch of Shielding",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Uncommon",
+	 		"sort": 	"2"
+	    },
+		"attunement":      "Yes",
+		"notes":      "",
+		"price":      "7500",
+		"source":      "DMG 156"
+    },
+    {
+		"name":      "Broom of Flying",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Uncommon",
+	 		"sort": 	"2"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "8000",
+		"source":      "DMG 156"
+    },
+    {
+		"name":      "Candle of Invocation",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Very Rare",
+	 		"sort": 	"4"
+	    },
+		"attunement":      "Yes",
+		"notes":      "",
+		"price":      "",
+		"source":      "DMG 157"
+    },
+    {
+		"name":      "Cap of Water Breathing",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Very Rare",
+	 		"sort": 	"4"
+	    },
+		"attunement":      "Yes",
+		"notes":      "",
+		"price":      "1000",
+		"source":      "DMG 157"
+    },
+    {
+		"name":      "Cape of the Mountebank",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "8000",
+		"source":      "DMG 157"
+    },
+    {
+		"name":      "Carpet of Flying",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Very Rare",
+	 		"sort": 	"4"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "12000",
+		"source":      "DMG 157"
+    },
+    {
+		"name":      "Censer of Controlling Air Elementals",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "8000",
+		"source":      "DMG 158"
+    },
+    {
+		"name":      "Chime of Opening",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "1500",
+		"source":      "DMG 158"
+    },
+    {
+		"name":      "Circlet of Blasting",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Uncommon",
+	 		"sort": 	"2"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "1500",
+		"source":      "DMG 158"
+    },
+    {
+		"name":      "Cloak of Arachnida",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Very Rare",
+	 		"sort": 	"4"
+	    },
+		"attunement":      "Yes",
+		"notes":      "",
+		"price":      "5000",
+		"source":      "DMG 158"
+    },
+    {
+		"name":      "Cloak of Displacement",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "Yes",
+		"notes":      "",
+		"price":      "60000",
+		"source":      "DMG 158"
+    },
+    {
+		"name":      "Cloak of Elvenkind",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Uncommon",
+	 		"sort": 	"2"
+	    },
+		"attunement":      "Yes",
+		"notes":      "",
+		"price":      "5000",
+		"source":      "DMG 158"
+    },
+    {
+		"name":      "Cloak of Invisibility",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Legendary",
+	 		"sort": 	"5"
+	    },
+		"attunement":      "Yes",
+		"notes":      "",
+		"price":      "80000",
+		"source":      "DMG 158"
+    },
+    {
+		"name":      "Cloak of Protection",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Uncommon",
+	 		"sort": 	"2"
+	    },
+		"attunement":      "Yes",
+		"notes":      "",
+		"price":      "3500",
+		"source":      "DMG 159"
+    },
+    {
+		"name":      "Cloak of the Bat",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "Yes",
+		"notes":      "",
+		"price":      "6000",
+		"source":      "DMG 159"
+    },
+    {
+		"name":      "Cloak of the Manta Ray",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Uncommon",
+	 		"sort": 	"2"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "6000",
+		"source":      "DMG 159"
+    },
+    {
+		"name":      "Crystal Ball",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Very Rare",
+	 		"sort": 	"4"
+	    },
+		"attunement":      "Yes",
+		"notes":      "",
+		"price":      "50000",
+		"source":      "DMG 159"
+    },
+    {
+		"name":      "Crystal Ball of Mind Reading",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Legendary",
+	 		"sort": 	"5"
+	    },
+		"attunement":      "Yes",
+		"notes":      "",
+		"price":      "",
+		"source":      "DMG 159"
+    },
+    {
+		"name":      "Crystal Ball of Telepathy",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Legendary",
+	 		"sort": 	"5"
+	    },
+		"attunement":      "Yes",
+		"notes":      "",
+		"price":      "",
+		"source":      "DMG 159"
+    },
+    {
+		"name":      "Crystal Ball of True Seeing",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Legendary",
+	 		"sort": 	"5"
+	    },
+		"attunement":      "Yes",
+		"notes":      "",
+		"price":      "",
+		"source":      "DMG 159"
+    },
+    {
+		"name":      "Cube of Force",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "Yes",
+		"notes":      "",
+		"price":      "16000",
+		"source":      "DMG 159"
+    },
+    {
+		"name":      "Cubic Gate",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Legendary",
+	 		"sort": 	"5"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "40000",
+		"source":      "DMG 160"
+    },
+    {
+		"name":      "Daern's Instant Fortress",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "75000",
+		"source":      "DMG 160"
+    },
+    {
+		"name":      "Dagger of Venom",
+		"type":      "Weapon",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "No",
+		"notes":      "Dagger",
+		"price":      "2500",
+		"source":      "DMG 161"
+    },
+    {
+		"name":      "Dancing Sword",
+		"type":      "Weapon",
+		"rarity":      {
+      		"display": 	"Very Rare",
+	 		"sort": 	"4"
+	    },
+		"attunement":      "Yes",
+		"notes":      "Any sword",
+		"price":      "2000",
+		"source":      "DMG 161"
+    },
+    {
+		"name":      "Decanter of Endless Water",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Uncommon",
+	 		"sort": 	"2"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "135000",
+		"source":      "DMG 161"
+    },
+    {
+		"name":      "Deck of Illusions",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Uncommon",
+	 		"sort": 	"2"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "6120",
+		"source":      "DMG 161"
+    },
+    {
+		"name":      "Deck of Many Things",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Legendary",
+	 		"sort": 	"5"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "",
+		"source":      "DMG 162"
+    },
+    {
+		"name":      "Defender",
+		"type":      "Weapon",
+		"rarity":      {
+      		"display": 	"Legendary",
+	 		"sort": 	"5"
+	    },
+		"attunement":      "Yes",
+		"notes":      "Any Sword",
+		"price":      "24000",
+		"source":      "DMG 164"
+    },
+    {
+		"name":      "Demon Armor",
+		"type":      "Armor",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "No",
+		"notes":      "Plate",
+		"price":      "",
+		"source":      "DMG 165"
+    },
+    {
+		"name":      "Dimensional Shackles",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "3000",
+		"source":      "DMG 165"
+    },
+    {
+		"name":      "Dragon Scale Mail",
+		"type":      "Armor",
+		"rarity":      {
+      		"display": 	"Very Rare",
+	 		"sort": 	"4"
+	    },
+		"attunement":      "Yes",
+		"notes":      "",
+		"price":      "4000",
+		"source":      "DMG 165"
+    },
+    {
+		"name":      "Dragon Slayer",
+		"type":      "Weapon",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "No",
+		"notes":      "Any sword",
+		"price":      "8000",
+		"source":      "DMG 166"
+    },
+    {
+		"name":      "Driftglobe",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Uncommon",
+	 		"sort": 	"2"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "750",
+		"source":      "DMG 166"
+    },
+    {
+		"name":      "Dust of Disappearance",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Uncommon",
+	 		"sort": 	"2"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "300",
+		"source":      "DMG 166"
+    },
+    {
+		"name":      "Dust of Dryness",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Uncommon",
+	 		"sort": 	"2"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "120",
+		"source":      "DMG 166"
+    },
+    {
+		"name":      "Dust of Sneezing and Choking",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Uncommon",
+	 		"sort": 	"2"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "480",
+		"source":      "DMG 166"
+    },
+    {
+		"name":      "Dwarven Plate",
+		"type":      "Armor",
+		"rarity":      {
+      		"display": 	"Very Rare",
+	 		"sort": 	"4"
+	    },
+		"attunement":      "No",
+		"notes":      "Plate",
+		"price":      "9000",
+		"source":      "DMG 167"
+    },
+    {
+		"name":      "Dwarven Thrower",
+		"type":      "Weapon",
+		"rarity":      {
+      		"display": 	"Very Rare",
+	 		"sort": 	"4"
+	    },
+		"attunement":      "Yes",
+		"notes":      "Warhammer, dwarf",
+		"price":      "18000",
+		"source":      "DMG 167"
+    },
+    {
+		"name":      "Efreeti Bottle",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Very Rare",
+	 		"sort": 	"4"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "",
+		"source":      "DMG 167"
+    },
+    {
+		"name":      "Efreeti Chain",
+		"type":      "Armor",
+		"rarity":      {
+      		"display": 	"Legendary",
+	 		"sort": 	"5"
+	    },
+		"attunement":      "Yes",
+		"notes":      "Chain mail",
+		"price":      "20000",
+		"source":      "DMG 167"
+    },
+    {
+		"name":      "Elemental Gem",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Uncommon",
+	 		"sort": 	"2"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "960",
+		"source":      "DMG 167"
+    },
+    {
+		"name":      "Elixir of Health",
+		"type":      "Potion",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "120",
+		"source":      "DMG 168"
+    },
+    {
+		"name":      "Elven Chain",
+		"type":      "Armor",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "No",
+		"notes":      "Chain shirt",
+		"price":      "4000",
+		"source":      "DMG 168"
+    },
+    {
+		"name":      "Eversmoking Bottle",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Uncommon",
+	 		"sort": 	"2"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "1000",
+		"source":      "DMG 168"
+    },
+    {
+		"name":      "Eyes of Charming",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Uncommon",
+	 		"sort": 	"2"
+	    },
+		"attunement":      "Yes",
+		"notes":      "",
+		"price":      "3000",
+		"source":      "DMG 168"
+    },
+    {
+		"name":      "Eyes of Minute Seeing",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Uncommon",
+	 		"sort": 	"2"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "2500",
+		"source":      "DMG 168"
+    },
+    {
+		"name":      "Eyes of the Eagle",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Uncommon",
+	 		"sort": 	"2"
+	    },
+		"attunement":      "Yes",
+		"notes":      "",
+		"price":      "2500",
+		"source":      "DMG 168"
+    },
+    {
+		"name":      "Figurine of Wondrous Power, Bronze Griffon",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "8000",
+		"source":      "DMG 169"
+    },
+    {
+		"name":      "Figurine of Wondrous Power, Ebony Fly",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "6000",
+		"source":      "DMG 169"
+    },
+    {
+		"name":      "Figurine of Wondrous Power, Golden Lions",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "No",
+		"notes":      "MM 331",
+		"price":      "600",
+		"source":      "DMG 169"
+    },
+    {
+		"name":      "Figurine of Wondrous Power, Marble Elephant",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "No",
+		"notes":      "MM 332",
+		"price":      "6000",
+		"source":      "DMG 170"
+    },
+    {
+		"name":      "Figurine of Wondrous Power, Obsidian Steed",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Very Rare",
+	 		"sort": 	"4"
+	    },
+		"attunement":      "No",
+		"notes":      "MM 235",
+		"price":      "128000",
+		"source":      "DMG 170"
+    },
+    {
+		"name":      "Figurine of Wondrous Power, Onyx Dog",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "No",
+		"notes":      "MM 332",
+		"price":      "3000",
+		"source":      "DMG 170"
+    },
+    {
+		"name":      "Figurine of Wondrous Power, Serpentine Owl",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "8000",
+		"source":      "DMG 170"
+    },
+    {
+		"name":      "Figurine of Wondrous Power, Silver Raven",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Uncommon",
+	 		"sort": 	"2"
+	    },
+		"attunement":      "No",
+		"notes":      "MM 335",
+		"price":      "5000",
+		"source":      "DMG 170"
+    },
+    {
+		"name":      "Flame Tongue",
+		"type":      "Weapon",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "Yes",
+		"notes":      "Any sword",
+		"price":      "5000",
+		"source":      "DMG 170"
+    },
+    {
+		"name":      "Folding Boat",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "10000",
+		"source":      "DMG 170"
+    },
+    {
+		"name":      "Frost Brand",
+		"type":      "Weapon",
+		"rarity":      {
+      		"display": 	"Very Rare",
+	 		"sort": 	"4"
+	    },
+		"attunement":      "Yes",
+		"notes":      "Any sword",
+		"price":      "2200",
+		"source":      "DMG 171"
+    },
+    {
+		"name":      "Gauntlets of Ogre Power",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Uncommon",
+	 		"sort": 	"2"
+	    },
+		"attunement":      "Yes",
+		"notes":      "",
+		"price":      "8000",
+		"source":      "DMG 171"
+    },
+    {
+		"name":      "Gem of Brightness",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Uncommon",
+	 		"sort": 	"2"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "5000",
+		"source":      "DMG 171"
+    },
+    {
+		"name":      "Gem of Seeing",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "Yes",
+		"notes":      "",
+		"price":      "32000",
+		"source":      "DMG 172"
+    },
+    {
+		"name":      "Giant Slayer",
+		"type":      "Weapon",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "No",
+		"notes":      "Any axe or sword",
+		"price":      "7000",
+		"source":      "DMG 172"
+    },
+    {
+		"name":      "Glamoured Studded Leather",
+		"type":      "Armor",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "No",
+		"notes":      "Studded leather",
+		"price":      "2000",
+		"source":      "DMG 172"
+    },
+    {
+		"name":      "Gloves of Missile Snaring",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Uncommon",
+	 		"sort": 	"2"
+	    },
+		"attunement":      "Yes",
+		"notes":      "",
+		"price":      "3000",
+		"source":      "DMG 172"
+    },
+    {
+		"name":      "Gloves of Swimming and Climbing",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Uncommon",
+	 		"sort": 	"2"
+	    },
+		"attunement":      "Yes",
+		"notes":      "",
+		"price":      "2000",
+		"source":      "DMG 172"
+    },
+    {
+		"name":      "Gloves of Thievery",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Uncommon",
+	 		"sort": 	"2"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "5000",
+		"source":      "DMG 172"
+    },
+    {
+		"name":      "Goggles of Night",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Uncommon",
+	 		"sort": 	"2"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "1500",
+		"source":      "DMG 172"
+    },
+    {
+		"name":      "Hammer of Thunderbolts",
+		"type":      "Weapon",
+		"rarity":      {
+      		"display": 	"Legendary",
+	 		"sort": 	"5"
+	    },
+		"attunement":      "No",
+		"notes":      "Maul",
+		"price":      "16000",
+		"source":      "DMG 173"
+    },
+    {
+		"name":      "Hat of Disguise",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Uncommon",
+	 		"sort": 	"2"
+	    },
+		"attunement":      "Yes",
+		"notes":      "",
+		"price":      "5000",
+		"source":      "DMG 173"
+    },
+    {
+		"name":      "Headband of Intellect",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Uncommon",
+	 		"sort": 	"2"
+	    },
+		"attunement":      "Yes",
+		"notes":      "",
+		"price":      "8000",
+		"source":      "DMG 173"
+    },
+    {
+		"name":      "Helm of Comprehend Languages",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Uncommon",
+	 		"sort": 	"2"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "500",
+		"source":      "DMG 173"
+    },
+    {
+		"name":      "Helm of Telepathy",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Uncommon",
+	 		"sort": 	"2"
+	    },
+		"attunement":      "Yes",
+		"notes":      "",
+		"price":      "12000",
+		"source":      "DMG 174"
+    },
+    {
+		"name":      "Helm of Teleportation",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "Yes",
+		"notes":      "",
+		"price":      "64000",
+		"source":      "DMG 174"
+    },
+    {
+		"name":      "Heward's Handy Haversack",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "2000",
+		"source":      "DMG 174"
+    },
+    {
+		"name":      "Holy Avenger",
+		"type":      "Weapon",
+		"rarity":      {
+      		"display": 	"Legendary",
+	 		"sort": 	"5"
+	    },
+		"attunement":      "Yes",
+		"notes":      "Any sword, Paladin",
+		"price":      "165000",
+		"source":      "DMG 174"
+    },
+    {
+		"name":      "Horn of Blasting",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "450",
+		"source":      "DMG 174"
+    },
+    {
+		"name":      "Horn of Valhalla, Brass",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "No",
+		"notes":      "MM 344",
+		"price":      "8400",
+		"source":      "DMG 175"
+    },
+    {
+		"name":      "Horn of Valhalla, Bronze",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Very Rare",
+	 		"sort": 	"4"
+	    },
+		"attunement":      "No",
+		"notes":      "MM 344",
+		"price":      "11200",
+		"source":      "DMG 175"
+    },
+    {
+		"name":      "Horn of Valhalla, Iron",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Legendary",
+	 		"sort": 	"5"
+	    },
+		"attunement":      "No",
+		"notes":      "MM 344",
+		"price":      "14000",
+		"source":      "DMG 175"
+    },
+    {
+		"name":      "Horn of Valhalla, Silver",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "No",
+		"notes":      "MM 344",
+		"price":      "5600",
+		"source":      "DMG 175"
+    },
+    {
+		"name":      "Horsehoes of Speed",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "5000",
+		"source":      "DMG 175"
+    },
+    {
+		"name":      "Horsehoes of the Zephyr",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Very Rare",
+	 		"sort": 	"4"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "1500",
+		"source":      "DMG 175"
+    },
+    {
+		"name":      "Immovable Rod",
+		"type":      "Rod",
+		"rarity":      {
+      		"display": 	"Uncommon",
+	 		"sort": 	"2"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "5000",
+		"source":      "DMG 175"
+    },
+    {
+		"name":      "Instrument of the Bards, Anstruth Harp",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Very Rare",
+	 		"sort": 	"4"
+	    },
+		"attunement":      "Yes",
+		"notes":      "Bard",
+		"price":      "109000",
+		"source":      "DMG 176"
+    },
+    {
+		"name":      "Instrument of the Bards, Canaith Mandolin",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "Yes",
+		"notes":      "Bard",
+		"price":      "30000",
+		"source":      "DMG 176"
+    },
+    {
+		"name":      "Instrument of the Bards, Cli Lyre",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "Yes",
+		"notes":      "Bard",
+		"price":      "35000",
+		"source":      "DMG 176"
+    },
+    {
+		"name":      "Instrument of the Bards, Doss Lute",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Uncommon",
+	 		"sort": 	"2"
+	    },
+		"attunement":      "Yes",
+		"notes":      "Bard",
+		"price":      "28500",
+		"source":      "DMG 176"
+    },
+    {
+		"name":      "Instrument of the Bards, Fochulan Bandlore",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Uncommon",
+	 		"sort": 	"2"
+	    },
+		"attunement":      "Yes",
+		"notes":      "Bard",
+		"price":      "26500",
+		"source":      "DMG 176"
+    },
+    {
+		"name":      "Instrument of the Bards, Mac-Fuirmidh Cittern",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Uncommon",
+	 		"sort": 	"2"
+	    },
+		"attunement":      "Yes",
+		"notes":      "Bard",
+		"price":      "27000",
+		"source":      "DMG 176"
+    },
+    {
+		"name":      "Instrument of the Bards, Ollamh Harp",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Legendary",
+	 		"sort": 	"5"
+	    },
+		"attunement":      "Yes",
+		"notes":      "Bard",
+		"price":      "125000",
+		"source":      "DMG 176"
+    },
+    {
+		"name":      "Ioun Stone, Absorption",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Very Rare",
+	 		"sort": 	"4"
+	    },
+		"attunement":      "Yes",
+		"notes":      "",
+		"price":      "2400",
+		"source":      "DMG 177"
+    },
+    {
+		"name":      "Ioun Stone, Agility",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Very Rare",
+	 		"sort": 	"4"
+	    },
+		"attunement":      "Yes",
+		"notes":      "",
+		"price":      "3000",
+		"source":      "DMG 177"
+    },
+    {
+		"name":      "Ioun Stone, Awareness",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "Yes",
+		"notes":      "",
+		"price":      "12000",
+		"source":      "DMG 177"
+    },
+    {
+		"name":      "Ioun Stone, Fortitude",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Very Rare",
+	 		"sort": 	"4"
+	    },
+		"attunement":      "Yes",
+		"notes":      "",
+		"price":      "3000",
+		"source":      "DMG 177"
+    },
+    {
+		"name":      "Ioun Stone, Greater Absorption",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Legendary",
+	 		"sort": 	"5"
+	    },
+		"attunement":      "Yes",
+		"notes":      "",
+		"price":      "31000",
+		"source":      "DMG 177"
+    },
+    {
+		"name":      "Ioun Stone, Insight",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Very Rare",
+	 		"sort": 	"4"
+	    },
+		"attunement":      "Yes",
+		"notes":      "",
+		"price":      "3000",
+		"source":      "DMG 177"
+    },
+    {
+		"name":      "Ioun Stone, Intellect",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Very Rare",
+	 		"sort": 	"4"
+	    },
+		"attunement":      "Yes",
+		"notes":      "",
+		"price":      "3000",
+		"source":      "DMG 177"
+    },
+    {
+		"name":      "Ioun Stone, Leadership",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Very Rare",
+	 		"sort": 	"4"
+	    },
+		"attunement":      "Yes",
+		"notes":      "",
+		"price":      "3000",
+		"source":      "DMG 177"
+    },
+    {
+		"name":      "Ioun Stone, Mastery",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Legendary",
+	 		"sort": 	"5"
+	    },
+		"attunement":      "Yes",
+		"notes":      "",
+		"price":      "15000",
+		"source":      "DMG 177"
+    },
+    {
+		"name":      "Ioun Stone, Protection",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "Yes",
+		"notes":      "",
+		"price":      "1200",
+		"source":      "DMG 177"
+    },
+    {
+		"name":      "Ioun Stone, Regeneration",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Legendary",
+	 		"sort": 	"5"
+	    },
+		"attunement":      "Yes",
+		"notes":      "",
+		"price":      "4000",
+		"source":      "DMG 177"
+    },
+    {
+		"name":      "Ioun Stone, Reserve",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "Yes",
+		"notes":      "",
+		"price":      "6000",
+		"source":      "DMG 177"
+    },
+    {
+		"name":      "Ioun Stone, Strength",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Very Rare",
+	 		"sort": 	"4"
+	    },
+		"attunement":      "Yes",
+		"notes":      "",
+		"price":      "3000",
+		"source":      "DMG 177"
+    },
+    {
+		"name":      "Ioun Stone, Sustenance",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "Yes",
+		"notes":      "",
+		"price":      "1000",
+		"source":      "DMG 177"
+    },
+    {
+		"name":      "Iron Bands of Bilarro",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "4000",
+		"source":      "DMG 177"
+    },
+    {
+		"name":      "Iron Flask",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Legendary",
+	 		"sort": 	"5"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "",
+		"source":      "DMG 178"
+    },
+    {
+		"name":      "Javelin of Lightning",
+		"type":      "Weapon",
+		"rarity":      {
+      		"display": 	"Uncommon",
+	 		"sort": 	"2"
+	    },
+		"attunement":      "No",
+		"notes":      "Javelin",
+		"price":      "1500",
+		"source":      "DMG 178"
+    },
+    {
+		"name":      "Keoghtom's Ointment",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Uncommon",
+	 		"sort": 	"2"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "120",
+		"source":      "DMG 179"
+    },
+    {
+		"name":      "Lantern of Revealing",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Uncommon",
+	 		"sort": 	"2"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "5000",
+		"source":      "DMG 179"
+    },
+    {
+		"name":      "Luckblade",
+		"type":      "Weapon",
+		"rarity":      {
+      		"display": 	"Legendary",
+	 		"sort": 	"5"
+	    },
+		"attunement":      "Yes",
+		"notes":      "Any sword",
+		"price":      "",
+		"source":      "DMG 179"
+    },
+    {
+		"name":      "Luckstone",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Uncommon",
+	 		"sort": 	"2"
+	    },
+		"attunement":      "Yes",
+		"notes":      "",
+		"price":      "4200",
+		"source":      "DMG 205"
+    },
+    {
+		"name":      "Mace of Disruption",
+		"type":      "Weapon",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "Yes",
+		"notes":      "Mace",
+		"price":      "8000",
+		"source":      "DMG 179"
+    },
+    {
+		"name":      "Mace of Smiting",
+		"type":      "Weapon",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "No",
+		"notes":      "Mace",
+		"price":      "7000",
+		"source":      "DMG 179"
+    },
+    {
+		"name":      "Mace of Terror",
+		"type":      "Weapon",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "Yes",
+		"notes":      "Mace",
+		"price":      "8000",
+		"source":      "DMG 180"
+    },
+    {
+		"name":      "Mantle of Spell Resistance",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "Yes",
+		"notes":      "",
+		"price":      "30000",
+		"source":      "DMG 180"
+    },
+    {
+		"name":      "Manual of Bodily Health",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Very Rare",
+	 		"sort": 	"4"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "",
+		"source":      "DMG 180"
+    },
+    {
+		"name":      "Manual of Gainful Exercise",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Very Rare",
+	 		"sort": 	"4"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "",
+		"source":      "DMG 180"
+    },
+    {
+		"name":      "Manual of Golems",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Very Rare",
+	 		"sort": 	"4"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "",
+		"source":      "DMG 180"
+    },
+    {
+		"name":      "Manual of Quickness of Action",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Very Rare",
+	 		"sort": 	"4"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "",
+		"source":      "DMG 181"
+    },
+    {
+		"name":      "Mariner's Armor",
+		"type":      "Armor",
+		"rarity":      {
+      		"display": 	"Uncommon",
+	 		"sort": 	"2"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "1500",
+		"source":      "DMG 181"
+    },
+    {
+		"name":      "Medallion of Thoughts",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Uncommon",
+	 		"sort": 	"2"
+	    },
+		"attunement":      "Yes",
+		"notes":      "",
+		"price":      "3000",
+		"source":      "DMG 181"
+    },
+    {
+		"name":      "Mirror of Life Trapping",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Very Rare",
+	 		"sort": 	"4"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "18000",
+		"source":      "DMG 181"
+    },
+    {
+		"name":      "Mithral Armor",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Uncommon",
+	 		"sort": 	"2"
+	    },
+		"attunement":      "No",
+		"notes":      "Medium or heavy, but not hide",
+		"price":      "800",
+		"source":      "DMG 182"
+    },
+    {
+		"name":      "Necklace of Adaptation",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Uncommon",
+	 		"sort": 	"2"
+	    },
+		"attunement":      "Yes",
+		"notes":      "",
+		"price":      "1500",
+		"source":      "DMG 182"
+    },
+    {
+		"name":      "Necklace of Fireballs, One Bead",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "300",
+		"source":      "DMG 182"
+    },
+    {
+		"name":      "Necklace of Fireballs, Two Beads",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "480",
+		"source":      "DMG 182"
+    },
+    {
+		"name":      "Necklace of Fireballs, Three Beads",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "960",
+		"source":      "DMG 182"
+    },
+    {
+		"name":      "Necklace of Fireballs, Four Beads",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "1600",
+		"source":      "DMG 182"
+    },
+    {
+		"name":      "Necklace of Fireballs, Five Beads",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "3840",
+		"source":      "DMG 182"
+    },
+    {
+		"name":      "Necklace of Fireballs, Six Beads",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "7680",
+		"source":      "DMG 182"
+    },
+    {
+		"name":      "Necklace of Prayer Beads, Smiting",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "Yes",
+		"notes":      "Cleric, Druid, or Paladin",
+		"price":      "1500",
+		"source":      "DMG 182"
+    },
+    {
+		"name":      "Necklace of Prayer Beads, Bless",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "Yes",
+		"notes":      "Cleric, Druid, or Paladin",
+		"price":      "2000",
+		"source":      "DMG 182"
+    },
+    {
+		"name":      "Necklace of Prayer Beads, Curing",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "Yes",
+		"notes":      "Cleric, Druid, or Paladin",
+		"price":      "1500",
+		"source":      "DMG 182"
+    },
+    {
+		"name":      "Necklace of Prayer Beads, Favor",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "Yes",
+		"notes":      "Cleric, Druid, or Paladin",
+		"price":      "32000",
+		"source":      "DMG 182"
+    },
+    {
+		"name":      "Necklace of Prayer Beads, Summons",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "Yes",
+		"notes":      "Cleric, Druid, or Paladin",
+		"price":      "128000",
+		"source":      "DMG 182"
+    },
+    {
+		"name":      "Necklace of Prayer Beads, Wind Walking",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "Yes",
+		"notes":      "Cleric, Druid, or Paladin",
+		"price":      "96000",
+		"source":      "DMG 182"
+    },
+    {
+		"name":      "Nine Lives Stealer",
+		"type":      "Weapon",
+		"rarity":      {
+      		"display": 	"Very Rare",
+	 		"sort": 	"4"
+	    },
+		"attunement":      "Yes",
+		"notes":      "Any sword",
+		"price":      "8000",
+		"source":      "DMG 183"
+    },
+    {
+		"name":      "Nolzur's Marvelous Pigments",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Very Rare",
+	 		"sort": 	"4"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "200",
+		"source":      "DMG 183"
+    },
+    {
+		"name":      "Oathbow",
+		"type":      "Weapon",
+		"rarity":      {
+      		"display": 	"Very Rare",
+	 		"sort": 	"4"
+	    },
+		"attunement":      "Yes",
+		"notes":      "Longbow",
+		"price":      "3500",
+		"source":      "DMG 183"
+    },
+    {
+		"name":      "Oil of Etherealness",
+		"type":      "Potion",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "1920",
+		"source":      "DMG 183"
+    },
+    {
+		"name":      "Oil of Sharpness",
+		"type":      "Potion",
+		"rarity":      {
+      		"display": 	"Very Rare",
+	 		"sort": 	"4"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "3200",
+		"source":      "DMG 184"
+    },
+    {
+		"name":      "Oil of Slipperiness",
+		"type":      "Potion",
+		"rarity":      {
+      		"display": 	"Uncommon",
+	 		"sort": 	"2"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "480",
+		"source":      "DMG 184"
+    },
+    {
+		"name":      "Pearl of Power",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Uncommon",
+	 		"sort": 	"2"
+	    },
+		"attunement":      "Yes",
+		"notes":      "Spellcaster",
+		"price":      "6000",
+		"source":      "DMG 184"
+    },
+    {
+		"name":      "Periapt of Health",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Uncommon",
+	 		"sort": 	"2"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "5000",
+		"source":      "DMG 184"
+    },
+    {
+		"name":      "Periapt of Proof Against Poison",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "5000",
+		"source":      "DMG 184"
+    },
+    {
+		"name":      "Periapt of Wound Closure",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Uncommon",
+	 		"sort": 	"2"
+	    },
+		"attunement":      "Yes",
+		"notes":      "",
+		"price":      "5000",
+		"source":      "DMG 184"
+    },
+    {
+		"name":      "Philter of Love",
+		"type":      "Potion",
+		"rarity":      {
+      		"display": 	"Uncommon",
+	 		"sort": 	"2"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "90",
+		"source":      "DMG 184"
+    },
+    {
+		"name":      "Pipes of Haunting",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Uncommon",
+	 		"sort": 	"2"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "6000",
+		"source":      "DMG 185"
+    },
+    {
+		"name":      "Pipes of the Sewers",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Uncommon",
+	 		"sort": 	"2"
+	    },
+		"attunement":      "Yes",
+		"notes":      "",
+		"price":      "2000",
+		"source":      "DMG 185"
+    },
+    {
+		"name":      "Plate Armor of Etherealness",
+		"type":      "Armor",
+		"rarity":      {
+      		"display": 	"Legendary",
+	 		"sort": 	"5"
+	    },
+		"attunement":      "Yes",
+		"notes":      "Plate",
+		"price":      "48000",
+		"source":      "DMG 185"
+    },
+    {
+		"name":      "Portable Hole",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "8000",
+		"source":      "DMG 185"
+    },
+    {
+		"name":      "Potion of Animal Friendship",
+		"type":      "Potion",
+		"rarity":      {
+      		"display": 	"Uncommon",
+	 		"sort": 	"2"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "200",
+		"source":      "DMG 187"
+    },
+    {
+		"name":      "Potion of Clairvoyance",
+		"type":      "Potion",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "960",
+		"source":      "DMG 187"
+    },
+    {
+		"name":      "Potion of Climbing",
+		"type":      "Potion",
+		"rarity":      {
+      		"display": 	"Common",
+	 		"sort": 	"1"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "180",
+		"source":      "DMG 187"
+    },
+    {
+		"name":      "Potion of Diminution",
+		"type":      "Potion",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "270",
+		"source":      "DMG 187"
+    },
+    {
+		"name":      "Potion of Fire Breath",
+		"type":      "Potion",
+		"rarity":      {
+      		"display": 	"Uncommon",
+	 		"sort": 	"2"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "150",
+		"source":      "DMG 187"
+    },
+    {
+		"name":      "Potion of Flying",
+		"type":      "Potion",
+		"rarity":      {
+      		"display": 	"Very Rare",
+	 		"sort": 	"4"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "500",
+		"source":      "DMG 187"
+    },
+    {
+		"name":      "Potion of Gaseous Form",
+		"type":      "Potion",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "300",
+		"source":      "DMG 187"
+    },
+    {
+		"name":      "Potion of Greater Healing",
+		"type":      "Potion",
+		"rarity":      {
+      		"display": 	"Uncommon",
+	 		"sort": 	"2"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "150",
+		"source":      "DMG 187"
+    },
+    {
+		"name":      "Potion of Growth",
+		"type":      "Potion",
+		"rarity":      {
+      		"display": 	"Uncommon",
+	 		"sort": 	"2"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "270",
+		"source":      "DMG 187"
+    },
+    {
+		"name":      "Potion of Healing",
+		"type":      "Potion",
+		"rarity":      {
+      		"display": 	"Common",
+	 		"sort": 	"1"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "50",
+		"source":      "DMG 187"
+    },
+    {
+		"name":      "Potion of Heroism",
+		"type":      "Potion",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "180",
+		"source":      "DMG 188"
+    },
+    {
+		"name":      "Potion of Invisibility",
+		"type":      "Potion",
+		"rarity":      {
+      		"display": 	"Very Rare",
+	 		"sort": 	"4"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "180",
+		"source":      "DMG 188"
+    },
+    {
+		"name":      "Potion of Invulnerability",
+		"type":      "Potion",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "3840",
+		"source":      "DMG 188"
+    },
+    {
+		"name":      "Potion of Longevity",
+		"type":      "Potion",
+		"rarity":      {
+      		"display": 	"Very Rare",
+	 		"sort": 	"4"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "9000",
+		"source":      "DMG 188"
+    },
+    {
+		"name":      "Potion of Mind Reading",
+		"type":      "Potion",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "180",
+		"source":      "DMG 188"
+    },
+    {
+		"name":      "Potion of Posion",
+		"type":      "Potion",
+		"rarity":      {
+      		"display": 	"Uncommon",
+	 		"sort": 	"2"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "100",
+		"source":      "DMG 188"
+    },
+    {
+		"name":      "Potion of Resistance",
+		"type":      "Potion",
+		"rarity":      {
+      		"display": 	"Uncommon",
+	 		"sort": 	"2"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "300",
+		"source":      "DMG 188"
+    },
+    {
+		"name":      "Potion of Speed",
+		"type":      "Potion",
+		"rarity":      {
+      		"display": 	"Very Rare",
+	 		"sort": 	"4"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "400",
+		"source":      "DMG 188"
+    },
+    {
+		"name":      "Potion of Superior Healing",
+		"type":      "Potion",
+		"rarity":      {
+      		"display": 	"Very Rare",
+	 		"sort": 	"4"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "450",
+		"source":      "DMG 187"
+    },
+    {
+		"name":      "Potion of Supreme Healing",
+		"type":      "Potion",
+		"rarity":      {
+      		"display": 	"Very Rare",
+	 		"sort": 	"4"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "1350",
+		"source":      "DMG 187"
+    },
+    {
+		"name":      "Potion of Vitality",
+		"type":      "Potion",
+		"rarity":      {
+      		"display": 	"Very Rare",
+	 		"sort": 	"4"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "960",
+		"source":      "DMG 188"
+    },
+    {
+		"name":      "Potion of Water Breathing",
+		"type":      "Potion",
+		"rarity":      {
+      		"display": 	"Uncommon",
+	 		"sort": 	"2"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "180",
+		"source":      "DMG 188"
+    },
+    {
+		"name":      "Quaal's Feather Token, Anchor",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "50",
+		"source":      "DMG 188"
+    },
+    {
+		"name":      "Quaal's Feather Token, Bird",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "3000",
+		"source":      "DMG 188"
+    },
+    {
+		"name":      "Quaal's Feather Token, Fan",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "250",
+		"source":      "DMG 188"
+    },
+    {
+		"name":      "Quaal's Feather Token, Swan Boat",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "3000",
+		"source":      "DMG 188"
+    },
+    {
+		"name":      "Quaal's Feather Token, Whip",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "250",
+		"source":      "DMG 188"
+    },
+    {
+		"name":      "Quiver of Ehlonna",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Uncommon",
+	 		"sort": 	"2"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "1000",
+		"source":      "DMG 189"
+    },
+    {
+		"name":      "Ring of Air Elemental Command",
+		"type":      "Ring",
+		"rarity":      {
+      		"display": 	"Legendary",
+	 		"sort": 	"5"
+	    },
+		"attunement":      "Yes",
+		"notes":      "",
+		"price":      "35000",
+		"source":      "DMG 190"
+    },
+    {
+		"name":      "Ring of Animal Influence",
+		"type":      "Ring",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "4000",
+		"source":      "DMG 189"
+    },
+    {
+		"name":      "Ring of Djinni Summoning",
+		"type":      "Ring",
+		"rarity":      {
+      		"display": 	"Legendary",
+	 		"sort": 	"5"
+	    },
+		"attunement":      "Yes",
+		"notes":      "",
+		"price":      "",
+		"source":      "DMG 190"
+    },
+    {
+		"name":      "Ring of Earth Elemental Command",
+		"type":      "Ring",
+		"rarity":      {
+      		"display": 	"Legendary",
+	 		"sort": 	"5"
+	    },
+		"attunement":      "Yes",
+		"notes":      "",
+		"price":      "31000",
+		"source":      "DMG 190"
+    },
+    {
+		"name":      "Ring of Evasion",
+		"type":      "Ring",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "Yes",
+		"notes":      "",
+		"price":      "5000",
+		"source":      "DMG 191"
+    },
+    {
+		"name":      "Ring of Feather Falling",
+		"type":      "Ring",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "Yes",
+		"notes":      "",
+		"price":      "2000",
+		"source":      "DMG 191"
+    },
+    {
+		"name":      "Ring of Fire Elemental Command",
+		"type":      "Ring",
+		"rarity":      {
+      		"display": 	"Legendary",
+	 		"sort": 	"5"
+	    },
+		"attunement":      "Yes",
+		"notes":      "",
+		"price":      "17000",
+		"source":      "DMG 190"
+    },
+    {
+		"name":      "Ring of Free Action",
+		"type":      "Ring",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "Yes",
+		"notes":      "",
+		"price":      "20000",
+		"source":      "DMG 191"
+    },
+    {
+		"name":      "Ring of Invisibility",
+		"type":      "Ring",
+		"rarity":      {
+      		"display": 	"Legendary",
+	 		"sort": 	"5"
+	    },
+		"attunement":      "Yes",
+		"notes":      "",
+		"price":      "10000",
+		"source":      "DMG 191"
+    },
+    {
+		"name":      "Ring of Jumping",
+		"type":      "Ring",
+		"rarity":      {
+      		"display": 	"Uncommon",
+	 		"sort": 	"2"
+	    },
+		"attunement":      "Yes",
+		"notes":      "",
+		"price":      "2500",
+		"source":      "DMG 191"
+    },
+    {
+		"name":      "Ring of Mind Shielding",
+		"type":      "Ring",
+		"rarity":      {
+      		"display": 	"Uncommon",
+	 		"sort": 	"2"
+	    },
+		"attunement":      "Yes",
+		"notes":      "",
+		"price":      "16000",
+		"source":      "DMG 191"
+    },
+    {
+		"name":      "Ring of Protection",
+		"type":      "Ring",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "Yes",
+		"notes":      "",
+		"price":      "3500",
+		"source":      "DMG 191"
+    },
+    {
+		"name":      "Ring of Regeneration",
+		"type":      "Ring",
+		"rarity":      {
+      		"display": 	"Very Rare",
+	 		"sort": 	"4"
+	    },
+		"attunement":      "Yes",
+		"notes":      "",
+		"price":      "12000",
+		"source":      "DMG 191"
+    },
+    {
+		"name":      "Ring of Resistance",
+		"type":      "Ring",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "Yes",
+		"notes":      "",
+		"price":      "6000",
+		"source":      "DMG 192"
+    },
+    {
+		"name":      "Ring of Shooting Stars",
+		"type":      "Ring",
+		"rarity":      {
+      		"display": 	"Very Rare",
+	 		"sort": 	"4"
+	    },
+		"attunement":      "Yes",
+		"notes":      "",
+		"price":      "14000",
+		"source":      "DMG 192"
+    },
+    {
+		"name":      "Ring of Spell Storing",
+		"type":      "Ring",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "Yes",
+		"notes":      "",
+		"price":      "24000",
+		"source":      "DMG 192"
+    },
+    {
+		"name":      "Ring of Spell Turning",
+		"type":      "Ring",
+		"rarity":      {
+      		"display": 	"Legendary",
+	 		"sort": 	"5"
+	    },
+		"attunement":      "Yes",
+		"notes":      "",
+		"price":      "30000",
+		"source":      "DMG 193"
+    },
+    {
+		"name":      "Ring of Swimming",
+		"type":      "Ring",
+		"rarity":      {
+      		"display": 	"Uncommon",
+	 		"sort": 	"2"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "3000",
+		"source":      "DMG 193"
+    },
+    {
+		"name":      "Ring of Telekinesis",
+		"type":      "Ring",
+		"rarity":      {
+      		"display": 	"Very Rare",
+	 		"sort": 	"4"
+	    },
+		"attunement":      "Yes",
+		"notes":      "",
+		"price":      "80000",
+		"source":      "DMG 193"
+    },
+    {
+		"name":      "Ring of The Ram",
+		"type":      "Ring",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "Yes",
+		"notes":      "",
+		"price":      "5000",
+		"source":      "DMG 193"
+    },
+    {
+		"name":      "Ring of Three Wishes",
+		"type":      "Ring",
+		"rarity":      {
+      		"display": 	"Legendary",
+	 		"sort": 	"5"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "",
+		"source":      "DMG 193"
+    },
+    {
+		"name":      "Ring of Warmth",
+		"type":      "Ring",
+		"rarity":      {
+      		"display": 	"Uncommon",
+	 		"sort": 	"2"
+	    },
+		"attunement":      "Yes",
+		"notes":      "",
+		"price":      "1000",
+		"source":      "DMG 193"
+    },
+    {
+		"name":      "Ring of Water Elemental Command",
+		"type":      "Ring",
+		"rarity":      {
+      		"display": 	"Uncommon",
+	 		"sort": 	"2"
+	    },
+		"attunement":      "Yes",
+		"notes":      "",
+		"price":      "25000",
+		"source":      "DMG 190"
+    },
+    {
+		"name":      "Ring of Water Walking",
+		"type":      "Ring",
+		"rarity":      {
+      		"display": 	"Uncommon",
+	 		"sort": 	"2"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "1500",
+		"source":      "DMG 193"
+    },
+    {
+		"name":      "Ring of X-Ray Vision",
+		"type":      "Ring",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "Yes",
+		"notes":      "",
+		"price":      "6000",
+		"source":      "DMG 193"
+    },
+    {
+		"name":      "Robe of Eyes",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "Yes",
+		"notes":      "",
+		"price":      "30000",
+		"source":      "DMG 193"
+    },
+    {
+		"name":      "Robe of Scintillating Colors",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Very Rare",
+	 		"sort": 	"4"
+	    },
+		"attunement":      "Yes",
+		"notes":      "",
+		"price":      "6000",
+		"source":      "DMG 194"
+    },
+    {
+		"name":      "Robe of Stars",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Very Rare",
+	 		"sort": 	"4"
+	    },
+		"attunement":      "Yes",
+		"notes":      "",
+		"price":      "60000",
+		"source":      "DMG 194"
+    },
+    {
+		"name":      "Robe of the Archmagi",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Legendary",
+	 		"sort": 	"5"
+	    },
+		"attunement":      "Yes",
+		"notes":      "Sorcerer, Warlock, or Wizard",
+		"price":      "34000",
+		"source":      "DMG 194"
+    },
+    {
+		"name":      "Robe of Useful Items",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Uncommon",
+	 		"sort": 	"2"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "",
+		"source":      "DMG 195"
+    },
+    {
+		"name":      "Rod of Absorption",
+		"type":      "Rod",
+		"rarity":      {
+      		"display": 	"Very Rare",
+	 		"sort": 	"4"
+	    },
+		"attunement":      "Yes",
+		"notes":      "",
+		"price":      "50000",
+		"source":      "DMG 195"
+    },
+    {
+		"name":      "Rod of Alertness",
+		"type":      "Rod",
+		"rarity":      {
+      		"display": 	"Very Rare",
+	 		"sort": 	"4"
+	    },
+		"attunement":      "Yes",
+		"notes":      "",
+		"price":      "25000",
+		"source":      "DMG 196"
+    },
+    {
+		"name":      "Rod of Lordy Might",
+		"type":      "Rod",
+		"rarity":      {
+      		"display": 	"Legendary",
+	 		"sort": 	"5"
+	    },
+		"attunement":      "Yes",
+		"notes":      "",
+		"price":      "28000",
+		"source":      "DMG 196"
+    },
+    {
+		"name":      "Rod of Resurrection",
+		"type":      "Rod",
+		"rarity":      {
+      		"display": 	"Legendary",
+	 		"sort": 	"5"
+	    },
+		"attunement":      "Yes",
+		"notes":      "Cleric, Druid, or Paladin",
+		"price":      "",
+		"source":      "DMG 196"
+    },
+    {
+		"name":      "Rod of Rulership",
+		"type":      "Rod",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "Yes",
+		"notes":      "",
+		"price":      "16000",
+		"source":      "DMG 197"
+    },
+    {
+		"name":      "Rod of Security",
+		"type":      "Rod",
+		"rarity":      {
+      		"display": 	"Very Rare",
+	 		"sort": 	"4"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "16000",
+		"source":      "DMG 197"
+    },
+    {
+		"name":      "Rod of the Pact Keeper, +1",
+		"type":      "Rod",
+		"rarity":      {
+      		"display": 	"Uncommon",
+	 		"sort": 	"2"
+	    },
+		"attunement":      "Yes",
+		"notes":      "Warlock",
+		"price":      "12000",
+		"source":      "DMG 197"
+    },
+    {
+		"name":      "Rod of the Pact Keeper, +2",
+		"type":      "Rod",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "Yes",
+		"notes":      "Warlock",
+		"price":      "16000",
+		"source":      "DMG 197"
+    },
+    {
+		"name":      "Rod of the Pact Keeper, +3",
+		"type":      "Rod",
+		"rarity":      {
+      		"display": 	"Very Rare",
+	 		"sort": 	"4"
+	    },
+		"attunement":      "Yes",
+		"notes":      "Warlock",
+		"price":      "28000",
+		"source":      "DMG 197"
+    },
+    {
+		"name":      "Rope of Climbing",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Uncommon",
+	 		"sort": 	"2"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "2000",
+		"source":      "DMG 197"
+    },
+    {
+		"name":      "Rope of Entanglement",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "4000",
+		"source":      "DMG 197"
+    },
+    {
+		"name":      "Saddle of the Cavalier",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Uncommon",
+	 		"sort": 	"2"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "2000",
+		"source":      "DMG 199"
+    },
+    {
+		"name":      "Scarab of Protection",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Legendary",
+	 		"sort": 	"5"
+	    },
+		"attunement":      "Yes",
+		"notes":      "",
+		"price":      "36000",
+		"source":      "DMG 199"
+    },
+    {
+		"name":      "Scimitar of Speed",
+		"type":      "Weapon",
+		"rarity":      {
+      		"display": 	"Very Rare",
+	 		"sort": 	"4"
+	    },
+		"attunement":      "Yes",
+		"notes":      "Scimitar",
+		"price":      "6000",
+		"source":      "DMG 199"
+    },
+    {
+		"name":      "Scroll of Protection",
+		"type":      "Scroll",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "180",
+		"source":      "DMG 199"
+    },
+    {
+		"name":      "Sending Stones",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Uncommon",
+	 		"sort": 	"2"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "2000",
+		"source":      "DMG 199"
+    },
+    {
+		"name":      "Sentinel Shield",
+		"type":      "Armor",
+		"rarity":      {
+      		"display": 	"Uncommon",
+	 		"sort": 	"2"
+	    },
+		"attunement":      "No",
+		"notes":      "Shield",
+		"price":      "20000",
+		"source":      "DMG 199"
+    },
+    {
+		"name":      "Shield of Missile Attraction",
+		"type":      "Armor",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "Yes",
+		"notes":      "Shield",
+		"price":      "",
+		"source":      "DMG 200"
+    },
+    {
+		"name":      "Shield, +1",
+		"type":      "Armor",
+		"rarity":      {
+      		"display": 	"Uncommon",
+	 		"sort": 	"2"
+	    },
+		"attunement":      "No",
+		"notes":      "Shield",
+		"price":      "1500",
+		"source":      "DMG 200"
+    },
+    {
+		"name":      "Shield, +2",
+		"type":      "Armor",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "No",
+		"notes":      "Shield",
+		"price":      "6000",
+		"source":      "DMG 200"
+    },
+    {
+		"name":      "Shield, +3",
+		"type":      "Armor",
+		"rarity":      {
+      		"display": 	"Very Rare",
+	 		"sort": 	"4"
+	    },
+		"attunement":      "No",
+		"notes":      "Shield",
+		"price":      "24000",
+		"source":      "DMG 200"
+    },
+    {
+		"name":      "Slippers of Spider Climbing",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Uncommon",
+	 		"sort": 	"2"
+	    },
+		"attunement":      "Yes",
+		"notes":      "",
+		"price":      "5000",
+		"source":      "DMG 200"
+    },
+    {
+		"name":      "Sovereign Glue",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Legendary",
+	 		"sort": 	"5"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "400",
+		"source":      "DMG 200"
+    },
+    {
+		"name":      "Spell Scroll, Level 0",
+		"type":      "Scroll",
+		"rarity":      {
+      		"display": 	"Common",
+	 		"sort": 	"1"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "10",
+		"source":      "DMG 200"
+    },
+    {
+		"name":      "Spell Scroll, Level 1",
+		"type":      "Scroll",
+		"rarity":      {
+      		"display": 	"Common",
+	 		"sort": 	"1"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "60",
+		"source":      "DMG 200"
+    },
+    {
+		"name":      "Spell Scroll, Level 2",
+		"type":      "Scroll",
+		"rarity":      {
+      		"display": 	"Uncommon",
+	 		"sort": 	"2"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "120",
+		"source":      "DMG 200"
+    },
+    {
+		"name":      "Spell Scroll, Level 3",
+		"type":      "Scroll",
+		"rarity":      {
+      		"display": 	"Uncommon",
+	 		"sort": 	"2"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "200",
+		"source":      "DMG 200"
+    },
+    {
+		"name":      "Spell Scroll, Level 4",
+		"type":      "Scroll",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "320",
+		"source":      "DMG 200"
+    },
+    {
+		"name":      "Spell Scroll, Level 5",
+		"type":      "Scroll",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "640",
+		"source":      "DMG 200"
+    },
+    {
+		"name":      "Spell Scroll, Level 6",
+		"type":      "Scroll",
+		"rarity":      {
+      		"display": 	"Very Rare",
+	 		"sort": 	"4"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "1280",
+		"source":      "DMG 200"
+    },
+    {
+		"name":      "Spell Scroll, Level 7",
+		"type":      "Scroll",
+		"rarity":      {
+      		"display": 	"Very Rare",
+	 		"sort": 	"4"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "2560",
+		"source":      "DMG 200"
+    },
+    {
+		"name":      "Spell Scroll, Level 8",
+		"type":      "Scroll",
+		"rarity":      {
+      		"display": 	"Very Rare",
+	 		"sort": 	"4"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "5120",
+		"source":      "DMG 200"
+    },
+    {
+		"name":      "Spell Scroll, Level 9",
+		"type":      "Scroll",
+		"rarity":      {
+      		"display": 	"Legendary",
+	 		"sort": 	"5"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "10240",
+		"source":      "DMG 200"
+    },
+    {
+		"name":      "Spellguard Shield",
+		"type":      "Armor",
+		"rarity":      {
+      		"display": 	"Very Rare",
+	 		"sort": 	"4"
+	    },
+		"attunement":      "Yes",
+		"notes":      "Shield",
+		"price":      "50000",
+		"source":      "DMG 201"
+    },
+    {
+		"name":      "Sphere of Annihilation",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Legendary",
+	 		"sort": 	"5"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "15000",
+		"source":      "DMG 201"
+    },
+    {
+		"name":      "Staff of Charming",
+		"type":      "Staff",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "Yes",
+		"notes":      "Bard, Cleric, Druid, Sorcerer, Warlock, or Wizard",
+		"price":      "12000",
+		"source":      "DMG 201"
+    },
+    {
+		"name":      "Staff of Fire",
+		"type":      "Staff",
+		"rarity":      {
+      		"display": 	"Very Rare",
+	 		"sort": 	"4"
+	    },
+		"attunement":      "Yes",
+		"notes":      "Druid, Sorcerer, Warlock, or Druid",
+		"price":      "16000",
+		"source":      "DMG 201"
+    },
+    {
+		"name":      "Staff of Frost",
+		"type":      "Staff",
+		"rarity":      {
+      		"display": 	"Very Rare",
+	 		"sort": 	"4"
+	    },
+		"attunement":      "Yes",
+		"notes":      "Druid, Sorcerer, Warlock, or Druid",
+		"price":      "26000",
+		"source":      "DMG 201"
+    },
+    {
+		"name":      "Staff of Healing",
+		"type":      "Staff",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "Yes",
+		"notes":      "Bard, Cleric, or Druid",
+		"price":      "13000",
+		"source":      "DMG 202"
+    },
+    {
+		"name":      "Staff of Power",
+		"type":      "Staff",
+		"rarity":      {
+      		"display": 	"Very Rare",
+	 		"sort": 	"4"
+	    },
+		"attunement":      "Yes",
+		"notes":      "Sorcerer, Warlock, or Druid",
+		"price":      "95500",
+		"source":      "DMG 202"
+    },
+    {
+		"name":      "Staff of Striking",
+		"type":      "Staff",
+		"rarity":      {
+      		"display": 	"Very Rare",
+	 		"sort": 	"4"
+	    },
+		"attunement":      "Yes",
+		"notes":      "",
+		"price":      "21000",
+		"source":      "DMG 203"
+    },
+    {
+		"name":      "Staff of Swarming Insects",
+		"type":      "Staff",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "Yes",
+		"notes":      "Bard, Cleric, Druid, Sorcerer, Warlock, or Wizard",
+		"price":      "16000",
+		"source":      "DMG 203"
+    },
+    {
+		"name":      "Staff of the Adder",
+		"type":      "Staff",
+		"rarity":      {
+      		"display": 	"Uncommon",
+	 		"sort": 	"2"
+	    },
+		"attunement":      "Yes",
+		"notes":      "Cleric, Druid, or Warlock",
+		"price":      "1800",
+		"source":      "DMG 203"
+    },
+    {
+		"name":      "Staff of the Magi",
+		"type":      "Staff",
+		"rarity":      {
+      		"display": 	"Legendary",
+	 		"sort": 	"5"
+	    },
+		"attunement":      "Yes",
+		"notes":      "Sorcerer, Warlock, or Wizard",
+		"price":      "",
+		"source":      "DMG 203"
+    },
+    {
+		"name":      "Staff of the Python",
+		"type":      "Staff",
+		"rarity":      {
+      		"display": 	"Uncommon",
+	 		"sort": 	"2"
+	    },
+		"attunement":      "Yes",
+		"notes":      "Cleric, Druid, or Warlock",
+		"price":      "2000",
+		"source":      "DMG 204"
+    },
+    {
+		"name":      "Staff of the Woodlands",
+		"type":      "Staff",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "Yes",
+		"notes":      "Druid",
+		"price":      "44000",
+		"source":      "DMG 204"
+    },
+    {
+		"name":      "Staff of Thunder and Lightning",
+		"type":      "Staff",
+		"rarity":      {
+      		"display": 	"Very Rare",
+	 		"sort": 	"4"
+	    },
+		"attunement":      "Yes",
+		"notes":      "",
+		"price":      "10000",
+		"source":      "DMG 204"
+    },
+    {
+		"name":      "Staff of Withering",
+		"type":      "Staff",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "Yes",
+		"notes":      "Cleric, Druid, or Warlock",
+		"price":      "3000",
+		"source":      "DMG 205"
+    },
+    {
+		"name":      "Stone of Controlling Earth Elementals",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "8000",
+		"source":      "DMG 205"
+    },
+    {
+		"name":      "Stone of Good Luck",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Uncommon",
+	 		"sort": 	"2"
+	    },
+		"attunement":      "Yes",
+		"notes":      "Luckstone",
+		"price":      "4200",
+		"source":      "DMG 205"
+    },
+    {
+		"name":      "Sun Blade",
+		"type":      "Weapon",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "Yes",
+		"notes":      "Longsword",
+		"price":      "12000",
+		"source":      "DMG 205"
+    },
+    {
+		"name":      "Sword of Answering",
+		"type":      "Weapon",
+		"rarity":      {
+      		"display": 	"Legendary",
+	 		"sort": 	"5"
+	    },
+		"attunement":      "Yes",
+		"notes":      "Longsword, by alignment",
+		"price":      "36000",
+		"source":      "DMG 206"
+    },
+    {
+		"name":      "Sword of Life Stealing",
+		"type":      "Weapon",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "Yes",
+		"notes":      "Any sword",
+		"price":      "1000",
+		"source":      "DMG 205"
+    },
+    {
+		"name":      "Sword of Sharpness",
+		"type":      "Weapon",
+		"rarity":      {
+      		"display": 	"Very Rare",
+	 		"sort": 	"4"
+	    },
+		"attunement":      "Yes",
+		"notes":      "Any sword that deals slashing damage",
+		"price":      "1700",
+		"source":      "DMG 206"
+    },
+    {
+		"name":      "Sword of Vengeance",
+		"type":      "Weapon",
+		"rarity":      {
+      		"display": 	"Uncommon",
+	 		"sort": 	"2"
+	    },
+		"attunement":      "Yes",
+		"notes":      "Any Sword",
+		"price":      "",
+		"source":      "DMG 206"
+    },
+    {
+		"name":      "Sword of Wounding",
+		"type":      "Weapon",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "Yes",
+		"notes":      "Any Sword",
+		"price":      "",
+		"source":      "DMG 207"
+    },
+    {
+		"name":      "Talisman of Pure Good",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Legendary",
+	 		"sort": 	"5"
+	    },
+		"attunement":      "Yes",
+		"notes":      "Good alignment",
+		"price":      "71680",
+		"source":      "DMG 207"
+    },
+    {
+		"name":      "Talisman of The Sphere",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Legendary",
+	 		"sort": 	"5"
+	    },
+		"attunement":      "Yes",
+		"notes":      "",
+		"price":      "20000",
+		"source":      "DMG 207"
+    },
+    {
+		"name":      "Talisman of Ultimate Evil",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Legendary",
+	 		"sort": 	"5"
+	    },
+		"attunement":      "Yes",
+		"notes":      "Evil alignment",
+		"price":      "61440",
+		"source":      "DMG 207"
+    },
+    {
+		"name":      "Tentacle Rod",
+		"type":      "Rod",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "Yes",
+		"notes":      "",
+		"price":      "5000",
+		"source":      "DMG 208"
+    },
+    {
+		"name":      "Tome of Clear Thought",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Very Rare",
+	 		"sort": 	"4"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "",
+		"source":      "DMG 208"
+    },
+    {
+		"name":      "Tome of Leadership and Influence",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Very Rare",
+	 		"sort": 	"4"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "",
+		"source":      "DMG 208"
+    },
+    {
+		"name":      "Tome of Stilled Tongue",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Legendary",
+	 		"sort": 	"5"
+	    },
+		"attunement":      "Yes",
+		"notes":      "Wizard",
+		"price":      "",
+		"source":      "DMG 208"
+    },
+    {
+		"name":      "Tome of Understanding",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Very Rare",
+	 		"sort": 	"4"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "",
+		"source":      "DMG 209"
+    },
+    {
+		"name":      "Trident of Fish Command",
+		"type":      "Weapon",
+		"rarity":      {
+      		"display": 	"Uncommon",
+	 		"sort": 	"2"
+	    },
+		"attunement":      "Yes",
+		"notes":      "Trident",
+		"price":      "800",
+		"source":      "DMG 209"
+    },
+    {
+		"name":      "Universal Solvent",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Legendary",
+	 		"sort": 	"5"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "300",
+		"source":      "DMG 209"
+    },
+    {
+		"name":      "Vicious Weapon",
+		"type":      "Weapon",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "350",
+		"source":      "DMG 209"
+    },
+    {
+		"name":      "Vorpal Sword",
+		"type":      "Weapon",
+		"rarity":      {
+      		"display": 	"Legendary",
+	 		"sort": 	"5"
+	    },
+		"attunement":      "Yes",
+		"notes":      "Any sword that deals slashing damage",
+		"price":      "24000",
+		"source":      "DMG 209"
+    },
+    {
+		"name":      "Wand of Binding",
+		"type":      "Wand",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "Yes",
+		"notes":      "Spellcaster",
+		"price":      "10000",
+		"source":      "DMG 209"
+    },
+    {
+		"name":      "Wand of Enemy Detection",
+		"type":      "Wand",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "Yes",
+		"notes":      "",
+		"price":      "4000",
+		"source":      "DMG 210"
+    },
+    {
+		"name":      "Wand of Fear",
+		"type":      "Wand",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "Yes",
+		"notes":      "",
+		"price":      "10000",
+		"source":      "DMG 210"
+    },
+    {
+		"name":      "Wand of Fireballs",
+		"type":      "Wand",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "Yes",
+		"notes":      "Spellcaster",
+		"price":      "32000",
+		"source":      "DMG 210"
+    },
+    {
+		"name":      "Wand of Lightning Bolts",
+		"type":      "Wand",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "Yes",
+		"notes":      "Spellcaster",
+		"price":      "32000",
+		"source":      "DMG 211"
+    },
+    {
+		"name":      "Wand of Magic Detection",
+		"type":      "Wand",
+		"rarity":      {
+      		"display": 	"Uncommon",
+	 		"sort": 	"2"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "1500",
+		"source":      "DMG 211"
+    },
+    {
+		"name":      "Wand of Magic Missiles",
+		"type":      "Wand",
+		"rarity":      {
+      		"display": 	"Uncommon",
+	 		"sort": 	"2"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "8000",
+		"source":      "DMG 211"
+    },
+    {
+		"name":      "Wand of Paralysis",
+		"type":      "Wand",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "Yes",
+		"notes":      "Spellcaster",
+		"price":      "16000",
+		"source":      "DMG 211"
+    },
+    {
+		"name":      "Wand of Polymorph",
+		"type":      "Wand",
+		"rarity":      {
+      		"display": 	"Very Rare",
+	 		"sort": 	"4"
+	    },
+		"attunement":      "Yes",
+		"notes":      "Spellcaster",
+		"price":      "32000",
+		"source":      "DMG 211"
+    },
+    {
+		"name":      "Wand of Secrets",
+		"type":      "Wand",
+		"rarity":      {
+      		"display": 	"Uncommon",
+	 		"sort": 	"2"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "1500",
+		"source":      "DMG 211"
+    },
+    {
+		"name":      "Wand of the War Mage, +1",
+		"type":      "Wand",
+		"rarity":      {
+      		"display": 	"Uncommon",
+	 		"sort": 	"2"
+	    },
+		"attunement":      "Yes",
+		"notes":      "Spellcaster",
+		"price":      "1200",
+		"source":      "DMG 212"
+    },
+    {
+		"name":      "Wand of the War Mage, +2",
+		"type":      "Wand",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "Yes",
+		"notes":      "Spellcaster",
+		"price":      "4800",
+		"source":      "DMG 212"
+    },
+    {
+		"name":      "Wand of the War Mage, +3",
+		"type":      "Wand",
+		"rarity":      {
+      		"display": 	"Very Rare",
+	 		"sort": 	"4"
+	    },
+		"attunement":      "Yes",
+		"notes":      "Spellcaster",
+		"price":      "19200",
+		"source":      "DMG 212"
+    },
+    {
+		"name":      "Wand of Web",
+		"type":      "Wand",
+		"rarity":      {
+      		"display": 	"Uncommon",
+	 		"sort": 	"2"
+	    },
+		"attunement":      "Yes",
+		"notes":      "Spellcaster",
+		"price":      "8000",
+		"source":      "DMG 212"
+    },
+    {
+		"name":      "Weapon of Warning",
+		"type":      "Weapon",
+		"rarity":      {
+      		"display": 	"Uncommon",
+	 		"sort": 	"2"
+	    },
+		"attunement":      "Yes",
+		"notes":      "",
+		"price":      "60000",
+		"source":      "DMG 213"
+    },
+    {
+		"name":      "Weapon, +1",
+		"type":      "Weapon",
+		"rarity":      {
+      		"display": 	"Uncommon",
+	 		"sort": 	"2"
+	    },
+		"attunement":      "Yes",
+		"notes":      "",
+		"price":      "1000",
+		"source":      "DMG 213"
+    },
+    {
+		"name":      "Weapon, +2",
+		"type":      "Weapon",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "Yes",
+		"notes":      "",
+		"price":      "4000",
+		"source":      "DMG 213"
+    },
+    {
+		"name":      "Weapon, +3",
+		"type":      "Weapon",
+		"rarity":      {
+      		"display": 	"Very Rare",
+	 		"sort": 	"4"
+	    },
+		"attunement":      "Yes",
+		"notes":      "",
+		"price":      "16000",
+		"source":      "DMG 213"
+    },
+    {
+		"name":      "Well of Many Worlds",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Legendary",
+	 		"sort": 	"5"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "",
+		"source":      "DMG 213"
+    },
+    {
+		"name":      "Wind Fan",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Uncommon",
+	 		"sort": 	"2"
+	    },
+		"attunement":      "No",
+		"notes":      "",
+		"price":      "1500",
+		"source":      "DMG 213"
+    },
+    {
+		"name":      "Winged Boots",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Uncommon",
+	 		"sort": 	"2"
+	    },
+		"attunement":      "Yes",
+		"notes":      "",
+		"price":      "8000",
+		"source":      "DMG 214"
+    },
+    {
+		"name":      "Wings of Flying",
+		"type":      "Wondrous Item",
+		"rarity":      {
+      		"display": 	"Rare",
+	 		"sort": 	"3"
+	    },
+		"attunement":      "Yes",
+		"notes":      "",
+		"price":      "5000",
+		"source":      "DMG 214"
+    }
+  ]
+}

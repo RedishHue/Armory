@@ -7,9 +7,13 @@
       		"display": 	"Uncommon",
 	 		"sort": 	"2"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "Medium or heavy, but not hide",
 		"price":      "500",
+		"description": "This suit of armor is reinforced with adamantine, one of the hardest substances in existence. While you’re wearing it, any critical hit against you becomes a normal hit.",
 		"source":      "DMG 150"
     },
     {
@@ -19,9 +23,13 @@
       		"display": 	"Uncommon",
 	 		"sort": 	"2"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "6000",
+		"description": "This item is not included in the OGL license.",
 		"source":      "DMG 150"
     },
     {
@@ -31,9 +39,13 @@
       		"display": 	"Uncommon",
 	 		"sort": 	"2"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "Any ammunition",
 		"price":      "25",
+		"description": "You have a bonus to attack and damage rolls made with this piece of magic ammunition. The bonus is determined by the rarity of the ammunition. Once it hits a target, the ammunition is no longer magical.",
 		"source":      "DMG 150"
     },
     {
@@ -43,9 +55,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "Any ammunition",
 		"price":      "100",
+		"description": "You have a bonus to attack and damage rolls made with this piece of magic ammunition. The bonus is determined by the rarity of the ammunition. Once it hits a target, the ammunition is no longer magical.",
 		"source":      "DMG 150"
     },
     {
@@ -55,9 +71,13 @@
       		"display": 	"Very Rare",
 	 		"sort": 	"4"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "Any ammunition",
 		"price":      "400",
+		"description": "You have a bonus to attack and damage rolls made with this piece of magic ammunition. The bonus is determined by the rarity of the ammunition. Once it hits a target, the ammunition is no longer magical.",
 		"source":      "DMG 150"
     },
     {
@@ -67,9 +87,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "",
 		"price":      "8000",
+		"description": "Your Constitution score is 19 while you wear this amulet. It has no effect on you if your Constitution is already 19 or higher.",
 		"source":      "DMG 150"
     },
     {
@@ -79,9 +103,13 @@
       		"display": 	"Uncommon",
 	 		"sort": 	"2"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "",
 		"price":      "20000",
+		"description": "While wearing this amulet, you are hidden from divination magic. You can’t be targeted by such magic or perceived through magical scrying sensors.",
 		"source":      "DMG 150"
     },
     {
@@ -91,9 +119,13 @@
       		"display": 	"Very Rare",
 	 		"sort": 	"4"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "",
 		"price":      "160000",
+		"description": "While wearing this amulet, you can use an action to name a location that you are familiar with on another plane of existence. Then make a DC 15 Intelligence check. On a successful check, you cast the Plane Shift spell. On a failure, you and each creature and object within 15 feet of you travel to a random destination. Roll a d100. On a 1–60, you travel to a random location on the plane you named. On a 61–100, you travel to a randomly determined plane of existence.",
 		"source":      "DMG 150"
     },
     {
@@ -103,9 +135,13 @@
       		"display": 	"Very Rare",
 	 		"sort": 	"4"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "Shield",
 		"price":      "6000",
+		"description": "While holding this shield, you can speak its command word as a bonus action to cause it to animate. The shield leaps into the air and hovers in your space to protect you as if you were wielding it, leaving your hands free. The shield remains animated for 1 minute, until you use a bonus action to end this effect, or until you are Incapacitated or die, at which point the shield falls to the ground or into your hand if you have one free.",
 		"source":      "DMG 151"
     },
     {
@@ -115,9 +151,13 @@
       		"display": 	"Legendary",
 	 		"sort": 	"5"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "10000",
+		"description": "This item is not included in the OGL license.",
 		"source":      "DMG 151"
     },
     {
@@ -127,9 +167,13 @@
       		"display": 	"Legendary",
 	 		"sort": 	"5"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "Plate",
 		"price":      "18000",
+		"description": "You have resistance to nonmagical damage while you wear this armor. Additionally, you can use an action to make yourself immune to nonmagical damage for 10 minutes or until you are no longer wearing the armor. Once this special action is used, it can’t be used again until the next dawn.",
 		"source":      "DMG 152"
     },
     {
@@ -139,9 +183,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "Plate",
 		"price":      "6000",
+		"description": "You have resistance to one type of damage while you wear this armor. The GM chooses the type or determines it randomly from the options below. <br><br> <table> <tr> <th>D10</th> <th>Damage Type</th> <th>D10</th> <th>Damage Type</th> </tr> <tr> <td>1</td> <td>Acid</td> <td>6</td> <td>Necrotic</td> </tr> <tr> <td>2</td> <td>Cold</td> <td>7</td> <td>Poison</td> </tr> <tr> <td>3</td> <td>Fire</td> <td>8</td> <td>Psychic</td> </tr> <tr> <td>4</td> <td>Force</td> <td>9</td> <td>Radiant</td> </tr> <tr> <td>5</td> <td>Lightning</td> <td>10</td> <td>Thunder</td> </table>",
 		"source":      "DMG 152"
     },
     {
@@ -151,9 +199,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "Yes",
-		"notes":      "Plate",
-		"price":      "",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
+		"notes":      "Plate, cursed",
+		"price":      null,
+		"description": "While wearing this armor, you have resistance to one of the following damage types: bludgeoning, piercing, or slashing. The GM chooses the type or determines it randomly.<br><br><b>Curse.</b> This armor is cursed, a fact that is revealed only when an Identify spell is cast on the armor or you attune to it. Attuning to the armor curses you until you are targeted by the remove curse spell or similar magic; removing the armor fails to end the curse. While cursed, you have vulnerability to two of the three damage types associated with the armor (not the one to which it grants resistance).",
 		"source":      "DMG 152"
     },
     {
@@ -163,9 +215,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "1500",
+		"description": "You have a bonus to AC while wearing this armor. The bonus is determined by its rarity.",
 		"source":      "DMG 152"
     },
     {
@@ -175,9 +231,13 @@
       		"display": 	"Very Rare",
 	 		"sort": 	"4"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "6000",
+		"description": "You have a bonus to AC while wearing this armor. The bonus is determined by its rarity.",
 		"source":      "DMG 152"
     },
     {
@@ -187,9 +247,13 @@
       		"display": 	"Legendary",
 	 		"sort": 	"5"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "24000",
+		"description": "You have a bonus to AC while wearing this armor. The bonus is determined by its rarity.",
 		"source":      "DMG 152"
     },
     {
@@ -199,21 +263,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "Arrow",
 		"price":      "600",
-		"source":      "DMG 152"
-    },
-    {
-		"name":      "Arrow of Slaying",
-		"type":      "Weapon",
-		"rarity":      {
-      		"display": 	"Rare",
-	 		"sort": 	"3"
-	    },
-		"attunement":      "No",
-		"notes":      "Arrow",
-		"price":      "600",
+		"description": "An arrow of slaying is a magic weapon meant to slay a particular kind of creature. Some are more focused than others; for example, there are both arrows of dragon slaying and arrows of blue dragon slaying. If a creature belonging to the type, race, or group associated with an arrow of slaying takes damage from the arrow, the creature must make a DC 17 Constitution saving throw, taking an extra 6d10 piercing damage on a failed save, or half as much extra damage on a successful one. <br><br> Once an arrow of slaying deals its extra damage to a creature, it becomes a nonmagical arrow. <br><br>Other types of magic ammunition of this kind exist, such as bolts of slaying meant for a crossbow, though arrows are most common.",
 		"source":      "DMG 152"
     },
     {
@@ -223,9 +279,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "Shield",
 		"price":      "6000",
+		"description": "You gain a +2 bonus to AC against ranged attacks while you wield this shield. This bonus is in addition to the shield’s normal bonus to AC. In addition, whenever an attacker makes a ranged attack against a target within 5 feet of you, you can use your reaction to become the target of the attack instead.",
 		"source":      "DMG 152"
     },
     {
@@ -235,9 +295,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
-		"price":      "",
+		"price":      null,
+		"description": "Inside this heavy cloth bag are 3d4 dry beans. The bag weighs 1/2 pound plus 1/4 pound for each bean it contains. If you dump the bag’s contents out on the ground, they explode in a 10-foot radius, extending from the beans. Each creature in the area, including you, must make a DC 15 Dexterity saving throw, taking 5d4 fire damage on a failed save, or half as much damage on a successful one. The fire ignites flammable objects in the area that aren’t being worn or carried. If you remove a bean from the bag, plant it in dirt or sand, and then water it, the bean produces an effect 1 minute later from the ground where it was planted. The GM can choose an effect from the following table, determine it randomly, or create an effect. <br><br> <table> <tr> <th>D100_ </th> <th>Effect</th> </tr> <tr> <td>01</td> <td>5d4 toadstools sprout. If a creature eats a toadstool, roll any die. On an odd roll, the eater must succeed on a DC 15 Constitution saving throw or take 5d6 poison damage and become Poisoned for 1 hour. On an even roll, the eater gains 5d6 temporary hit points for 1 hour.</td> </tr> <tr> <td>02-10</td> <td>A geyser erupts and spouts water, beer, berry juice, tea, vinegar, wine, or oil (GM’s choice) 30 feet into the air for 1d12 rounds.</td> </tr> <tr> <td>11-20</td> <td>A treant sprouts. There’s a 50 percent chance that the treant is chaotic evil and attacks.</td> </tr> <tr> <td>21-30</td> <td>An animate, immobile stone statue in your likeness rises. It makes verbal threats against you. If you leave it and others come near, it describes you as the most heinous of villains and directs the newcomers to find and attack you. If you are on the same plane of existence as the statue, it knows where you are. The statue becomes inanimate after 24 hours.</td> </tr> <tr> <td>31-40</td> <td>A campfire with blue flames springs forth and burns for 24 hours (or until it is extinguished).</td> <tr> <td>41-50</td> <td>1d6 + 6 shriekers sprout</td> </tr> <tr> <td>51-60</td> <td>1d4 + 8 bright pink toads crawl forth. Whenever a toad is touched, it transforms into a Large or smaller monster of the GM’s choice. The monster remains for 1 minute, then disappears in a puff of bright pink smoke.</td> </tr> <tr> <td>61-70</td> <td>A hungry bulette burrows up and attacks.</td> </tr> <tr> <td>71-80</td> <td>A fruit tree grows. It has 1d10 + 20 fruit, 1d8 of which act as randomly determined magic potions, while one acts as an ingested poison of the GM’s choice. The tree vanishes after 1 hour. Picked fruit remains, retaining any magic for 30 days.</td> </tr> <tr> <td>81-90</td> <td>A nest of 1d4 + 3 eggs springs up. Any creature that eats an egg must make a DC 20 Constitution saving throw. On a successful save, a creature permanently increases its lowest ability score by 1, randomly choosing among equally low scores. On a failed save, the creature takes 10d6 force damage from an internal magical explosion.</td> </tr> <tr> <td>91-99</td> <td>A pyramid with a 60-foot-square base bursts upward. Inside is a sarcophagus containing a mummy lord. The pyramid is treated as the mummy lord’s lair, and its sarcophagus contains treasure of the GM’s choice.</td> </tr> <tr> <td>100</td> <td>A giant beanstalk sprouts, growing to a height of the GM’s choice. The top leads where the GM chooses, such as to a great view, a cloud giant’s castle, or a different plane of existence.</td> </tr> </table> ",
 		"source":      "DMG 152"
     },
     {
@@ -247,9 +311,13 @@
       		"display": 	"Very Rare",
 	 		"sort": 	"4"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
-		"price":      "",
+		"price":      null,
+		"description": "This bag superficially resembles a Bag of Holding but is a feeding orifice for a gigantic extradimensional creature. Turning the bag inside out closes the orifice.<br><br>The extradimensional creature attached to the bag can sense whatever is placed inside the bag. Animal or vegetable matter placed wholly in the bag is devoured and lost forever. When part of a living creature is placed in the bag, as happens when someone reaches inside it, there is a 50 percent chance that the creature is pulled inside the bag. A creature inside the bag can use its action to try to escape with a successful DC 15 Strength check. Another creature can use its action to reach into the bag to pull a creature out, doing so with a successful DC 20 Strength check (provided it isn’t pulled inside the bag first). Any creature that starts its turn inside the bag is devoured, its body destroyed.<br><br>Inanimate objects can be stored in the bag, which can hold a cubic foot of such material. However, once each day, the bag swallows any objects inside it and spits them out into another plane of existence. The GM determines the time and plane.<br><br>If the bag is pierced or torn, it is destroyed, and anything contained within it is transported to a random location on the Astral Plane.",
 		"source":      "DMG 153"
     },
     {
@@ -259,9 +327,13 @@
       		"display": 	"Uncommon",
 	 		"sort": 	"2"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "4000",
+		"description": "This bag has an interior space considerably larger than its outside dimensions, roughly 2 feet in diameter at the mouth and 4 feet deep. The bag can hold up to 500 pounds, not exceeding a volume of 64 cubic feet. The bag weighs 15 pounds, regardless of its contents. Retrieving an item from the bag requires an action.<br><br>If the bag is overloaded, pierced, or torn, it ruptures and is destroyed, and its contents are scattered in the Astral Plane. If the bag is turned inside out, its contents spill forth, unharmed, but the bag must be put right before it can be used again. Breathing creatures inside the bag can survive up to a number of minutes equal to 10 divided by the number of creatures (minimum 1 minute), after which time they begin to suffocate.<br><br>Placing a bag of holding inside an extradimensional space created by a Handy Haversack, Portable Hole, or similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within 10 feet of the gate is sucked through it to a random location on the Astral Plane. The gate then closes. The gate is one-way only and can’t be reopened.",
 		"source":      "DMG 153"
     },
     {
@@ -271,9 +343,13 @@
       		"display": 	"Uncommon",
 	 		"sort": 	"2"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
-		"price":      "",
+		"price":      null,
+		"description": "This ordinary bag, made from gray, rust, or tan cloth, appears empty. Reaching inside the bag, however, reveals the presence of a small, fuzzy object. The bag weighs 1/2 pound. You can use an action to pull the fuzzy object from the bag and throw it up to 20 feet. When the object lands, it transforms into a creature you determine by rolling a d8 and consulting the table that corresponds to the bag’s color. The creature vanishes at the next dawn or when it is reduced to 0 hit points. The creature is friendly to you and your companions, and it acts on your turn. You can use a bonus action to command how the creature moves and what action it takes on its next turn, or to give it general orders, such as to attack your enemies. In the absence of such orders, the creature acts in a fashion appropriate to its nature. Once three fuzzy objects have been pulled from the bag, the bag can’t be used again until the next dawn. <br><br> <table style='display: inline-block;  margin: auto;'> <tr> <th colspan='2'>Gray Bag of Tricks</th> </tr> <tr> <th>D8</th> <th>Creature</th> </tr> <tr> <td>1</td> <td>Weasle</td> </tr> <tr> <td>2</td> <td>Giant Rat</td> </tr> <tr> <td>3</td> <td>Badger</td> </tr> <tr> <td>4</td> <td>Boar</td> </tr> <tr> <td>5</td> <td>Panther</td> <tr> <td>6</td> <td>Giant Badger</td> </tr> <tr> <td>7</td> <td>Dire Wolf</td> </tr> <tr> <td>8</td> <td>Giant Elk</td> </table> <table style='display: inline-block;  margin: auto;'> <tr> <th colspan='2'>Rust Bag of Tricks</th> </tr> <tr> <th>D8</th> <th>Creature</th> </tr> <tr> <td>1</td> <td>Rat</td> </tr> <tr> <td>2</td> <td>Owl</td> </tr> <tr> <td>3</td> <td>Mastiff</td> </tr> <tr> <td>4</td> <td>Goat</td> </tr> <tr> <td>5</td> <td>Giant Goat</td> <tr> <td>6</td> <td>Giant Boar</td> </tr> <tr> <td>7</td> <td>Lion</td> </tr> <tr> <td>8</td> <td>Brown Bear</td> </table> <table style='display: inline-block;  margin: auto;'> <tr> <th colspan='2'>Tan Bag of Tricks</th> </tr> <tr> <th>D8</th> <th>Creature</th> </tr> <tr> <td>1</td> <td>Jackal</td> </tr> <tr> <td>2</td> <td>Ape</td> </tr> <tr> <td>3</td> <td>Baboon</td> </tr> <tr> <td>4</td> <td>Axe Beak</td> </tr> <tr> <td>5</td> <td>Black Bear</td> <tr> <td>6</td> <td>Giant Weasel</td> </tr> <tr> <td>7</td> <td>Giant Hyena</td> </tr> <tr> <td>8</td> <td>Tiger</td> </table>",
 		"source":      "DMG 154"
     },
     {
@@ -283,9 +359,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "960",
+		"description": "This small black sphere measures 3/4 of an inch in diameter and weighs an ounce. Typically, 1d4 + 4 beads of force are found together.<br><br>You can use an action to throw the bead up to 60 feet. The bead explodes on impact and is destroyed. Each creature within a 10-foot radius of where the bead landed must succeed on a DC 15 Dexterity saving throw or take 5d4 force damage. A sphere of transparent force then encloses the area for 1 minute. Any creature that failed the save and is completely within the area is trapped inside this sphere. Creatures that succeeded on the save, or are partially within the area, are pushed away from the center of the sphere until they are no longer inside it. Only breathable air can pass through the sphere’s wall. No attack or other effect can.<br><br>An enclosed creature can use its action to push against the sphere’s wall, moving the sphere up to half the creature’s walking speed. The sphere can be picked up, and its magic causes it to weigh only 1 pound, regardless of the weight of creatures inside.",
 		"source":      "DMG 154"
     },
     {
@@ -295,9 +375,13 @@
       		"display": 	"Legendary",
 	 		"sort": 	"5"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "",
-		"price":      "",
+		"price":      null,
+		"description": "While wearing this belt, your Strength score changes to a score granted by the belt. If your Strength is already equal to or greater than the belt’s score, the item has no effect on you. Six varieties of this belt exist, corresponding with and having rarity according to the six kinds of true giants. The belt of stone giant strength and the belt of frost giant strength look different, but they have the same effect. <br><br> <table > <tr> <td>Hill Giant</td> <td>21</td> <td>Rare</td> </tr> <tr> <td>Stone/Frost Giant</td> <td>23</td> <td>Very Rare</td> </tr> <tr> <td>Fire Giant</td> <td>25</td> <td>Very Rare</td> </tr> <tr> <td>Cloud Giant</td> <td>27</td> <td>Legendary</td> </tr> <tr> <td>Storm Giant</td> <td>29</td> <td>Legendary</td> </tr> </table> ",
 		"source":      "DMG 155"
     },
     {
@@ -307,9 +391,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "",
 		"price":      "6000",
+		"description": "While wearing this belt, you gain the following benefits:<br><br> Your Constitution score increases by 2, to a maximum of 20.<br>  You have advantage on Charisma (Persuasion) checks made to interact with dwarves.<br><br>In addition, while attuned to the belt, you have a 50 percent chance each day at dawn of growing a full beard if you’re capable of growing one, or a visibly thicker beard if you already have one.<br><br><br>If you aren’t a dwarf, you gain the following additional benefits while wearing the belt:<br><br>You have advantage on saving throws against poison, and you have resistance against poison damage.<br>You have darkvision out to a range of 60 feet.<br>You can speak, read, and write Dwarvish.",
 		"source":      "DMG 155"
     },
     {
@@ -319,9 +407,13 @@
       		"display": 	"Very Rare",
 	 		"sort": 	"4"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "",
-		"price":      "",
+		"price":      null,
+		"description": "While wearing this belt, your Strength score changes to a score granted by the belt. If your Strength is already equal to or greater than the belt’s score, the item has no effect on you. Six varieties of this belt exist, corresponding with and having rarity according to the six kinds of true giants. The belt of stone giant strength and the belt of frost giant strength look different, but they have the same effect. <br><br> <table > <tr> <td>Hill Giant</td> <td>21</td> <td>Rare</td> </tr> <tr> <td>Stone/Frost Giant</td> <td>23</td> <td>Very Rare</td> </tr> <tr> <td>Fire Giant</td> <td>25</td> <td>Very Rare</td> </tr> <tr> <td>Cloud Giant</td> <td>27</td> <td>Legendary</td> </tr> <tr> <td>Storm Giant</td> <td>29</td> <td>Legendary</td> </tr> </table> ",
 		"source":      "DMG 155"
     },
     {
@@ -331,9 +423,13 @@
       		"display": 	"Very Rare",
 	 		"sort": 	"4"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "",
-		"price":      "",
+		"price":      null,
+		"description": "While wearing this belt, your Strength score changes to a score granted by the belt. If your Strength is already equal to or greater than the belt’s score, the item has no effect on you. Six varieties of this belt exist, corresponding with and having rarity according to the six kinds of true giants. The belt of stone giant strength and the belt of frost giant strength look different, but they have the same effect. <br><br> <table > <tr> <td>Hill Giant</td> <td>21</td> <td>Rare</td> </tr> <tr> <td>Stone/Frost Giant</td> <td>23</td> <td>Very Rare</td> </tr> <tr> <td>Fire Giant</td> <td>25</td> <td>Very Rare</td> </tr> <tr> <td>Cloud Giant</td> <td>27</td> <td>Legendary</td> </tr> <tr> <td>Storm Giant</td> <td>29</td> <td>Legendary</td> </tr> </table> ",
 		"source":      "DMG 155"
     },
     {
@@ -343,9 +439,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "",
-		"price":      "",
+		"price":      null,
+		"description": "While wearing this belt, your Strength score changes to a score granted by the belt. If your Strength is already equal to or greater than the belt’s score, the item has no effect on you. Six varieties of this belt exist, corresponding with and having rarity according to the six kinds of true giants. The belt of stone giant strength and the belt of frost giant strength look different, but they have the same effect. <br><br> <table > <tr> <td>Hill Giant</td> <td>21</td> <td>Rare</td> </tr> <tr> <td>Stone/Frost Giant</td> <td>23</td> <td>Very Rare</td> </tr> <tr> <td>Fire Giant</td> <td>25</td> <td>Very Rare</td> </tr> <tr> <td>Cloud Giant</td> <td>27</td> <td>Legendary</td> </tr> <tr> <td>Storm Giant</td> <td>29</td> <td>Legendary</td> </tr> </table> ",
 		"source":      "DMG 155"
     },
     {
@@ -355,9 +455,13 @@
       		"display": 	"Very Rare",
 	 		"sort": 	"4"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "",
-		"price":      "",
+		"price":      null,
+		"description": "While wearing this belt, your Strength score changes to a score granted by the belt. If your Strength is already equal to or greater than the belt’s score, the item has no effect on you. Six varieties of this belt exist, corresponding with and having rarity according to the six kinds of true giants. The belt of stone giant strength and the belt of frost giant strength look different, but they have the same effect. <br><br> <table > <tr> <td>Hill Giant</td> <td>21</td> <td>Rare</td> </tr> <tr> <td>Stone/Frost Giant</td> <td>23</td> <td>Very Rare</td> </tr> <tr> <td>Fire Giant</td> <td>25</td> <td>Very Rare</td> </tr> <tr> <td>Cloud Giant</td> <td>27</td> <td>Legendary</td> </tr> <tr> <td>Storm Giant</td> <td>29</td> <td>Legendary</td> </tr> </table> ",
 		"source":      "DMG 155"
     },
     {
@@ -367,9 +471,13 @@
       		"display": 	"Legendary",
 	 		"sort": 	"5"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "",
-		"price":      "",
+		"price":      null,
+		"description": "While wearing this belt, your Strength score changes to a score granted by the belt. If your Strength is already equal to or greater than the belt’s score, the item has no effect on you. Six varieties of this belt exist, corresponding with and having rarity according to the six kinds of true giants. The belt of stone giant strength and the belt of frost giant strength look different, but they have the same effect. <br><br> <table > <tr> <td>Hill Giant</td> <td>21</td> <td>Rare</td> </tr> <tr> <td>Stone/Frost Giant</td> <td>23</td> <td>Very Rare</td> </tr> <tr> <td>Fire Giant</td> <td>25</td> <td>Very Rare</td> </tr> <tr> <td>Cloud Giant</td> <td>27</td> <td>Legendary</td> </tr> <tr> <td>Storm Giant</td> <td>29</td> <td>Legendary</td> </tr> </table> ",
 		"source":      "DMG 155"
     },
     {
@@ -379,9 +487,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "Yes",
-		"notes":      "Any axe",
-		"price":      "",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
+		"notes":      "Any axe, cursed",
+		"price":      null,
+		"description": "You gain a +1 bonus to attack and damage rolls made with this magic weapon. In addition, while you are attuned to this weapon, your hit point maximum increases by 1 for each level you have attained.<br><br><b>Curse.</b> This axe is cursed, and becoming attuned to it extends the curse to you. As long as you remain cursed, you are unwilling to part with the axe, keeping it within reach at all times. You also have disadvantage on attack rolls with weapons other than this one, unless no foe is within 60 feet of you that you can see or hear.<br><br>Whenever a hostile creature damages you while the axe is in your possession, you must succeed on a DC 15 Wisdom saving throw or go berserk. While berserk, you must use your action each round to attack the creature nearest to you with the axe. If you can make extra attacks as part of the Attack action, you use those extra attacks, moving to attack the next nearest creature after you fell your current target. If you have multiple possible targets, you attack one at random. You are berserk until you start your turn with no creatures within 60 feet of you that you can see or hear.",
 		"source":      "DMG 155"
     },
     {
@@ -391,9 +503,13 @@
       		"display": 	"Uncommon",
 	 		"sort": 	"2"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "2500",
+		"description": "While you wear these boots, your steps make no sound, regardless of the surface you are moving across. You also have advantage on Dexterity (Stealth) checks that rely on moving silently.",
 		"source":      "DMG 155"
     },
     {
@@ -403,9 +519,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "",
 		"price":      "4000",
+		"description": "While you wear these boots, you can use an action to cast the Levitate spell on yourself at will.",
 		"source":      "DMG 155"
     },
     {
@@ -415,9 +535,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "",
 		"price":      "4000",
+		"description": "While you wear these boots, you can use a bonus action and click the boots’ heels together. If you do, the boots double your walking speed, and any creature that makes an opportunity attack against you has disadvantage on the attack roll. If you click your heels together again, you end the effect.<br><br>When the boots’ property has been used for a total of 10 minutes, the magic ceases to function until you finish a long rest.",
 		"source":      "DMG 155"
     },
     {
@@ -427,9 +551,13 @@
       		"display": 	"Uncommon",
 	 		"sort": 	"2"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "",
 		"price":      "5000",
+		"description": "While you wear these boots, your walking speed becomes 30 feet, unless your walking speed is higher, and your speed isn’t reduced if you are encumbered or wearing heavy armor. In addition, you can jump three times the normal distance, though you can’t jump farther than your remaining movement would allow.",
 		"source":      "DMG 156"
     },
     {
@@ -439,9 +567,13 @@
       		"display": 	"Uncommon",
 	 		"sort": 	"2"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "",
 		"price":      "10000",
+		"description": "You have resistance to cold damage.<br>You ignore difficult terrain created by ice or snow.<br>You can tolerate temperatures as low as −50 degrees Fahrenheit without any additional protection. If you wear heavy clothes, you can tolerate temperatures as low as −100 degrees Fahrenheit.",
 		"source":      "DMG 156"
     },
     {
@@ -451,9 +583,13 @@
       		"display": 	"Uncommon",
 	 		"sort": 	"2"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "8000",
+		"description": "While this bowl is filled with water, you can use an action to speak the bowl’s command word and summon a water elemental, as if you had cast the conjure elemental spell. The bowl can’t be used this way again until the next dawn.<br><br>The bowl is about 1 foot in diameter and half as deep. It weighs 3 pounds and holds about 3 gallons.",
 		"source":      "DMG 156"
     },
     {
@@ -463,9 +599,13 @@
       		"display": 	"Uncommon",
 	 		"sort": 	"2"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "",
 		"price":      "1500",
+		"description": "While wearing these bracers, you have proficiency with the longbow and shortbow, and you gain a +2 bonus to damage rolls on ranged attacks made with such weapons.",
 		"source":      "DMG 156"
     },
     {
@@ -475,9 +615,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "",
 		"price":      "6000",
+		"description": "While wearing these bracers, you gain a +2 bonus to AC if you are wearing no armor and using no shield.",
 		"source":      "DMG 156"
     },
     {
@@ -487,34 +631,14 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "8000",
+		"description": "While a fire burns in this brass brazier, you can use an action to speak the brazier’s command word and summon a fire elemental, as if you had cast the Conjure Elemental spell. The brazier can’t be used this way again until the next dawn.<br><br>The brazier weighs 5 pounds.",
 		"source":      "DMG 156"
-    },
-    {
-		"name":      "Bronze Griffon",
-		"type":      "Wondrous Item",
-		"rarity":      {
-      		"display": 	"Rare",
-	 		"sort": 	"3"
-	    },
-		"attunement":      "Yes",
-		"notes":      "",
-		"price":      "8000",
-		"source":      "DMG 169"
-    },
-    {
-		"name":      "Bronze Horn of Valhalla",
-		"type":      "Wondrous Item",
-		"rarity":      {
-      		"display": 	"Very Rare",
-	 		"sort": 	"4"
-	    },
-		"attunement":      "No",
-		"notes":      "",
-		"price":      "11200",
-		"source":      "DMG 175"
     },
     {
 		"name":      "Brooch of Shielding",
@@ -523,9 +647,13 @@
       		"display": 	"Uncommon",
 	 		"sort": 	"2"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "",
 		"price":      "7500",
+		"description": "While wearing this brooch, you have resistance to force damage, and you have immunity to damage from the Magic Missile spell.",
 		"source":      "DMG 156"
     },
     {
@@ -535,9 +663,13 @@
       		"display": 	"Uncommon",
 	 		"sort": 	"2"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "8000",
+		"description": "This wooden broom, which weighs 3 pounds, functions like a mundane broom until you stand astride it and speak its command word. It then hovers beneath you and can be ridden in the air. It has a flying speed of 50 feet. It can carry up to 400 pounds, but its flying speed becomes 30 feet while carrying over 200 pounds. The broom stops hovering when you land.<br><br>You can send the broom to travel alone to a destination within 1 mile of you if you speak the command word, name the location, and are familiar with that place. The broom comes back to you when you speak another command word, provided that the broom is still within 1 mile of you.",
 		"source":      "DMG 156"
     },
     {
@@ -547,9 +679,13 @@
       		"display": 	"Very Rare",
 	 		"sort": 	"4"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "",
-		"price":      "",
+		"price":      null,
+		"description": "This slender taper is dedicated to a deity and shares that deity’s alignment. The candle’s alignment can be detected with the Detect Evil and Good spell. The GM chooses the god and associated alignment or determines the alignment randomly.<br><br> <table> <tr> <th>d20</th> <th>Alignment</th> </tr> <tr> <td>1-2</td> <td>Chaotic Evil</td> </tr> <tr> <td>3-4</td> <td>Chaotic Neutral</td> </tr> <tr> <td>5-7</td> <td>Chaotic Good</td> </tr> <tr> <td>8-9</td> <td>Neutral Evil</td> </tr> <tr> <td>10-11</td> <td>Neutral</td> </tr> <tr> <td>12-13</td> <td>Neutral Good</td> </tr> <tr> <td>14-15</td> <td>Lawful Evil</td> </tr> <tr> <td>16-17</td> <td>Lawful Neutral</td> </tr> <tr> <td>18-20</td> <td>Lawful Good</td> </tr> </table> <br><br> The candle’s magic is activated when the candle is lit, which requires an action. After burning for 4 hours, the candle is destroyed. You can snuff it out early for use at a later time. Deduct the time it burned in increments of 1 minute from the candle’s total burn time. <br><br>While lit, the candle sheds dim light in a 30-foot radius. Any creature within that light whose alignment matches that of the candle makes attack rolls, saving throws, and ability checks with advantage. In addition, a cleric or druid in the light whose alignment matches the candle’s can cast 1st-level spells he or she has prepared without expending spell slots, though the spell’s effect is as if cast with a 1st-level slot. <br><br>Alternatively, when you light the candle for the first time, you can cast the Gate spell with it. Doing so destroys the candle.",
 		"source":      "DMG 157"
     },
     {
@@ -559,9 +695,13 @@
       		"display": 	"Very Rare",
 	 		"sort": 	"4"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "",
 		"price":      "1000",
+		"description": "This item is not included in the OGL license.",
 		"source":      "DMG 157"
     },
     {
@@ -571,9 +711,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "8000",
+		"description": "This cape smells faintly of brimstone. While wearing it, you can use it to cast the Dimension Door spell as an action. This property of the cape can’t be used again until the next dawn.<br><br>When you disappear, you leave behind a cloud of smoke, and you appear in a similar cloud of smoke at your destination. The smoke lightly obscures the space you left and the space you appear in, and it dissipates at the end of your next turn. A light or stronger wind disperses the smoke.",
 		"source":      "DMG 157"
     },
     {
@@ -583,9 +727,13 @@
       		"display": 	"Very Rare",
 	 		"sort": 	"4"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "12000",
+		"description": "You can speak the carpet’s command word as an action to make the carpet hover and fly. It moves according to your spoken directions, provided that you are within 30 feet of it.<br><br>Four sizes of carpet of flying exist. The GM chooses the size of a given carpet or determines it randomly. <table> <tr> <th>d100</th> <th>Size</th> <th>Capacity</th> <th>Flying Speed</th> </tr> <tr> <td>1-20</td> <td>3ft. × 5ft.</td> <td>200lb.</td> <td>80 feet</td> </tr> <tr> <td>21-55</td> <td>4ft. × 6ft.</td> <td>400lb.</td> <td>60 feet</td> </tr> <tr> <td>56-80</td> <td>5ft. × 7ft.</td> <td>600lb.</td> <td>40 feet</td> </tr> <tr> <td>81-100</td> <td>6ft. × 9ft.</td> <td>800lb.</td> <td>30 feet</td> </tr> </table>",
 		"source":      "DMG 157"
     },
     {
@@ -595,9 +743,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "8000",
+		"description": "While incense is burning in this censer, you can use an action to speak the censer’s command word and summon an air elemental, as if you had cast the Conjure Elemental spell. The censer can’t be used this way again until the next dawn.<br><br>This 6-inch-wide, 1-foot-high vessel resembles a chalice with a decorated lid. It weighs 1 pound.",
 		"source":      "DMG 158"
     },
     {
@@ -607,9 +759,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "1500",
+		"description": "This hollow metal tube measures about 1 foot long and weighs 1 pound. You can strike it as an action, pointing it at an object within 120 feet of you that can be opened, such as a door, lid, or lock. The chime issues a clear tone, and one lock or latch on the object opens unless the sound can’t reach the object. If no locks or latches remain, the object itself opens.<br><br>The chime can be used ten times. After the tenth time, it cracks and becomes useless.",
 		"source":      "DMG 158"
     },
     {
@@ -619,9 +775,13 @@
       		"display": 	"Uncommon",
 	 		"sort": 	"2"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "1500",
+		"description": "While wearing this circlet, you can use an action to cast the scorching ray spell with it. When you make the spell’s attacks, you do so with an attack bonus of +5. The circlet can’t be used this way again until the next dawn.",
 		"source":      "DMG 158"
     },
     {
@@ -631,9 +791,13 @@
       		"display": 	"Very Rare",
 	 		"sort": 	"4"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "",
 		"price":      "5000",
+		"description": "You have resistance to poison damage.<br>You have a climbing speed equal to your walking speed.<br>You can move up, down, and across vertical surfaces and upside down along ceilings, while leaving your hands free.<br>You can’t be caught in webs of any sort and can move through webs as if they were difficult terrain.<br>You can use an action to cast the Web spell (save DC 13). The web created by the spell fills twice its normal area. Once used, this property of the cloak can’t be used again until the next dawn.",
 		"source":      "DMG 158"
     },
     {
@@ -643,9 +807,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "",
 		"price":      "60000",
+		"description": "While you wear this cloak, it projects an illusion that makes you appear to be standing in a place near your actual location, causing any creature to have disadvantage on attack rolls against you. If you take damage, the property ceases to function until the start of your next turn. This property is suppressed while you are Incapacitated, Restrained, or otherwise unable to move.",
 		"source":      "DMG 158"
     },
     {
@@ -655,9 +823,13 @@
       		"display": 	"Uncommon",
 	 		"sort": 	"2"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "",
 		"price":      "5000",
+		"description": "While you wear this cloak with its hood up, Wisdom (Perception) checks made to see you have disadvantage, and you have advantage on Dexterity (Stealth) checks made to hide, as the cloak’s color shifts to camouflage you. Pulling the hood up or down requires an action.",
 		"source":      "DMG 158"
     },
     {
@@ -667,9 +839,13 @@
       		"display": 	"Legendary",
 	 		"sort": 	"5"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "",
 		"price":      "80000",
+		"description": "This item is not included in the OGL license.",
 		"source":      "DMG 158"
     },
     {
@@ -679,9 +855,13 @@
       		"display": 	"Uncommon",
 	 		"sort": 	"2"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "",
 		"price":      "3500",
+		"description": "You gain a +1 bonus to AC and saving throws while you wear this cloak.",
 		"source":      "DMG 159"
     },
     {
@@ -691,9 +871,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "",
 		"price":      "6000",
+		"description": "While wearing this cloak, you have advantage on Dexterity (Stealth) checks. In an area of dim light or darkness, you can grip the edges of the cloak with both hands and use it to fly at a speed of 40 feet. If you ever fail to grip the cloak’s edges while flying in this way, or if you are no longer in dim light or darkness, you lose this flying speed.<br><br>While wearing the cloak in an area of dim light or darkness, you can use your action to cast Polymorph on yourself, transforming into a bat. While you are in the form of the bat, you retain your Intelligence, Wisdom, and Charisma scores. The cloak can’t be used this way again until the next dawn.",
 		"source":      "DMG 159"
     },
     {
@@ -703,9 +887,13 @@
       		"display": 	"Uncommon",
 	 		"sort": 	"2"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "6000",
+		"description": "While wearing this cloak with its hood up, you can breathe underwater, and you have a swimming speed of 60 feet. Pulling the hood up or down requires an action.",
 		"source":      "DMG 159"
     },
     {
@@ -715,9 +903,13 @@
       		"display": 	"Very Rare",
 	 		"sort": 	"4"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "",
 		"price":      "50000",
+		"description": "The typical crystal ball, a very rare item, is about 6 inches in diameter. While touching it, you can cast the Scrying spell (save DC 17) with it.<br><br>The following crystal ball variants are legendary items and have additional properties.<br><br><b>Crystal Ball of Mind Reading.</b> You can use an action to cast the Detect Thoughts spell (save DC 17) while you are scrying with the crystal ball, targeting creatures you can see within 30 feet of the spell’s sensor. You don’t need to concentrate on this detect thoughts to maintain it during its duration, but it ends if Scrying ends.<br><br><b>Crystal Ball of Telepathy.</b> While scrying with the crystal ball, you can communicate telepathically with creatures you can see within 30 feet of the spell’s sensor. You can also use an action to cast the Suggestion spell (save DC 17) through the sensor on one of those creatures. You don’t need to concentrate on this Suggestion to maintain it during its duration, but it ends if Scrying ends. Once used, the Suggestion power of the crystal ball can’t be used again until the next dawn.<br><br><b>Crystal Ball of True Seeing.</b> While scrying with the crystal ball, you have truesight with a radius of 120 feet centered on the spell’s sensor.",
 		"source":      "DMG 159"
     },
     {
@@ -727,9 +919,13 @@
       		"display": 	"Legendary",
 	 		"sort": 	"5"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "",
-		"price":      "",
+		"price":      null,
+		"description": "The typical crystal ball, a very rare item, is about 6 inches in diameter. While touching it, you can cast the Scrying spell (save DC 17) with it.<br><br>The following crystal ball variants are legendary items and have additional properties.<br><br><b>Crystal Ball of Mind Reading.</b> You can use an action to cast the Detect Thoughts spell (save DC 17) while you are scrying with the crystal ball, targeting creatures you can see within 30 feet of the spell’s sensor. You don’t need to concentrate on this detect thoughts to maintain it during its duration, but it ends if Scrying ends.<br><br><b>Crystal Ball of Telepathy.</b> While scrying with the crystal ball, you can communicate telepathically with creatures you can see within 30 feet of the spell’s sensor. You can also use an action to cast the Suggestion spell (save DC 17) through the sensor on one of those creatures. You don’t need to concentrate on this Suggestion to maintain it during its duration, but it ends if Scrying ends. Once used, the Suggestion power of the crystal ball can’t be used again until the next dawn.<br><br><b>Crystal Ball of True Seeing.</b> While scrying with the crystal ball, you have truesight with a radius of 120 feet centered on the spell’s sensor.",
 		"source":      "DMG 159"
     },
     {
@@ -739,9 +935,13 @@
       		"display": 	"Legendary",
 	 		"sort": 	"5"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "",
-		"price":      "",
+		"price":      null,
+		"description": "The typical crystal ball, a very rare item, is about 6 inches in diameter. While touching it, you can cast the Scrying spell (save DC 17) with it.<br><br>The following crystal ball variants are legendary items and have additional properties.<br><br><b>Crystal Ball of Mind Reading.</b> You can use an action to cast the Detect Thoughts spell (save DC 17) while you are scrying with the crystal ball, targeting creatures you can see within 30 feet of the spell’s sensor. You don’t need to concentrate on this detect thoughts to maintain it during its duration, but it ends if Scrying ends.<br><br><b>Crystal Ball of Telepathy.</b> While scrying with the crystal ball, you can communicate telepathically with creatures you can see within 30 feet of the spell’s sensor. You can also use an action to cast the Suggestion spell (save DC 17) through the sensor on one of those creatures. You don’t need to concentrate on this Suggestion to maintain it during its duration, but it ends if Scrying ends. Once used, the Suggestion power of the crystal ball can’t be used again until the next dawn.<br><br><b>Crystal Ball of True Seeing.</b> While scrying with the crystal ball, you have truesight with a radius of 120 feet centered on the spell’s sensor.",
 		"source":      "DMG 159"
     },
     {
@@ -751,9 +951,13 @@
       		"display": 	"Legendary",
 	 		"sort": 	"5"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "",
-		"price":      "",
+		"price":      null,
+		"description": "The typical crystal ball, a very rare item, is about 6 inches in diameter. While touching it, you can cast the Scrying spell (save DC 17) with it.<br><br>The following crystal ball variants are legendary items and have additional properties.<br><br><b>Crystal Ball of Mind Reading.</b> You can use an action to cast the Detect Thoughts spell (save DC 17) while you are scrying with the crystal ball, targeting creatures you can see within 30 feet of the spell’s sensor. You don’t need to concentrate on this detect thoughts to maintain it during its duration, but it ends if Scrying ends.<br><br><b>Crystal Ball of Telepathy.</b> While scrying with the crystal ball, you can communicate telepathically with creatures you can see within 30 feet of the spell’s sensor. You can also use an action to cast the Suggestion spell (save DC 17) through the sensor on one of those creatures. You don’t need to concentrate on this Suggestion to maintain it during its duration, but it ends if Scrying ends. Once used, the Suggestion power of the crystal ball can’t be used again until the next dawn.<br><br><b>Crystal Ball of True Seeing.</b> While scrying with the crystal ball, you have truesight with a radius of 120 feet centered on the spell’s sensor.",
 		"source":      "DMG 159"
     },
     {
@@ -763,9 +967,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "",
 		"price":      "16000",
+		"description": "This cube is about an inch across. Each face has a distinct marking on it that can be pressed. The cube starts with 36 charges, and it regains 1d20 expended charges daily at dawn.<br><br>You can use an action to press one of the cube’s faces, expending a number of charges based on the chosen face, as shown in the Cube of Force Faces table. Each face has a different effect. If the cube has insufficient charges remaining, nothing happens. Otherwise, a barrier of invisible force springs into existence, forming a cube 15 feet on a side. The barrier is centered on you, moves with you, and lasts for 1 minute, until you use an action to press the cube’s sixth face, or the cube runs out of charges. You can change the barrier’s effect by pressing a different face of the cube and expending the requisite number of charges, resetting the duration.<br><br>If your movement causes the barrier to come into contact with a solid object that can’t pass through the cube, you can’t move any closer to that object as long as the barrier remains. <table> <tr> <th colspan='3'>Cube of Force Faces</th> </tr> <tr> <th>Face</th> <th>Charges</th> <th>Effect</th> </tr> <tr> <td>1</td> <td>1</td> <td>Gases, wind, and fog can’t pass through the barrier.</td> </tr> <tr> <td>2</td> <td>2</td> <td>Nonliving matter can’t pass through the barrier. Walls, floors, and ceilings can pass through at your discretion.</td> </tr> <tr> <td>3</td> <td>3</td> <td>Living matter can’t pass through the barrier.</td> </tr> <tr> <td>4</td> <td>4</td> <td>Spell effects can’t pass through the barrier.</td> </tr> <tr> <td>5</td> <td>5</td> <td>Nothing can pass through the barrier. Walls, floors, and ceilings can pass through at your discretion.</td> </tr> <tr> <td>6</td> <td>0</td> <td>The barrier deactivates.</td> </tr> </table> The cube loses charges when the barrier is targeted by certain spells or comes into contact with certain spell or magic item effects, as shown in the table below. <table> <tr> <th>Spell or Item</th> <th>Charges Lost</th> </tr> <tr> <td>Disintegrate</td> <td>1d12</td> </tr> <tr> <td>Horn of Blasting</td> <td>1d10</td> </tr> <tr> <td>Passwall</td> <td>1d6</td> </tr> <tr> <td>Prismatic Spray</td> <td>1d20</td> </tr> <tr> <td>Wall of Fire</td> <td>1d4</td> </tr> </table>",
 		"source":      "DMG 159"
     },
     {
@@ -775,9 +983,13 @@
       		"display": 	"Legendary",
 	 		"sort": 	"5"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "40000",
+		"description": "This cube is 3 inches across and radiates palpable magical energy. The six sides of the cube are each keyed to a different plane of existence, one of which is the Material Plane. The other sides are linked to planes determined by the GM.<br><br>You can use an action to press one side of the cube to cast the Gate spell with it, opening a portal to the plane keyed to that side. Alternatively, if you use an action to press one side twice, you can cast the Plane Shift spell (save DC 17) with the cube and transport the targets to the plane keyed to that side.<br><br>The cube has 3 charges. Each use of the cube expends 1 charge. The cube regains 1d3 expended charges daily at dawn.",
 		"source":      "DMG 160"
     },
     {
@@ -787,9 +999,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "75000",
+		"description": "This item is not included in the OGL license.",
 		"source":      "DMG 160"
     },
     {
@@ -799,9 +1015,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "Dagger",
 		"price":      "2500",
+		"description": "You gain a +1 bonus to attack and damage rolls made with this magic weapon.<br><br>You can use an action to cause thick, black poison to coat the blade. The poison remains for 1 minute or until an attack using this weapon hits a creature. That creature must succeed on a DC 15 Constitution saving throw or take 2d10 poison damage and become Poisoned for 1 minute. The dagger can’t be used this way again until the next dawn.",
 		"source":      "DMG 161"
     },
     {
@@ -811,9 +1031,13 @@
       		"display": 	"Very Rare",
 	 		"sort": 	"4"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "Any sword",
 		"price":      "2000",
+		"description": "You can use a bonus action to toss this magic sword into the air and speak the command word. When you do so, the sword begins to hover, flies up to 30 feet, and attacks one creature of your choice within 5 feet of it. The sword uses your attack roll and ability score modifier to damage rolls.<br><br>While the sword hovers, you can use a bonus action to cause it to fly up to 30 feet to another spot within 30 feet of you. As part of the same bonus action, you can cause the sword to attack one creature within 5 feet of it.<br><br>After the hovering sword attacks for the fourth time, it flies up to 30 feet and tries to return to your hand. If you have no hand free, it falls to the ground at your feet. If the sword has no unobstructed path to you, it moves as close to you as it can and then falls to the ground. It also ceases to hover if you grasp it or move more than 30 feet away from it.",
 		"source":      "DMG 161"
     },
     {
@@ -823,9 +1047,13 @@
       		"display": 	"Uncommon",
 	 		"sort": 	"2"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "135000",
+		"description": "This stoppered flask sloshes when shaken, as if it contains water. The decanter weighs 2 pounds.<br><br>You can use an action to remove the stopper and speak one of three command words, whereupon an amount of fresh water or salt water (your choice) pours out of the flask. The water stops pouring out at the start of your next turn. Choose from the following options:<br><br>“Stream” produces 1 gallon of water.<br>“Fountain” produces 5 gallons of water.<br>“Geyser” produces 30 gallons of water that gushes forth in a geyser 30 feet long and 1 foot wide. As a bonus action while holding the decanter, you can aim the geyser at a creature you can see within 30 feet of you. The target must succeed on a DC 13 Strength saving throw or take 1d4 bludgeoning damage and fall Prone. Instead of a creature, you can target an object that isn’t being worn or carried and that weighs no more than 200 pounds. The object is either knocked over or pushed up to 15 feet away from you.",
 		"source":      "DMG 161"
     },
     {
@@ -835,9 +1063,13 @@
       		"display": 	"Uncommon",
 	 		"sort": 	"2"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "6120",
+		"description": "This box contains a set of parchment cards. A full deck has 34 cards. A deck found as treasure is usually missing 1d20 − 1 cards.<br><br>The magic of the deck functions only if cards are drawn at random (you can use an altered deck of playing cards to simulate the deck). You can use an action to draw a card at random from the deck and throw it to the ground at a point within 30 feet of you.<br><br>An illusion of one or more creatures forms over the thrown card and remains until dispelled. An illusory creature appears real, of the appropriate size, and behaves as if it were a real creature except that it can do no harm. While you are within 120 feet of the illusory creature and can see it, you can use an action to move it magically anywhere within 30 feet of its card. Any physical interaction with the illusory creature reveals it to be an illusion, because objects pass through it. Someone who uses an action to visually inspect the creature identifies it as illusory with a successful DC 15 Intelligence (Investigation) check. The creature then appears translucent.<br><br>The illusion lasts until its card is moved or the illusion is dispelled. When the illusion ends, the image on its card disappears, and that card can’t be used again. <table> <tr> <th>Playing Card</th> <th>Illusion</th> </tr> <tr> <td>Ace of hearts</td> <td>Red dragon</td> </tr> <tr> <td>King of hearts</td> <td>Knight and four guards</td> </tr> <tr> <td>Queen of hearts</td> <td>Succubus or incubus</td> </tr> <tr> <td>Jack of hearts</td> <td>Druid</td> </tr> <tr> <td>Ten of hearts</td> <td>Cloud giant</td> </tr> <tr> <td>Nine of hearts</td> <td>Ettin</td> </tr> <tr> <td>Eight of hearts</td> <td>Bugbear</td> </tr> <tr> <td>Two of hearts</td> <td>Goblin</td> </tr> <tr> <td>Ace of diamonds</td> <td>Beholder</td> </tr> <tr> <td>King of diamonds</td> <td>Archmage and mage apprentice</td> </tr> <tr> <td>Queen of diamonds</td> <td>Night hag</td> </tr> <tr> <td>Jack of diamonds</td> <td>Assassin</td> </tr> <tr> <td>Ten of diamonds</td> <td>Fire giant</td> </tr> <tr> <td>Nine of diamonds</td> <td>Ogre mage</td> </tr> <tr> <td>Eight of diamonds</td> <td>Gnoll</td> </tr> <tr> <td>Two of diamonds</td> <td>Kobold</td> </tr> <tr> <td>Ace of spades</td> <td>Lich</td> </tr> <tr> <td>King of spades</td> <td>Priest and two acolytes</td> </tr> <tr> <td>Queen of spades</td> <td>Medusa</td> </tr> <tr> <td>Jack of spades</td> <td>Veteran</td> </tr> <tr> <td>Ten of spades</td> <td>Frost giant</td> </tr> <tr> <td>Nine of spades</td> <td>Troll</td> </tr> <tr> <td>Eight of spades</td> <td>Hobgoblin</td> </tr> <tr> <td>Two of spades</td> <td>Goblin</td> </tr> <tr> <td>Ace of clubs</td> <td>Iron golem</td> </tr> <tr> <td>King of clubs</td> <td>Bandit captain and three bandits</td> </tr> <tr> <td>Queen of clubs</td> <td>Erinyes</td> </tr> <tr> <td>Jack of clubs</td> <td>Berserker</td> </tr> <tr> <td>Ten of clubs</td> <td>Hill giant</td> </tr> <tr> <td>Nine of clubs</td> <td>Ogre</td> </tr> <tr> <td>Eight of clubs</td> <td>Orc</td> </tr> <tr> <td>Two of clubs</td> <td>Kobold</td> </tr> <tr> <td>Jokers (2)</td> <td>You (the deck&#8217;s owner)</td> </tr> </table>",
 		"source":      "DMG 161"
     },
     {
@@ -847,9 +1079,13 @@
       		"display": 	"Legendary",
 	 		"sort": 	"5"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
-		"price":      "",
+		"price":      null,
+		"description": "Usually found in a box or pouch, this deck contains a number of cards made of ivory or vellum. Most (75 percent) of these decks have only thirteen cards, but the rest have twenty-two.<br><br>Before you draw a card, you must declare how many cards you intend to draw and then draw them randomly (you can use an altered deck of playing cards to simulate the deck). Any cards drawn in excess of this number have no effect. Otherwise, as soon as you draw a card from the deck, its magic takes effect. You must draw each card no more than 1 hour after the previous draw. If you fail to draw the chosen number, the remaining number of cards fly from the deck on their own and take effect all at once.<br><br>Once a card is drawn, it fades from existence. Unless the card is the Fool or the Jester, the card reappears in the deck, making it possible to draw the same card twice. <table> <tr> <th>Playing Card</th> <th>Card</th> </tr> <tr> <td>Ace of diamonds</td> <td>Vizier*</td> </tr> <tr> <td>King of diamonds</td> <td>Sun</td> </tr> <tr> <td>Queen of diamonds</td> <td>Moon</td> </tr> <tr> <td>Jack of diamonds</td> <td>Star</td> </tr> <tr> <td>Two of diamonds</td> <td>Comet*</td> </tr> <tr> <td>Ace of hearts</td> <td>The Fates*</td> </tr> <tr> <td>King of hearts</td> <td>Throne</td> </tr> <tr> <td>Queen of hearts</td> <td>Key</td> </tr> <tr> <td>Jack of hearts</td> <td>Knight</td> </tr> <tr> <td>Two of hearts</td> <td>Gem*</td> </tr> <tr> <td>Ace of clubs</td> <td>Talons*</td> </tr> <tr> <td>King of clubs</td> <td>The Void</td> </tr> <tr> <td>Queen of clubs</td> <td>Flames</td> </tr> <tr> <td>Jack of clubs</td> <td>Skull</td> </tr> <tr> <td>Two of clubs</td> <td>Idiot*</td> </tr> <tr> <td>Ace of spades</td> <td>Donjon*</td> </tr> <tr> <td>King of spades</td> <td>Ruin</td> </tr> <tr> <td>Queen of spades</td> <td>Euryale</td> </tr> <tr> <td>Jack of spades</td> <td>Rogue</td> </tr> <tr> <td>Two of spades</td> <td>Balance*</td> </tr> <tr> <td>Joker (with TM)</td> <td>Fool*</td> </tr> <tr> <td>Joker (without TM)</td> <td>Jester</td> </tr> </table> *Found only in a deck with twenty-two cards <br><br> <b>Balance.</b> Your mind suffers a wrenching alteration, causing your alignment to change. Lawful becomes chaotic, good becomes evil, and vice versa. If you are true neutral or unaligned, this card has no effect on you. <br><br> <b>Comet.</b> If you single-handedly defeat the next hostile monster or group of monsters you encounter, you gain experience points enough to gain one level. Otherwise, this card has no effect. <br><br> <b>Donjon.</b> You disappear and become entombed in a state of suspended animation in an extradimensional sphere. Everything you were wearing and carrying stays behind in the space you occupied when you disappeared. You remain imprisoned until you are found and removed from the sphere. You can’t be located by any divination magic, but a Wish spell can reveal the location of your prison. You draw no more cards. <br><br> <b>Euryale.</b> The card’s medusa-like visage curses you. You take a −2 penalty on saving throws while cursed in this way. Only a god or the magic of The Fates card can end this curse. <br><br> <b>The Fates.</b> Reality’s fabric unravels and spins anew, allowing you to avoid or erase one event as if it never happened. You can use the card’s magic as soon as you draw the card or at any other time before you die. <br><br> <b>Flames.</b> A powerful devil becomes your enemy. The devil seeks your ruin and plagues your life, savoring your suffering before attempting to slay you. This enmity lasts until either you or the devil dies. <br><br> <b>Fool.</b> You lose 10,000 XP, discard this card, and draw from the deck again, counting both draws as one of your declared draws. If losing that much XP would cause you to lose a level, you instead lose an amount that leaves you with just enough XP to keep your level. <br><br> <b>Gem.</b> Twenty-five pieces of jewelry worth 2,000 gp each or fifty gems worth 1,000 gp each appear at your feet. <br><br> <b>Idiot.</b> Permanently reduce your Intelligence by 1d4 + 1 (to a minimum score of 1). You can draw one additional card beyond your declared draws. <br><br> <b>Jester.</b> You gain 10,000 XP, or you can draw two additional cards beyond your declared draws. <br><br> <b>Key.</b> A rare or rarer magic weapon with which you are proficient appears in your hands. The GM chooses the weapon. <br><br> <b>Knight.</b> You gain the service of a 4th-level fighter who appears in a space you choose within 30 feet of you. The fighter is of the same race as you and serves you loyally until death, believing the fates have drawn him or her to you. You control this character. <br><br> <b>Moon.</b> You are granted the ability to cast the Wish spell 1d3 times. <br><br> <b>Rogue.</b> A nonplayer character of the GM’s choice becomes hostile toward you. The identity of your new enemy isn’t known until the NPC or someone else reveals it. Nothing less than a Wish spell or divine intervention can end the NPC’s hostility toward you. <br><br> <b>Ruin.</b> All forms of wealth that you carry or own, other than magic items, are lost to you. Portable property vanishes. Businesses, buildings, and land you own are lost in a way that alters reality the least. Any documentation that proves you should own something lost to this card also disappears. <br><br> <b>Skull.</b> You summon an avatar of death—a ghostly humanoid skeleton clad in a tattered black robe and carrying a spectral scythe. It appears in a space of the GM’s choice within 10 feet of you and attacks you, warning all others that you must win the battle alone. The avatar fights until you die or it drops to 0 hit points, whereupon it disappears. If anyone tries to help you, the helper summons its own avatar of death. A creature slain by an avatar of death can’t be restored to life. <br><br> <b>Star.</b> Increase one of your ability scores by 2. The score can exceed 20 but can’t exceed 24. <br><br> <b>Sun.</b> You gain 50,000 XP, and a wondrous item (which the GM determines randomly) appears in your hands. <br><br> <b>Talons.</b> Every magic item you wear or carry disintegrates. Artifacts in your possession aren’t destroyed but do vanish. <br><br> <b>Throne.</b> You gain proficiency in the Persuasion skill, and you double your proficiency bonus on checks made with that skill. In addition, you gain rightful ownership of a small keep somewhere in the world. However, the keep is currently in the hands of monsters, which you must clear out before you can claim the keep as yours. <br><br> <b>Vizier.</b> At any time you choose within one year of drawing this card, you can ask a question in meditation and mentally receive a truthful answer to that question. Besides information, the answer helps you solve a puzzling problem or other dilemma. In other words, the knowledge comes with wisdom on how to apply it. <br><br> <b>The Void.</b> This black card spells disaster. Your soul is drawn from your body and contained in an object in a place of the GM’s choice. One or more powerful beings guard the place. While your soul is trapped in this way, your body is Incapacitated. A Wish spell can’t restore your soul, but the spell reveals the location of the object that holds it. You draw no more cards.",
 		"source":      "DMG 162"
     },
     {
@@ -859,9 +1095,13 @@
       		"display": 	"Legendary",
 	 		"sort": 	"5"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "Any Sword",
 		"price":      "24000",
+		"description": "You gain a +3 bonus to attack and damage rolls made with this magic weapon.<br><br>The first time you attack with the sword on each of your turns, you can transfer some or all of the sword’s bonus to your Armor Class, instead of using the bonus on any attacks that turn. For example, you could reduce the bonus to your attack and damage rolls to +1 and gain a +2 bonus to AC. The adjusted bonuses remain in effect until the start of your next turn, although you must hold the sword to gain a bonus to AC from it.",
 		"source":      "DMG 164"
     },
     {
@@ -871,9 +1111,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "No",
-		"notes":      "Plate",
-		"price":      "",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
+		"notes":      "Plate, cursed",
+		"price":      null,
+		"description": "While wearing this armor, you gain a +1 bonus to AC, and you can understand and speak Abyssal. In addition, the armor’s clawed gauntlets turn unarmed strikes with your hands into magic weapons that deal slashing damage, with a +1 bonus to attack rolls and damage rolls and a damage die of 1d8.<br><br><b>Curse.</b> Once you don this cursed armor, you can’t doff it unless you are targeted by the Remove Curse spell or similar magic. While wearing the armor, you have disadvantage on attack rolls against demons and on saving throws against their spells and special abilities.",
 		"source":      "DMG 165"
     },
     {
@@ -883,9 +1127,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "3000",
+		"description": "You can use an action to place these shackles on an Incapacitated creature. The shackles adjust to fit a creature of Small to Large size. In addition to serving as mundane manacles, the shackles prevent a creature bound by them from using any method of extradimensional movement, including teleportation or travel to a different plane of existence. They don’t prevent the creature from passing through an interdimensional portal.<br><br>You and any creature you designate when you use the shackles can use an action to remove them. Once every 30 days, the bound creature can make a DC 30 Strength (Athletics) check. On a success, the creature breaks free and destroys the shackles.",
 		"source":      "DMG 165"
     },
     {
@@ -895,9 +1143,13 @@
       		"display": 	"Very Rare",
 	 		"sort": 	"4"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "",
 		"price":      "4000",
+		"description": "",
 		"source":      "DMG 165"
     },
     {
@@ -907,9 +1159,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "Any sword",
 		"price":      "8000",
+		"description": "",
 		"source":      "DMG 166"
     },
     {
@@ -919,9 +1175,13 @@
       		"display": 	"Uncommon",
 	 		"sort": 	"2"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "750",
+		"description": "",
 		"source":      "DMG 166"
     },
     {
@@ -931,9 +1191,13 @@
       		"display": 	"Uncommon",
 	 		"sort": 	"2"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "300",
+		"description": "",
 		"source":      "DMG 166"
     },
     {
@@ -943,9 +1207,13 @@
       		"display": 	"Uncommon",
 	 		"sort": 	"2"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "120",
+		"description": "",
 		"source":      "DMG 166"
     },
     {
@@ -955,9 +1223,13 @@
       		"display": 	"Uncommon",
 	 		"sort": 	"2"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "480",
+		"description": "",
 		"source":      "DMG 166"
     },
     {
@@ -967,9 +1239,13 @@
       		"display": 	"Very Rare",
 	 		"sort": 	"4"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "Plate",
 		"price":      "9000",
+		"description": "",
 		"source":      "DMG 167"
     },
     {
@@ -979,9 +1255,13 @@
       		"display": 	"Very Rare",
 	 		"sort": 	"4"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "Warhammer, dwarf",
 		"price":      "18000",
+		"description": "",
 		"source":      "DMG 167"
     },
     {
@@ -991,9 +1271,13 @@
       		"display": 	"Very Rare",
 	 		"sort": 	"4"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
-		"price":      "",
+		"price":      null,
+		"description": "",
 		"source":      "DMG 167"
     },
     {
@@ -1003,9 +1287,13 @@
       		"display": 	"Legendary",
 	 		"sort": 	"5"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "Chain mail",
 		"price":      "20000",
+		"description": "",
 		"source":      "DMG 167"
     },
     {
@@ -1015,9 +1303,13 @@
       		"display": 	"Uncommon",
 	 		"sort": 	"2"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "960",
+		"description": "",
 		"source":      "DMG 167"
     },
     {
@@ -1027,9 +1319,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "120",
+		"description": "",
 		"source":      "DMG 168"
     },
     {
@@ -1039,9 +1335,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "Chain shirt",
 		"price":      "4000",
+		"description": "",
 		"source":      "DMG 168"
     },
     {
@@ -1051,9 +1351,13 @@
       		"display": 	"Uncommon",
 	 		"sort": 	"2"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "1000",
+		"description": "",
 		"source":      "DMG 168"
     },
     {
@@ -1063,9 +1367,13 @@
       		"display": 	"Uncommon",
 	 		"sort": 	"2"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "",
 		"price":      "3000",
+		"description": "",
 		"source":      "DMG 168"
     },
     {
@@ -1075,9 +1383,13 @@
       		"display": 	"Uncommon",
 	 		"sort": 	"2"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "2500",
+		"description": "",
 		"source":      "DMG 168"
     },
     {
@@ -1087,9 +1399,13 @@
       		"display": 	"Uncommon",
 	 		"sort": 	"2"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "",
 		"price":      "2500",
+		"description": "",
 		"source":      "DMG 168"
     },
     {
@@ -1099,9 +1415,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "8000",
+		"description": "",
 		"source":      "DMG 169"
     },
     {
@@ -1111,9 +1431,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "6000",
+		"description": "",
 		"source":      "DMG 169"
     },
     {
@@ -1123,9 +1447,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "MM 331",
 		"price":      "600",
+		"description": "",
 		"source":      "DMG 169"
     },
     {
@@ -1135,9 +1463,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "MM 332",
 		"price":      "6000",
+		"description": "",
 		"source":      "DMG 170"
     },
     {
@@ -1147,9 +1479,13 @@
       		"display": 	"Very Rare",
 	 		"sort": 	"4"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "MM 235",
 		"price":      "128000",
+		"description": "",
 		"source":      "DMG 170"
     },
     {
@@ -1159,9 +1495,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "MM 332",
 		"price":      "3000",
+		"description": "",
 		"source":      "DMG 170"
     },
     {
@@ -1171,9 +1511,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "8000",
+		"description": "",
 		"source":      "DMG 170"
     },
     {
@@ -1183,9 +1527,13 @@
       		"display": 	"Uncommon",
 	 		"sort": 	"2"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "MM 335",
 		"price":      "5000",
+		"description": "",
 		"source":      "DMG 170"
     },
     {
@@ -1195,9 +1543,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "Any sword",
 		"price":      "5000",
+		"description": "",
 		"source":      "DMG 170"
     },
     {
@@ -1207,9 +1559,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "10000",
+		"description": "",
 		"source":      "DMG 170"
     },
     {
@@ -1219,9 +1575,13 @@
       		"display": 	"Very Rare",
 	 		"sort": 	"4"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "Any sword",
 		"price":      "2200",
+		"description": "",
 		"source":      "DMG 171"
     },
     {
@@ -1231,9 +1591,13 @@
       		"display": 	"Uncommon",
 	 		"sort": 	"2"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "",
 		"price":      "8000",
+		"description": "",
 		"source":      "DMG 171"
     },
     {
@@ -1243,9 +1607,13 @@
       		"display": 	"Uncommon",
 	 		"sort": 	"2"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "5000",
+		"description": "",
 		"source":      "DMG 171"
     },
     {
@@ -1255,9 +1623,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "",
 		"price":      "32000",
+		"description": "",
 		"source":      "DMG 172"
     },
     {
@@ -1267,9 +1639,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "Any axe or sword",
 		"price":      "7000",
+		"description": "",
 		"source":      "DMG 172"
     },
     {
@@ -1279,9 +1655,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "Studded leather",
 		"price":      "2000",
+		"description": "",
 		"source":      "DMG 172"
     },
     {
@@ -1291,9 +1671,13 @@
       		"display": 	"Uncommon",
 	 		"sort": 	"2"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "",
 		"price":      "3000",
+		"description": "",
 		"source":      "DMG 172"
     },
     {
@@ -1303,9 +1687,13 @@
       		"display": 	"Uncommon",
 	 		"sort": 	"2"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "",
 		"price":      "2000",
+		"description": "",
 		"source":      "DMG 172"
     },
     {
@@ -1315,9 +1703,13 @@
       		"display": 	"Uncommon",
 	 		"sort": 	"2"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "5000",
+		"description": "",
 		"source":      "DMG 172"
     },
     {
@@ -1327,9 +1719,13 @@
       		"display": 	"Uncommon",
 	 		"sort": 	"2"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "1500",
+		"description": "",
 		"source":      "DMG 172"
     },
     {
@@ -1339,9 +1735,13 @@
       		"display": 	"Legendary",
 	 		"sort": 	"5"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "Maul",
 		"price":      "16000",
+		"description": "",
 		"source":      "DMG 173"
     },
     {
@@ -1351,9 +1751,13 @@
       		"display": 	"Uncommon",
 	 		"sort": 	"2"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "",
 		"price":      "5000",
+		"description": "",
 		"source":      "DMG 173"
     },
     {
@@ -1363,9 +1767,13 @@
       		"display": 	"Uncommon",
 	 		"sort": 	"2"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "",
 		"price":      "8000",
+		"description": "",
 		"source":      "DMG 173"
     },
     {
@@ -1375,9 +1783,13 @@
       		"display": 	"Uncommon",
 	 		"sort": 	"2"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "500",
+		"description": "",
 		"source":      "DMG 173"
     },
     {
@@ -1387,9 +1799,13 @@
       		"display": 	"Uncommon",
 	 		"sort": 	"2"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "",
 		"price":      "12000",
+		"description": "",
 		"source":      "DMG 174"
     },
     {
@@ -1399,9 +1815,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "",
 		"price":      "64000",
+		"description": "",
 		"source":      "DMG 174"
     },
     {
@@ -1411,9 +1831,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "2000",
+		"description": "",
 		"source":      "DMG 174"
     },
     {
@@ -1423,9 +1847,13 @@
       		"display": 	"Legendary",
 	 		"sort": 	"5"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "Any sword, Paladin",
 		"price":      "165000",
+		"description": "",
 		"source":      "DMG 174"
     },
     {
@@ -1435,9 +1863,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "450",
+		"description": "",
 		"source":      "DMG 174"
     },
     {
@@ -1447,9 +1879,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "MM 344",
 		"price":      "8400",
+		"description": "",
 		"source":      "DMG 175"
     },
     {
@@ -1459,9 +1895,13 @@
       		"display": 	"Very Rare",
 	 		"sort": 	"4"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "MM 344",
 		"price":      "11200",
+		"description": "",
 		"source":      "DMG 175"
     },
     {
@@ -1471,9 +1911,13 @@
       		"display": 	"Legendary",
 	 		"sort": 	"5"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "MM 344",
 		"price":      "14000",
+		"description": "",
 		"source":      "DMG 175"
     },
     {
@@ -1483,9 +1927,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "MM 344",
 		"price":      "5600",
+		"description": "",
 		"source":      "DMG 175"
     },
     {
@@ -1495,9 +1943,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "5000",
+		"description": "",
 		"source":      "DMG 175"
     },
     {
@@ -1507,9 +1959,13 @@
       		"display": 	"Very Rare",
 	 		"sort": 	"4"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "1500",
+		"description": "",
 		"source":      "DMG 175"
     },
     {
@@ -1519,9 +1975,13 @@
       		"display": 	"Uncommon",
 	 		"sort": 	"2"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "5000",
+		"description": "",
 		"source":      "DMG 175"
     },
     {
@@ -1531,9 +1991,13 @@
       		"display": 	"Very Rare",
 	 		"sort": 	"4"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "Bard",
 		"price":      "109000",
+		"description": "",
 		"source":      "DMG 176"
     },
     {
@@ -1543,9 +2007,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "Bard",
 		"price":      "30000",
+		"description": "",
 		"source":      "DMG 176"
     },
     {
@@ -1555,9 +2023,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "Bard",
 		"price":      "35000",
+		"description": "",
 		"source":      "DMG 176"
     },
     {
@@ -1567,9 +2039,13 @@
       		"display": 	"Uncommon",
 	 		"sort": 	"2"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "Bard",
 		"price":      "28500",
+		"description": "",
 		"source":      "DMG 176"
     },
     {
@@ -1579,9 +2055,13 @@
       		"display": 	"Uncommon",
 	 		"sort": 	"2"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "Bard",
 		"price":      "26500",
+		"description": "",
 		"source":      "DMG 176"
     },
     {
@@ -1591,9 +2071,13 @@
       		"display": 	"Uncommon",
 	 		"sort": 	"2"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "Bard",
 		"price":      "27000",
+		"description": "",
 		"source":      "DMG 176"
     },
     {
@@ -1603,9 +2087,13 @@
       		"display": 	"Legendary",
 	 		"sort": 	"5"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "Bard",
 		"price":      "125000",
+		"description": "",
 		"source":      "DMG 176"
     },
     {
@@ -1615,9 +2103,13 @@
       		"display": 	"Very Rare",
 	 		"sort": 	"4"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "",
 		"price":      "2400",
+		"description": "",
 		"source":      "DMG 177"
     },
     {
@@ -1627,9 +2119,13 @@
       		"display": 	"Very Rare",
 	 		"sort": 	"4"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "",
 		"price":      "3000",
+		"description": "",
 		"source":      "DMG 177"
     },
     {
@@ -1639,9 +2135,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "",
 		"price":      "12000",
+		"description": "",
 		"source":      "DMG 177"
     },
     {
@@ -1651,9 +2151,13 @@
       		"display": 	"Very Rare",
 	 		"sort": 	"4"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "",
 		"price":      "3000",
+		"description": "",
 		"source":      "DMG 177"
     },
     {
@@ -1663,9 +2167,13 @@
       		"display": 	"Legendary",
 	 		"sort": 	"5"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "",
 		"price":      "31000",
+		"description": "",
 		"source":      "DMG 177"
     },
     {
@@ -1675,9 +2183,13 @@
       		"display": 	"Very Rare",
 	 		"sort": 	"4"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "",
 		"price":      "3000",
+		"description": "",
 		"source":      "DMG 177"
     },
     {
@@ -1687,9 +2199,13 @@
       		"display": 	"Very Rare",
 	 		"sort": 	"4"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "",
 		"price":      "3000",
+		"description": "",
 		"source":      "DMG 177"
     },
     {
@@ -1699,9 +2215,13 @@
       		"display": 	"Very Rare",
 	 		"sort": 	"4"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "",
 		"price":      "3000",
+		"description": "",
 		"source":      "DMG 177"
     },
     {
@@ -1711,9 +2231,13 @@
       		"display": 	"Legendary",
 	 		"sort": 	"5"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "",
 		"price":      "15000",
+		"description": "",
 		"source":      "DMG 177"
     },
     {
@@ -1723,9 +2247,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "",
 		"price":      "1200",
+		"description": "",
 		"source":      "DMG 177"
     },
     {
@@ -1735,9 +2263,13 @@
       		"display": 	"Legendary",
 	 		"sort": 	"5"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "",
 		"price":      "4000",
+		"description": "",
 		"source":      "DMG 177"
     },
     {
@@ -1747,9 +2279,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "",
 		"price":      "6000",
+		"description": "",
 		"source":      "DMG 177"
     },
     {
@@ -1759,9 +2295,13 @@
       		"display": 	"Very Rare",
 	 		"sort": 	"4"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "",
 		"price":      "3000",
+		"description": "",
 		"source":      "DMG 177"
     },
     {
@@ -1771,9 +2311,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "",
 		"price":      "1000",
+		"description": "",
 		"source":      "DMG 177"
     },
     {
@@ -1783,9 +2327,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "4000",
+		"description": "",
 		"source":      "DMG 177"
     },
     {
@@ -1795,9 +2343,13 @@
       		"display": 	"Legendary",
 	 		"sort": 	"5"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
-		"price":      "",
+		"price":      null,
+		"description": "",
 		"source":      "DMG 178"
     },
     {
@@ -1807,9 +2359,13 @@
       		"display": 	"Uncommon",
 	 		"sort": 	"2"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "Javelin",
 		"price":      "1500",
+		"description": "",
 		"source":      "DMG 178"
     },
     {
@@ -1819,9 +2375,13 @@
       		"display": 	"Uncommon",
 	 		"sort": 	"2"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "120",
+		"description": "",
 		"source":      "DMG 179"
     },
     {
@@ -1831,9 +2391,13 @@
       		"display": 	"Uncommon",
 	 		"sort": 	"2"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "5000",
+		"description": "",
 		"source":      "DMG 179"
     },
     {
@@ -1843,9 +2407,13 @@
       		"display": 	"Legendary",
 	 		"sort": 	"5"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "Any sword",
-		"price":      "",
+		"price":      null,
+		"description": "",
 		"source":      "DMG 179"
     },
     {
@@ -1855,9 +2423,13 @@
       		"display": 	"Uncommon",
 	 		"sort": 	"2"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "",
 		"price":      "4200",
+		"description": "",
 		"source":      "DMG 205"
     },
     {
@@ -1867,9 +2439,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "Mace",
 		"price":      "8000",
+		"description": "",
 		"source":      "DMG 179"
     },
     {
@@ -1879,9 +2455,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "Mace",
 		"price":      "7000",
+		"description": "",
 		"source":      "DMG 179"
     },
     {
@@ -1891,9 +2471,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "Mace",
 		"price":      "8000",
+		"description": "",
 		"source":      "DMG 180"
     },
     {
@@ -1903,9 +2487,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "",
 		"price":      "30000",
+		"description": "",
 		"source":      "DMG 180"
     },
     {
@@ -1915,9 +2503,13 @@
       		"display": 	"Very Rare",
 	 		"sort": 	"4"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
-		"price":      "",
+		"price":      null,
+		"description": "",
 		"source":      "DMG 180"
     },
     {
@@ -1927,9 +2519,13 @@
       		"display": 	"Very Rare",
 	 		"sort": 	"4"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
-		"price":      "",
+		"price":      null,
+		"description": "",
 		"source":      "DMG 180"
     },
     {
@@ -1939,9 +2535,13 @@
       		"display": 	"Very Rare",
 	 		"sort": 	"4"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
-		"price":      "",
+		"price":      null,
+		"description": "",
 		"source":      "DMG 180"
     },
     {
@@ -1951,9 +2551,13 @@
       		"display": 	"Very Rare",
 	 		"sort": 	"4"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
-		"price":      "",
+		"price":      null,
+		"description": "",
 		"source":      "DMG 181"
     },
     {
@@ -1963,9 +2567,13 @@
       		"display": 	"Uncommon",
 	 		"sort": 	"2"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "1500",
+		"description": "",
 		"source":      "DMG 181"
     },
     {
@@ -1975,9 +2583,13 @@
       		"display": 	"Uncommon",
 	 		"sort": 	"2"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "",
 		"price":      "3000",
+		"description": "",
 		"source":      "DMG 181"
     },
     {
@@ -1987,9 +2599,13 @@
       		"display": 	"Very Rare",
 	 		"sort": 	"4"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "18000",
+		"description": "",
 		"source":      "DMG 181"
     },
     {
@@ -1999,9 +2615,13 @@
       		"display": 	"Uncommon",
 	 		"sort": 	"2"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "Medium or heavy, but not hide",
 		"price":      "800",
+		"description": "",
 		"source":      "DMG 182"
     },
     {
@@ -2011,9 +2631,13 @@
       		"display": 	"Uncommon",
 	 		"sort": 	"2"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "",
 		"price":      "1500",
+		"description": "",
 		"source":      "DMG 182"
     },
     {
@@ -2023,9 +2647,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "300",
+		"description": "",
 		"source":      "DMG 182"
     },
     {
@@ -2035,9 +2663,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "480",
+		"description": "",
 		"source":      "DMG 182"
     },
     {
@@ -2047,9 +2679,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "960",
+		"description": "",
 		"source":      "DMG 182"
     },
     {
@@ -2059,9 +2695,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "1600",
+		"description": "",
 		"source":      "DMG 182"
     },
     {
@@ -2071,9 +2711,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "3840",
+		"description": "",
 		"source":      "DMG 182"
     },
     {
@@ -2083,9 +2727,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "7680",
+		"description": "",
 		"source":      "DMG 182"
     },
     {
@@ -2095,9 +2743,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "Cleric, Druid, or Paladin",
 		"price":      "1500",
+		"description": "",
 		"source":      "DMG 182"
     },
     {
@@ -2107,9 +2759,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "Cleric, Druid, or Paladin",
 		"price":      "2000",
+		"description": "",
 		"source":      "DMG 182"
     },
     {
@@ -2119,9 +2775,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "Cleric, Druid, or Paladin",
 		"price":      "1500",
+		"description": "",
 		"source":      "DMG 182"
     },
     {
@@ -2131,9 +2791,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "Cleric, Druid, or Paladin",
 		"price":      "32000",
+		"description": "",
 		"source":      "DMG 182"
     },
     {
@@ -2143,9 +2807,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "Cleric, Druid, or Paladin",
 		"price":      "128000",
+		"description": "",
 		"source":      "DMG 182"
     },
     {
@@ -2155,9 +2823,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "Cleric, Druid, or Paladin",
 		"price":      "96000",
+		"description": "",
 		"source":      "DMG 182"
     },
     {
@@ -2167,9 +2839,13 @@
       		"display": 	"Very Rare",
 	 		"sort": 	"4"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "Any sword",
 		"price":      "8000",
+		"description": "",
 		"source":      "DMG 183"
     },
     {
@@ -2179,9 +2855,13 @@
       		"display": 	"Very Rare",
 	 		"sort": 	"4"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "200",
+		"description": "",
 		"source":      "DMG 183"
     },
     {
@@ -2191,9 +2871,13 @@
       		"display": 	"Very Rare",
 	 		"sort": 	"4"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "Longbow",
 		"price":      "3500",
+		"description": "",
 		"source":      "DMG 183"
     },
     {
@@ -2203,9 +2887,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "1920",
+		"description": "",
 		"source":      "DMG 183"
     },
     {
@@ -2215,9 +2903,13 @@
       		"display": 	"Very Rare",
 	 		"sort": 	"4"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "3200",
+		"description": "",
 		"source":      "DMG 184"
     },
     {
@@ -2227,9 +2919,13 @@
       		"display": 	"Uncommon",
 	 		"sort": 	"2"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "480",
+		"description": "",
 		"source":      "DMG 184"
     },
     {
@@ -2239,9 +2935,13 @@
       		"display": 	"Uncommon",
 	 		"sort": 	"2"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "Spellcaster",
 		"price":      "6000",
+		"description": "",
 		"source":      "DMG 184"
     },
     {
@@ -2251,9 +2951,13 @@
       		"display": 	"Uncommon",
 	 		"sort": 	"2"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "5000",
+		"description": "",
 		"source":      "DMG 184"
     },
     {
@@ -2263,9 +2967,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "5000",
+		"description": "",
 		"source":      "DMG 184"
     },
     {
@@ -2275,9 +2983,13 @@
       		"display": 	"Uncommon",
 	 		"sort": 	"2"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "",
 		"price":      "5000",
+		"description": "",
 		"source":      "DMG 184"
     },
     {
@@ -2287,9 +2999,13 @@
       		"display": 	"Uncommon",
 	 		"sort": 	"2"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "90",
+		"description": "",
 		"source":      "DMG 184"
     },
     {
@@ -2299,9 +3015,13 @@
       		"display": 	"Uncommon",
 	 		"sort": 	"2"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "6000",
+		"description": "",
 		"source":      "DMG 185"
     },
     {
@@ -2311,9 +3031,13 @@
       		"display": 	"Uncommon",
 	 		"sort": 	"2"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "",
 		"price":      "2000",
+		"description": "",
 		"source":      "DMG 185"
     },
     {
@@ -2323,9 +3047,13 @@
       		"display": 	"Legendary",
 	 		"sort": 	"5"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "Plate",
 		"price":      "48000",
+		"description": "",
 		"source":      "DMG 185"
     },
     {
@@ -2335,9 +3063,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "8000",
+		"description": "",
 		"source":      "DMG 185"
     },
     {
@@ -2347,9 +3079,13 @@
       		"display": 	"Uncommon",
 	 		"sort": 	"2"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "200",
+		"description": "",
 		"source":      "DMG 187"
     },
     {
@@ -2359,9 +3095,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "960",
+		"description": "",
 		"source":      "DMG 187"
     },
     {
@@ -2371,9 +3111,13 @@
       		"display": 	"Common",
 	 		"sort": 	"1"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "180",
+		"description": "",
 		"source":      "DMG 187"
     },
     {
@@ -2383,9 +3127,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "270",
+		"description": "",
 		"source":      "DMG 187"
     },
     {
@@ -2395,9 +3143,13 @@
       		"display": 	"Uncommon",
 	 		"sort": 	"2"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "150",
+		"description": "",
 		"source":      "DMG 187"
     },
     {
@@ -2407,9 +3159,13 @@
       		"display": 	"Very Rare",
 	 		"sort": 	"4"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "500",
+		"description": "",
 		"source":      "DMG 187"
     },
     {
@@ -2419,9 +3175,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "300",
+		"description": "",
 		"source":      "DMG 187"
     },
     {
@@ -2431,9 +3191,13 @@
       		"display": 	"Uncommon",
 	 		"sort": 	"2"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "150",
+		"description": "",
 		"source":      "DMG 187"
     },
     {
@@ -2443,9 +3207,13 @@
       		"display": 	"Uncommon",
 	 		"sort": 	"2"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "270",
+		"description": "",
 		"source":      "DMG 187"
     },
     {
@@ -2455,9 +3223,13 @@
       		"display": 	"Common",
 	 		"sort": 	"1"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "50",
+		"description": "",
 		"source":      "DMG 187"
     },
     {
@@ -2467,9 +3239,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "180",
+		"description": "",
 		"source":      "DMG 188"
     },
     {
@@ -2479,9 +3255,13 @@
       		"display": 	"Very Rare",
 	 		"sort": 	"4"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "180",
+		"description": "",
 		"source":      "DMG 188"
     },
     {
@@ -2491,9 +3271,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "3840",
+		"description": "",
 		"source":      "DMG 188"
     },
     {
@@ -2503,9 +3287,13 @@
       		"display": 	"Very Rare",
 	 		"sort": 	"4"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "9000",
+		"description": "",
 		"source":      "DMG 188"
     },
     {
@@ -2515,9 +3303,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "180",
+		"description": "",
 		"source":      "DMG 188"
     },
     {
@@ -2527,9 +3319,13 @@
       		"display": 	"Uncommon",
 	 		"sort": 	"2"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "100",
+		"description": "",
 		"source":      "DMG 188"
     },
     {
@@ -2539,9 +3335,13 @@
       		"display": 	"Uncommon",
 	 		"sort": 	"2"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "300",
+		"description": "",
 		"source":      "DMG 188"
     },
     {
@@ -2551,9 +3351,13 @@
       		"display": 	"Very Rare",
 	 		"sort": 	"4"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "400",
+		"description": "",
 		"source":      "DMG 188"
     },
     {
@@ -2563,9 +3367,13 @@
       		"display": 	"Very Rare",
 	 		"sort": 	"4"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "450",
+		"description": "",
 		"source":      "DMG 187"
     },
     {
@@ -2575,9 +3383,13 @@
       		"display": 	"Very Rare",
 	 		"sort": 	"4"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "1350",
+		"description": "",
 		"source":      "DMG 187"
     },
     {
@@ -2587,9 +3399,13 @@
       		"display": 	"Very Rare",
 	 		"sort": 	"4"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "960",
+		"description": "",
 		"source":      "DMG 188"
     },
     {
@@ -2599,9 +3415,13 @@
       		"display": 	"Uncommon",
 	 		"sort": 	"2"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "180",
+		"description": "",
 		"source":      "DMG 188"
     },
     {
@@ -2611,9 +3431,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "50",
+		"description": "",
 		"source":      "DMG 188"
     },
     {
@@ -2623,9 +3447,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "3000",
+		"description": "",
 		"source":      "DMG 188"
     },
     {
@@ -2635,9 +3463,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "250",
+		"description": "",
 		"source":      "DMG 188"
     },
     {
@@ -2647,9 +3479,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "3000",
+		"description": "",
 		"source":      "DMG 188"
     },
     {
@@ -2659,9 +3495,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "250",
+		"description": "",
 		"source":      "DMG 188"
     },
     {
@@ -2671,9 +3511,13 @@
       		"display": 	"Uncommon",
 	 		"sort": 	"2"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "1000",
+		"description": "",
 		"source":      "DMG 189"
     },
     {
@@ -2683,9 +3527,13 @@
       		"display": 	"Legendary",
 	 		"sort": 	"5"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "",
 		"price":      "35000",
+		"description": "",
 		"source":      "DMG 190"
     },
     {
@@ -2695,9 +3543,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "4000",
+		"description": "",
 		"source":      "DMG 189"
     },
     {
@@ -2707,9 +3559,13 @@
       		"display": 	"Legendary",
 	 		"sort": 	"5"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "",
-		"price":      "",
+		"price":      null,
+		"description": "",
 		"source":      "DMG 190"
     },
     {
@@ -2719,9 +3575,13 @@
       		"display": 	"Legendary",
 	 		"sort": 	"5"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "",
 		"price":      "31000",
+		"description": "",
 		"source":      "DMG 190"
     },
     {
@@ -2731,9 +3591,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "",
 		"price":      "5000",
+		"description": "",
 		"source":      "DMG 191"
     },
     {
@@ -2743,9 +3607,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "",
 		"price":      "2000",
+		"description": "",
 		"source":      "DMG 191"
     },
     {
@@ -2755,9 +3623,13 @@
       		"display": 	"Legendary",
 	 		"sort": 	"5"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "",
 		"price":      "17000",
+		"description": "",
 		"source":      "DMG 190"
     },
     {
@@ -2767,9 +3639,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "",
 		"price":      "20000",
+		"description": "",
 		"source":      "DMG 191"
     },
     {
@@ -2779,9 +3655,13 @@
       		"display": 	"Legendary",
 	 		"sort": 	"5"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "",
 		"price":      "10000",
+		"description": "",
 		"source":      "DMG 191"
     },
     {
@@ -2791,9 +3671,13 @@
       		"display": 	"Uncommon",
 	 		"sort": 	"2"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "",
 		"price":      "2500",
+		"description": "",
 		"source":      "DMG 191"
     },
     {
@@ -2803,9 +3687,13 @@
       		"display": 	"Uncommon",
 	 		"sort": 	"2"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "",
 		"price":      "16000",
+		"description": "",
 		"source":      "DMG 191"
     },
     {
@@ -2815,9 +3703,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "",
 		"price":      "3500",
+		"description": "",
 		"source":      "DMG 191"
     },
     {
@@ -2827,9 +3719,13 @@
       		"display": 	"Very Rare",
 	 		"sort": 	"4"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "",
 		"price":      "12000",
+		"description": "",
 		"source":      "DMG 191"
     },
     {
@@ -2839,9 +3735,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "",
 		"price":      "6000",
+		"description": "",
 		"source":      "DMG 192"
     },
     {
@@ -2851,9 +3751,13 @@
       		"display": 	"Very Rare",
 	 		"sort": 	"4"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "",
 		"price":      "14000",
+		"description": "",
 		"source":      "DMG 192"
     },
     {
@@ -2863,9 +3767,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "",
 		"price":      "24000",
+		"description": "",
 		"source":      "DMG 192"
     },
     {
@@ -2875,9 +3783,13 @@
       		"display": 	"Legendary",
 	 		"sort": 	"5"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "",
 		"price":      "30000",
+		"description": "",
 		"source":      "DMG 193"
     },
     {
@@ -2887,9 +3799,13 @@
       		"display": 	"Uncommon",
 	 		"sort": 	"2"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "3000",
+		"description": "",
 		"source":      "DMG 193"
     },
     {
@@ -2899,9 +3815,13 @@
       		"display": 	"Very Rare",
 	 		"sort": 	"4"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "",
 		"price":      "80000",
+		"description": "",
 		"source":      "DMG 193"
     },
     {
@@ -2911,9 +3831,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "",
 		"price":      "5000",
+		"description": "",
 		"source":      "DMG 193"
     },
     {
@@ -2923,9 +3847,13 @@
       		"display": 	"Legendary",
 	 		"sort": 	"5"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
-		"price":      "",
+		"price":      null,
+		"description": "",
 		"source":      "DMG 193"
     },
     {
@@ -2935,9 +3863,13 @@
       		"display": 	"Uncommon",
 	 		"sort": 	"2"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "",
 		"price":      "1000",
+		"description": "",
 		"source":      "DMG 193"
     },
     {
@@ -2947,9 +3879,13 @@
       		"display": 	"Uncommon",
 	 		"sort": 	"2"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "",
 		"price":      "25000",
+		"description": "",
 		"source":      "DMG 190"
     },
     {
@@ -2959,9 +3895,13 @@
       		"display": 	"Uncommon",
 	 		"sort": 	"2"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "1500",
+		"description": "",
 		"source":      "DMG 193"
     },
     {
@@ -2971,9 +3911,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "",
 		"price":      "6000",
+		"description": "",
 		"source":      "DMG 193"
     },
     {
@@ -2983,9 +3927,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "",
 		"price":      "30000",
+		"description": "",
 		"source":      "DMG 193"
     },
     {
@@ -2995,9 +3943,13 @@
       		"display": 	"Very Rare",
 	 		"sort": 	"4"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "",
 		"price":      "6000",
+		"description": "",
 		"source":      "DMG 194"
     },
     {
@@ -3007,9 +3959,13 @@
       		"display": 	"Very Rare",
 	 		"sort": 	"4"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "",
 		"price":      "60000",
+		"description": "",
 		"source":      "DMG 194"
     },
     {
@@ -3019,9 +3975,13 @@
       		"display": 	"Legendary",
 	 		"sort": 	"5"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "Sorcerer, Warlock, or Wizard",
 		"price":      "34000",
+		"description": "",
 		"source":      "DMG 194"
     },
     {
@@ -3031,9 +3991,13 @@
       		"display": 	"Uncommon",
 	 		"sort": 	"2"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
-		"price":      "",
+		"price":      null,
+		"description": "",
 		"source":      "DMG 195"
     },
     {
@@ -3043,9 +4007,13 @@
       		"display": 	"Very Rare",
 	 		"sort": 	"4"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "",
 		"price":      "50000",
+		"description": "",
 		"source":      "DMG 195"
     },
     {
@@ -3055,9 +4023,13 @@
       		"display": 	"Very Rare",
 	 		"sort": 	"4"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "",
 		"price":      "25000",
+		"description": "",
 		"source":      "DMG 196"
     },
     {
@@ -3067,9 +4039,13 @@
       		"display": 	"Legendary",
 	 		"sort": 	"5"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "",
 		"price":      "28000",
+		"description": "",
 		"source":      "DMG 196"
     },
     {
@@ -3079,9 +4055,13 @@
       		"display": 	"Legendary",
 	 		"sort": 	"5"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "Cleric, Druid, or Paladin",
-		"price":      "",
+		"price":      null,
+		"description": "",
 		"source":      "DMG 196"
     },
     {
@@ -3091,9 +4071,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "",
 		"price":      "16000",
+		"description": "",
 		"source":      "DMG 197"
     },
     {
@@ -3103,9 +4087,13 @@
       		"display": 	"Very Rare",
 	 		"sort": 	"4"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "16000",
+		"description": "",
 		"source":      "DMG 197"
     },
     {
@@ -3115,9 +4103,13 @@
       		"display": 	"Uncommon",
 	 		"sort": 	"2"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "Warlock",
 		"price":      "12000",
+		"description": "",
 		"source":      "DMG 197"
     },
     {
@@ -3127,9 +4119,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "Warlock",
 		"price":      "16000",
+		"description": "",
 		"source":      "DMG 197"
     },
     {
@@ -3139,9 +4135,13 @@
       		"display": 	"Very Rare",
 	 		"sort": 	"4"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "Warlock",
 		"price":      "28000",
+		"description": "",
 		"source":      "DMG 197"
     },
     {
@@ -3151,9 +4151,13 @@
       		"display": 	"Uncommon",
 	 		"sort": 	"2"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "2000",
+		"description": "",
 		"source":      "DMG 197"
     },
     {
@@ -3163,9 +4167,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "4000",
+		"description": "",
 		"source":      "DMG 197"
     },
     {
@@ -3175,9 +4183,13 @@
       		"display": 	"Uncommon",
 	 		"sort": 	"2"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "2000",
+		"description": "",
 		"source":      "DMG 199"
     },
     {
@@ -3187,9 +4199,13 @@
       		"display": 	"Legendary",
 	 		"sort": 	"5"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "",
 		"price":      "36000",
+		"description": "",
 		"source":      "DMG 199"
     },
     {
@@ -3199,9 +4215,13 @@
       		"display": 	"Very Rare",
 	 		"sort": 	"4"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "Scimitar",
 		"price":      "6000",
+		"description": "",
 		"source":      "DMG 199"
     },
     {
@@ -3211,9 +4231,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "180",
+		"description": "",
 		"source":      "DMG 199"
     },
     {
@@ -3223,9 +4247,13 @@
       		"display": 	"Uncommon",
 	 		"sort": 	"2"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "2000",
+		"description": "",
 		"source":      "DMG 199"
     },
     {
@@ -3235,9 +4263,13 @@
       		"display": 	"Uncommon",
 	 		"sort": 	"2"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "Shield",
 		"price":      "20000",
+		"description": "",
 		"source":      "DMG 199"
     },
     {
@@ -3247,9 +4279,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "Shield",
-		"price":      "",
+		"price":      null,
+		"description": "",
 		"source":      "DMG 200"
     },
     {
@@ -3259,9 +4295,13 @@
       		"display": 	"Uncommon",
 	 		"sort": 	"2"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "Shield",
 		"price":      "1500",
+		"description": "",
 		"source":      "DMG 200"
     },
     {
@@ -3271,9 +4311,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "Shield",
 		"price":      "6000",
+		"description": "",
 		"source":      "DMG 200"
     },
     {
@@ -3283,9 +4327,13 @@
       		"display": 	"Very Rare",
 	 		"sort": 	"4"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "Shield",
 		"price":      "24000",
+		"description": "",
 		"source":      "DMG 200"
     },
     {
@@ -3295,9 +4343,13 @@
       		"display": 	"Uncommon",
 	 		"sort": 	"2"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "",
 		"price":      "5000",
+		"description": "",
 		"source":      "DMG 200"
     },
     {
@@ -3307,9 +4359,13 @@
       		"display": 	"Legendary",
 	 		"sort": 	"5"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "400",
+		"description": "",
 		"source":      "DMG 200"
     },
     {
@@ -3319,9 +4375,13 @@
       		"display": 	"Common",
 	 		"sort": 	"1"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "10",
+		"description": "",
 		"source":      "DMG 200"
     },
     {
@@ -3331,9 +4391,13 @@
       		"display": 	"Common",
 	 		"sort": 	"1"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "60",
+		"description": "",
 		"source":      "DMG 200"
     },
     {
@@ -3343,9 +4407,13 @@
       		"display": 	"Uncommon",
 	 		"sort": 	"2"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "120",
+		"description": "",
 		"source":      "DMG 200"
     },
     {
@@ -3355,9 +4423,13 @@
       		"display": 	"Uncommon",
 	 		"sort": 	"2"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "200",
+		"description": "",
 		"source":      "DMG 200"
     },
     {
@@ -3367,9 +4439,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "320",
+		"description": "",
 		"source":      "DMG 200"
     },
     {
@@ -3379,9 +4455,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "640",
+		"description": "",
 		"source":      "DMG 200"
     },
     {
@@ -3391,9 +4471,13 @@
       		"display": 	"Very Rare",
 	 		"sort": 	"4"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "1280",
+		"description": "",
 		"source":      "DMG 200"
     },
     {
@@ -3403,9 +4487,13 @@
       		"display": 	"Very Rare",
 	 		"sort": 	"4"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "2560",
+		"description": "",
 		"source":      "DMG 200"
     },
     {
@@ -3415,9 +4503,13 @@
       		"display": 	"Very Rare",
 	 		"sort": 	"4"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "5120",
+		"description": "",
 		"source":      "DMG 200"
     },
     {
@@ -3427,9 +4519,13 @@
       		"display": 	"Legendary",
 	 		"sort": 	"5"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "10240",
+		"description": "",
 		"source":      "DMG 200"
     },
     {
@@ -3439,9 +4535,13 @@
       		"display": 	"Very Rare",
 	 		"sort": 	"4"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "Shield",
 		"price":      "50000",
+		"description": "",
 		"source":      "DMG 201"
     },
     {
@@ -3451,9 +4551,13 @@
       		"display": 	"Legendary",
 	 		"sort": 	"5"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "15000",
+		"description": "",
 		"source":      "DMG 201"
     },
     {
@@ -3463,9 +4567,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "Bard, Cleric, Druid, Sorcerer, Warlock, or Wizard",
 		"price":      "12000",
+		"description": "",
 		"source":      "DMG 201"
     },
     {
@@ -3475,9 +4583,13 @@
       		"display": 	"Very Rare",
 	 		"sort": 	"4"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "Druid, Sorcerer, Warlock, or Druid",
 		"price":      "16000",
+		"description": "",
 		"source":      "DMG 201"
     },
     {
@@ -3487,9 +4599,13 @@
       		"display": 	"Very Rare",
 	 		"sort": 	"4"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "Druid, Sorcerer, Warlock, or Druid",
 		"price":      "26000",
+		"description": "",
 		"source":      "DMG 201"
     },
     {
@@ -3499,9 +4615,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "Bard, Cleric, or Druid",
 		"price":      "13000",
+		"description": "",
 		"source":      "DMG 202"
     },
     {
@@ -3511,9 +4631,13 @@
       		"display": 	"Very Rare",
 	 		"sort": 	"4"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "Sorcerer, Warlock, or Druid",
 		"price":      "95500",
+		"description": "",
 		"source":      "DMG 202"
     },
     {
@@ -3523,9 +4647,13 @@
       		"display": 	"Very Rare",
 	 		"sort": 	"4"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "",
 		"price":      "21000",
+		"description": "",
 		"source":      "DMG 203"
     },
     {
@@ -3535,9 +4663,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "Bard, Cleric, Druid, Sorcerer, Warlock, or Wizard",
 		"price":      "16000",
+		"description": "",
 		"source":      "DMG 203"
     },
     {
@@ -3547,9 +4679,13 @@
       		"display": 	"Uncommon",
 	 		"sort": 	"2"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "Cleric, Druid, or Warlock",
 		"price":      "1800",
+		"description": "",
 		"source":      "DMG 203"
     },
     {
@@ -3559,9 +4695,13 @@
       		"display": 	"Legendary",
 	 		"sort": 	"5"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "Sorcerer, Warlock, or Wizard",
-		"price":      "",
+		"price":      null,
+		"description": "",
 		"source":      "DMG 203"
     },
     {
@@ -3571,9 +4711,13 @@
       		"display": 	"Uncommon",
 	 		"sort": 	"2"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "Cleric, Druid, or Warlock",
 		"price":      "2000",
+		"description": "",
 		"source":      "DMG 204"
     },
     {
@@ -3583,9 +4727,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "Druid",
 		"price":      "44000",
+		"description": "",
 		"source":      "DMG 204"
     },
     {
@@ -3595,9 +4743,13 @@
       		"display": 	"Very Rare",
 	 		"sort": 	"4"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "",
 		"price":      "10000",
+		"description": "",
 		"source":      "DMG 204"
     },
     {
@@ -3607,9 +4759,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "Cleric, Druid, or Warlock",
 		"price":      "3000",
+		"description": "",
 		"source":      "DMG 205"
     },
     {
@@ -3619,9 +4775,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "8000",
+		"description": "",
 		"source":      "DMG 205"
     },
     {
@@ -3631,9 +4791,13 @@
       		"display": 	"Uncommon",
 	 		"sort": 	"2"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "Luckstone",
 		"price":      "4200",
+		"description": "",
 		"source":      "DMG 205"
     },
     {
@@ -3643,9 +4807,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "Longsword",
 		"price":      "12000",
+		"description": "",
 		"source":      "DMG 205"
     },
     {
@@ -3655,9 +4823,13 @@
       		"display": 	"Legendary",
 	 		"sort": 	"5"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "Longsword, by alignment",
 		"price":      "36000",
+		"description": "",
 		"source":      "DMG 206"
     },
     {
@@ -3667,9 +4839,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "Any sword",
 		"price":      "1000",
+		"description": "",
 		"source":      "DMG 205"
     },
     {
@@ -3679,9 +4855,13 @@
       		"display": 	"Very Rare",
 	 		"sort": 	"4"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "Any sword that deals slashing damage",
 		"price":      "1700",
+		"description": "",
 		"source":      "DMG 206"
     },
     {
@@ -3691,9 +4871,13 @@
       		"display": 	"Uncommon",
 	 		"sort": 	"2"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "Any Sword",
-		"price":      "",
+		"price":      null,
+		"description": "",
 		"source":      "DMG 206"
     },
     {
@@ -3703,9 +4887,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "Any Sword",
-		"price":      "",
+		"price":      null,
+		"description": "",
 		"source":      "DMG 207"
     },
     {
@@ -3715,9 +4903,13 @@
       		"display": 	"Legendary",
 	 		"sort": 	"5"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "Good alignment",
 		"price":      "71680",
+		"description": "",
 		"source":      "DMG 207"
     },
     {
@@ -3727,9 +4919,13 @@
       		"display": 	"Legendary",
 	 		"sort": 	"5"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "",
 		"price":      "20000",
+		"description": "",
 		"source":      "DMG 207"
     },
     {
@@ -3739,9 +4935,13 @@
       		"display": 	"Legendary",
 	 		"sort": 	"5"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "Evil alignment",
 		"price":      "61440",
+		"description": "",
 		"source":      "DMG 207"
     },
     {
@@ -3751,9 +4951,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "",
 		"price":      "5000",
+		"description": "",
 		"source":      "DMG 208"
     },
     {
@@ -3763,9 +4967,13 @@
       		"display": 	"Very Rare",
 	 		"sort": 	"4"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
-		"price":      "",
+		"price":      null,
+		"description": "",
 		"source":      "DMG 208"
     },
     {
@@ -3775,9 +4983,13 @@
       		"display": 	"Very Rare",
 	 		"sort": 	"4"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
-		"price":      "",
+		"price":      null,
+		"description": "",
 		"source":      "DMG 208"
     },
     {
@@ -3787,9 +4999,13 @@
       		"display": 	"Legendary",
 	 		"sort": 	"5"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "Wizard",
-		"price":      "",
+		"price":      null,
+		"description": "",
 		"source":      "DMG 208"
     },
     {
@@ -3799,9 +5015,13 @@
       		"display": 	"Very Rare",
 	 		"sort": 	"4"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
-		"price":      "",
+		"price":      null,
+		"description": "",
 		"source":      "DMG 209"
     },
     {
@@ -3811,9 +5031,13 @@
       		"display": 	"Uncommon",
 	 		"sort": 	"2"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "Trident",
 		"price":      "800",
+		"description": "",
 		"source":      "DMG 209"
     },
     {
@@ -3823,9 +5047,13 @@
       		"display": 	"Legendary",
 	 		"sort": 	"5"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "300",
+		"description": "",
 		"source":      "DMG 209"
     },
     {
@@ -3835,9 +5063,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "350",
+		"description": "",
 		"source":      "DMG 209"
     },
     {
@@ -3847,9 +5079,13 @@
       		"display": 	"Legendary",
 	 		"sort": 	"5"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "Any sword that deals slashing damage",
 		"price":      "24000",
+		"description": "",
 		"source":      "DMG 209"
     },
     {
@@ -3859,9 +5095,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "Spellcaster",
 		"price":      "10000",
+		"description": "",
 		"source":      "DMG 209"
     },
     {
@@ -3871,9 +5111,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "",
 		"price":      "4000",
+		"description": "",
 		"source":      "DMG 210"
     },
     {
@@ -3883,9 +5127,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "",
 		"price":      "10000",
+		"description": "",
 		"source":      "DMG 210"
     },
     {
@@ -3895,9 +5143,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "Spellcaster",
 		"price":      "32000",
+		"description": "",
 		"source":      "DMG 210"
     },
     {
@@ -3907,9 +5159,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "Spellcaster",
 		"price":      "32000",
+		"description": "",
 		"source":      "DMG 211"
     },
     {
@@ -3919,9 +5175,13 @@
       		"display": 	"Uncommon",
 	 		"sort": 	"2"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "1500",
+		"description": "",
 		"source":      "DMG 211"
     },
     {
@@ -3931,9 +5191,13 @@
       		"display": 	"Uncommon",
 	 		"sort": 	"2"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "8000",
+		"description": "",
 		"source":      "DMG 211"
     },
     {
@@ -3943,9 +5207,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "Spellcaster",
 		"price":      "16000",
+		"description": "",
 		"source":      "DMG 211"
     },
     {
@@ -3955,9 +5223,13 @@
       		"display": 	"Very Rare",
 	 		"sort": 	"4"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "Spellcaster",
 		"price":      "32000",
+		"description": "",
 		"source":      "DMG 211"
     },
     {
@@ -3967,9 +5239,13 @@
       		"display": 	"Uncommon",
 	 		"sort": 	"2"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "1500",
+		"description": "",
 		"source":      "DMG 211"
     },
     {
@@ -3979,9 +5255,13 @@
       		"display": 	"Uncommon",
 	 		"sort": 	"2"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "Spellcaster",
 		"price":      "1200",
+		"description": "",
 		"source":      "DMG 212"
     },
     {
@@ -3991,9 +5271,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "Spellcaster",
 		"price":      "4800",
+		"description": "",
 		"source":      "DMG 212"
     },
     {
@@ -4003,9 +5287,13 @@
       		"display": 	"Very Rare",
 	 		"sort": 	"4"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "Spellcaster",
 		"price":      "19200",
+		"description": "",
 		"source":      "DMG 212"
     },
     {
@@ -4015,9 +5303,13 @@
       		"display": 	"Uncommon",
 	 		"sort": 	"2"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "Spellcaster",
 		"price":      "8000",
+		"description": "",
 		"source":      "DMG 212"
     },
     {
@@ -4027,9 +5319,13 @@
       		"display": 	"Uncommon",
 	 		"sort": 	"2"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "",
 		"price":      "60000",
+		"description": "",
 		"source":      "DMG 213"
     },
     {
@@ -4039,9 +5335,13 @@
       		"display": 	"Uncommon",
 	 		"sort": 	"2"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "",
 		"price":      "1000",
+		"description": "",
 		"source":      "DMG 213"
     },
     {
@@ -4051,9 +5351,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "",
 		"price":      "4000",
+		"description": "",
 		"source":      "DMG 213"
     },
     {
@@ -4063,9 +5367,13 @@
       		"display": 	"Very Rare",
 	 		"sort": 	"4"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "",
 		"price":      "16000",
+		"description": "",
 		"source":      "DMG 213"
     },
     {
@@ -4075,9 +5383,13 @@
       		"display": 	"Legendary",
 	 		"sort": 	"5"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
-		"price":      "",
+		"price":      null,
+		"description": "",
 		"source":      "DMG 213"
     },
     {
@@ -4087,9 +5399,13 @@
       		"display": 	"Uncommon",
 	 		"sort": 	"2"
 	    },
-		"attunement":      "No",
+		"attunement":  {
+			"display": "No",
+			"other":	""
+		},
 		"notes":      "",
 		"price":      "1500",
+		"description": "",
 		"source":      "DMG 213"
     },
     {
@@ -4099,9 +5415,13 @@
       		"display": 	"Uncommon",
 	 		"sort": 	"2"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "",
 		"price":      "8000",
+		"description": "",
 		"source":      "DMG 214"
     },
     {
@@ -4111,9 +5431,13 @@
       		"display": 	"Rare",
 	 		"sort": 	"3"
 	    },
-		"attunement":      "Yes",
+		"attunement":  {
+			"display":  "Yes",
+			"other":	"(requires attunement)"
+		},
 		"notes":      "",
 		"price":      "5000",
+		"description": "",
 		"source":      "DMG 214"
     }
   ]
