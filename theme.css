@@ -152,12 +152,12 @@ table.dataTable thead .sorting_desc {
 /* Expand Row Icon */
 
 td.details-control {
-    background: url('/images/details_open.png') no-repeat center center;
+    background: url('RedishHue/armory/master/images/details_open.png') no-repeat center center;
     background-size: 60%;
     cursor: pointer;
 }
 tr.shown td.details-control {
-    background: url('/images/details_close.png') no-repeat center center;
+    background: url('https://raw.githubusercontent.com/RedishHue/armory/master/images/details_close.png') no-repeat center center;
     background-size: 60%;
 }
 
