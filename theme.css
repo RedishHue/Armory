@@ -184,7 +184,7 @@ table.dataTable thead .sorting_desc {
 /* Color Start */
 
 .child {
-    background: url("/images/phb_bg.jpg");
+    background: url("https://raw.githubusercontent.com/RedishHue/armory/master/images/phb_bg.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
