@@ -1,22 +1,22 @@
 @font-face {
     font-family: SmallCaps;
-    src: url("/resources/SmallCaps.ttf")
+    src: url("https://raw.githubusercontent.com/RedishHue/armory/master/resources/SmallCaps.tff")
 }
 
 @font-face {
     font-family: Bookinsanity;
-    src: url("/resources/Bookinsanity.ttf")
+    src: url("https://raw.githubusercontent.com/RedishHue/armory/master/resources/Bookinsanity.ttf")
 }
 
 @font-face {
     font-family: Bookinsanity;
-    src: url("/resources/Bookinsanity italic.ttf");
+    src: url("https://raw.githubusercontent.com/RedishHue/armory/master/resources/Bookinsanity%20Italic.ttf");
     font-style: italic
 }
 
 @font-face {
     font-family: Bookinsanity;
-    src: url("/resources/Bookinsanity bold.ttf");
+    src: url("https://raw.githubusercontent.com/RedishHue/armory/master/resources/Bookinsanity%bold.ttf");
     font-weight: 100;
 }
 
@@ -152,7 +152,7 @@ table.dataTable thead .sorting_desc {
 /* Expand Row Icon */
 
 td.details-control {
-    background: url('RedishHue/armory/master/images/details_open.png') no-repeat center center;
+    background: url('https://raw.githubusercontent.com/RedishHue/armory/master/images/details_open.png') no-repeat center center;
     background-size: 60%;
     cursor: pointer;
 }
@@ -174,11 +174,11 @@ table.dataTable thead .sorting_desc_disabled {
     background-position: center right
 }
 table.dataTable thead .sorting_asc {
-    background-image: url("/images/sort_asc.png")
+    background-image: url("https://raw.githubusercontent.com/RedishHue/armory/master/images/sort_asc.png")
 }
 
 table.dataTable thead .sorting_desc {
-    background-image: url("/images/sort_desc.png")
+    background-image: url("https://raw.githubusercontent.com/RedishHue/armory/master/images/sort_desc.png")
 }
 
 /* Color Start */
