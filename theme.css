@@ -1,22 +1,22 @@
 @font-face {
     font-family: SmallCaps;
-    src: url("../resources/SmallCaps.ttf")
+    src: url("/resources/SmallCaps.ttf")
 }
 
 @font-face {
     font-family: Bookinsanity;
-    src: url("../resources/Bookinsanity.ttf")
+    src: url("/resources/Bookinsanity.ttf")
 }
 
 @font-face {
     font-family: Bookinsanity;
-    src: url("../resources/Bookinsanity italic.ttf");
+    src: url("/resources/Bookinsanity italic.ttf");
     font-style: italic
 }
 
 @font-face {
     font-family: Bookinsanity;
-    src: url("/resources/Bookinsanity Bold.ttf");
+    src: url("/resources/Bookinsanity bold.ttf");
     font-weight: 100;
 }
 
@@ -152,12 +152,12 @@ table.dataTable thead .sorting_desc {
 /* Expand Row Icon */
 
 td.details-control {
-    background: url('../images/details_open.png') no-repeat center center;
+    background: url('/images/details_open.png') no-repeat center center;
     background-size: 60%;
     cursor: pointer;
 }
 tr.shown td.details-control {
-    background: url('../images/details_close.png') no-repeat center center;
+    background: url('/images/details_close.png') no-repeat center center;
     background-size: 60%;
 }
 
@@ -174,11 +174,11 @@ table.dataTable thead .sorting_desc_disabled {
     background-position: center right
 }
 table.dataTable thead .sorting_asc {
-    background-image: url("../images/sort_asc.png")
+    background-image: url("/images/sort_asc.png")
 }
 
 table.dataTable thead .sorting_desc {
-    background-image: url("../images/sort_desc.png")
+    background-image: url("/images/sort_desc.png")
 }
 
 /* Color Start */
