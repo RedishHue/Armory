@@ -51,11 +51,7 @@
     width: 100% !important;
     bottom: 50px;
     z-index: 1;
-    background: 
-        
-        
-        
-        ('/images/banner_bg.jpg') repeat;
+    background: url('/images/banner_bg.jpg') repeat;
     -webkit-box-shadow: 0px -7px 39px -11px rgba(0,0,0,0.75);
     -moz-box-shadow: 0px -7px 39px -11px rgba(0,0,0,0.75);
     box-shadow: 0px -7px 39px -11px rgba(0,0,0,0.75);
