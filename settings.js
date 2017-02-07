@@ -4,8 +4,109 @@ function format ( d ) {
     if (d.price === null) {
         var price = ""
     } else {
-        var price = "Price: "+d.price+"gp"
+        var price = "Price: " + d.price + "gp"
     }
+    
+    if (d.rarity.sort === 1) {
+        var craftTime = 4
+    } else if (d.rarity.sort === 2) {
+        var craftTime = 20
+    } else if (d.rarity.sort === 3) {
+        var craftTime = 200
+    } else if (d.rarity.sort === 4) {
+        var craftTime = 2000
+    } else if (d.rarity.sort === 5) {
+        var craftTime = 20000
+} 
+    
+    // start here
+    
+    
+    
+    
+    document.getElementById("pc").addEventListener("input", function() {
+        testFunction()
+    }, false); 
+
+    document.getElementById("skill").addEventListener("input", function() {
+        testFunction()
+    }, false); 
+
+    document.getElementById("magic").addEventListener("input", function() {
+        testFunction()
+    }, false); 
+
+    document.getElementById("scheme").addEventListener("change", function() {
+        testFunction()
+    }, false); 
+
+    document.getElementById("price").addEventListener("input", function() {
+        testFunction()
+    }, false); 
+    
+    
+    
+    
+var craftCost = d.price/2
+
+function testFunction() {
+			
+	function costCalc() {
+  		var p = document.getElementById("price").value;
+        var z = (100 - p)/100;
+        var dd = z * craftCost;
+        var dd = +dd.toFixed(2);
+        return dd
+  }
+		
+  function timeCalc() {
+  		if (document.getElementById("scheme").checked === true) {
+      	cTime = craftTime * 0.75
+      } else {
+      	cTime = craftTime
+      }
+      var x = document.getElementById("pc").value;
+      var y = document.getElementById("skill").value;
+      var z = document.getElementById("magic").value;
+      var magicPC = Math.pow(x, 1) + Math.pow(z, 1);
+      var math = Math.pow(0.5, magicPC);
+      var mathS = Math.pow(0.75, y);
+      var result = cTime*math
+      var fMath = result * mathS;
+      var roundTime = Math.round(fMath)
+      
+      if (roundTime < 1) {
+      	roundTime = 1
+      } else {
+      	roundTime = roundTime
+      }
+      
+      return roundTime
+  }
+  
+  function costDaily() {
+  		var x = costCalc();
+        var y = timeCalc();
+   	    var daily = x / y
+        var daily = +daily.toFixed(2);
+        return daily
+   }
+document.getElementById("totName").innerHTML = d.name;
+document.getElementById("totCraft").innerHTML = timeCalc();
+document.getElementById("totCost").innerHTML = costCalc();
+document.getElementById("totDaily").innerHTML = costDaily();
+}
+
+var p = document.getElementById("price"),
+    res = document.getElementById("result");
+
+p.addEventListener("input", function() {
+    res.innerHTML = p.value + "%";
+}, false); 
+
+testFunction();
+    
+    // end here
 
     // `d` is the original data object for the row
     return  "<div class='slider' style='max-width:70%;mind-width:700px;margin:auto;'>"+
@@ -14,7 +115,10 @@ function format ( d ) {
             "<span style='font-family: Bookinsanity; color: black'><i>"+d.type+", "+d.rarity.display+" "+d.attunement.other+"</i>"+
             "<br>"+d.description+"</p></span><br>"+
     
-            "<span style='font-family: Bookinsanity; color: black'><p>"+price+"</span>"+"<span style='float:right; font-family: bookinsanity; color: black'>"+d.source+"</span></p></div>";
+            "<span style='font-family: Bookinsanity; color: black'><p>"+price+"</span>"+"<span style='float:right; font-family: bookinsanity; color: black'>"+d.source+"</span></div><br>"+"<div style='width: 70%; margin: auto;'></div>"        
+    ;
+    
+    
 }
 
 
@@ -24,11 +128,12 @@ $(document).ready(function() {
     // Setup - add a text input to each footer cell
     $('.input-filter').each( function () {
         var title = $(this).text();
-        $(this).html( '<input type="text" placeholder="Search '+title+'" />' );
+        $(this).html( '<input type="text" class="'+title+'" placeholder="Search '+title+'" />' );
     } );
- 
+    
     // DataTable
     var table = $('#example').DataTable( {
+        "dom": 'lrtip',
         "order": [[1, "asc"]],
         "paging": false,
         "info": false,
@@ -50,6 +155,13 @@ $(document).ready(function() {
             { data: "notes" },
             { data: "price" },
             { data: "source"},
+            {
+                "className":      'child-data',
+                "orderable":      true,
+                "searchable":     true,
+                "data":           "description",
+                "visible":        false,
+            },
             
         ],
         "columnDefs": [
@@ -74,9 +186,18 @@ $(document).ready(function() {
                     select.append( '<option value="'+d+'">'+d+'</option>' )
                 } );
             } );
-        }
+        },
     });
- 
+    
+    // Description Search
+    $('#details').on( 'keyup change', function () { 
+    table
+        .columns( 8 )
+        .search( this.value )
+        .draw();
+    } ); 
+    // Description Seach End
+    
     // Apply the search
     table.columns().every( function () {
         var that = this;
@@ -93,7 +214,7 @@ $(document).ready(function() {
     $('#example tbody').on('click', 'td.details-control', function () {
         var tr = $(this).closest('tr');
         var row = table.row( tr );
- 
+        
         if ( row.child.isShown() ) {
             // This row is already open - close it
             $('div.slider', row.child()).slideUp( function () {
@@ -108,6 +229,7 @@ $(document).ready(function() {
             
             $('div.slider', row.child()).slideDown();
         }
+        
     } );
     
 } );

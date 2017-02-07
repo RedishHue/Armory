@@ -1,24 +1,69 @@
 @font-face {
     font-family: SmallCaps;
-    src: url("https://raw.githubusercontent.com/RedishHue/armory/master/resources/SmallCaps.tff")
+    src: url("/resources/SmallCaps.ttf")
 }
 
 @font-face {
     font-family: Bookinsanity;
-    src: url("https://raw.githubusercontent.com/RedishHue/armory/master/resources/Bookinsanity.ttf")
+    src: url("/resources/Bookinsanity.ttf")
 }
 
 @font-face {
     font-family: Bookinsanity;
-    src: url("https://raw.githubusercontent.com/RedishHue/armory/master/resources/Bookinsanity%20Italic.ttf");
+    src: url("/resources/Bookinsanity italic.ttf");
     font-style: italic
 }
 
 @font-face {
     font-family: Bookinsanity;
-    src: url("https://raw.githubusercontent.com/RedishHue/armory/master/resources/Bookinsanity%bold.ttf");
+    src: url("/resources/Bookinsanity bold.ttf");
     font-weight: 100;
 }
+/* Expand */
+
+.small {
+    width: 150px;
+    text-align: center
+}
+
+#NameAtTop {
+    top: 20px;
+    width: auto;
+    height: 30px;
+    font-family: SmallCaps;
+    color:#58180D;
+    font-size: 28px;
+    text-align: center;
+    padding-top: 5px;
+}
+
+#divSectionInfo {
+    width:0%;
+    height: auto;
+}
+.hidey {
+    display: none;
+}
+
+.width100 {
+    position: fixed;
+    display: block;
+    width: 100% !important;
+    bottom: 50px;
+    z-index: 1;
+    background: url('/images/banner_bg.jpg') repeat;
+    -webkit-box-shadow: 0px -7px 39px -11px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px -7px 39px -11px rgba(0,0,0,0.75);
+    box-shadow: 0px -7px 39px -11px rgba(0,0,0,0.75);
+}
+
+.heightauto {
+  display: block;
+  height: auto;
+  width: auto;
+}
+
+/* Expand End */
 
 div.slider {
     display: none;
@@ -32,7 +77,7 @@ html, body {
 body {
     overflow-y: scroll;
     overflow-x: hidden;
-    background-color: gray; /* color for border */
+    background: url('/images/banner_bg.jpg') repeat;
 }
 
 .nightmode {
@@ -47,49 +92,105 @@ label {
     display:none;
 }
 
-thead {
-    position: static;
-}
 
 
 .button {
-    float: right;
-    margin-right: 20px;
+    float: left;
+    margin-left: 10px;
     margin-top: 15px;
     width: 20px;
     height: 20px;
     border-radius: 10px;
-    background-color: black;
 }
+
+.btn {
+    float: right;
+    margin-right: 10px;
+    margin-top: 5px;
+    width: 40px;
+    height: 40px;
+    border-radius: 10px;
+    background: url('/images/anvil.png') no-repeat center center;
+    background-size: 100%;
+    
+}
+
+.image2 {
+    background: url('/images/anvil_impact.png') no-repeat center center;
+    background-size: 100%;
+}
+
+
+
+button {
+    border: none;
+    background-color: #969696
+}
+
 
 .house {
     font-size: 22px;
     font-family: arial;
-    background-color: #f0f0f0;
+    background: url('/images/banner_bg.jpg') repeat;
+    
 }
 
-input {
+.input-filter {
     position: fixed;
-    bottom: 12.5px;
-    width: 300px;
-    margin-left: -150px;
+    bottom: 10px;
     float: left;
     font-size: 15px;
-    z-index: 1;
-    border-color: black;
-    border-width: 1px;
+    z-index: 3;
+    padding-left: 10px;
 }
+
+
+
+.deets {
+    z-index: 3;
+    float: right;
+    margin-right: 70px;
+    margin-top: 12px;
+}
+
+
+input {
+    width: 300px;
+    padding: 5px;
+    border: none;
+    border-bottom: solid 2px #c9c9c9;
+    transition: border 0.3s;
+    color: 7f67676
+}
+.Name {
+    width: 515px;
+}
+
+
+input:focus {
+    border-bottom: solid 2px #969696;
+    outline: none;
+}
+
 
 select {
     position: fixed;
-    bottom: 12.5px;
+    bottom: 11px;
     width: 100px;
     margin-left: -50px;
     float: left;
     font-size: 15px;
-    z-index: 1;
-    border-color: black;
+    z-index: 3;
+    padding: 3px;
+    border: none;
+    border-bottom: solid 2px #c9c9c9;
+    transition: border 0.3s;
     
+}
+
+select:focus {
+    border-bottom: solid 2px #969696;
+    outline: none;
 }
 
 .block {
@@ -97,15 +198,20 @@ select {
     bottom: 0;
     width: 100%;
     height: 50px;
-    background-color: #f0f0f0;
-    z-index: 0;
-    border-top: solid black 1px; 
+    background: url('/images/banner_bg.jpg') repeat;
+    z-index: 2;
+    -webkit-box-shadow: 0px -7px 39px -11px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px -7px 39px -11px rgba(0,0,0,0.75);
+    box-shadow: 0px -7px 39px -11px rgba(0,0,0,0.75);
 }
 
 .bot {
     width: 100%;
     height: 50px;
 }
+
+
+
 
 /* Bewarned, for here starts the mess */
 
@@ -120,7 +226,9 @@ table.dataTable {
 table.dataTable thead th,
 table.dataTable thead td {
     padding: 10px 18px;
-    border-bottom: 1px solid #111 /* <- Delete? */
+    border-bottom: 1px solid #111; /* <- Delete? */
+    
+    
 }
 table.dataTable thead th:active,
 table.dataTable thead td:active {
@@ -134,31 +242,18 @@ table.dataTable thead .sorting_desc {
     *cursor: hand
 }
 
-/* Animation */
-
-@keyframes rotate {
-    from {
-    -ms-transform: rotate(0deg); /* IE 9 */
-    -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
-    transform: rotate(0deg);
-    }
-    to {
-    -ms-transform: rotate(90deg); /* IE 9 */
-    -webkit-transform: rotate(90deg); /* Chrome, Safari, Opera */
-    transform: rotate(90deg);
-    }
-}
-
 /* Expand Row Icon */
 
 td.details-control {
-    background: url('https://raw.githubusercontent.com/RedishHue/armory/master/images/details_open.png') no-repeat center center;
-    background-size: 60%;
+    background: url('/images/Test_sword.png') no-repeat center center;
+    background-size: 80%;
     cursor: pointer;
+    transition: transform .5s;
 }
 tr.shown td.details-control {
-    background: url('https://raw.githubusercontent.com/RedishHue/armory/master/images/details_close.png') no-repeat center center;
-    background-size: 60%;
+    background-size: 80%;
+    -webkit-transform: rotate(90deg); /* Safari */
+    transform: rotate(90deg);
 }
 
 
@@ -174,23 +269,24 @@ table.dataTable thead .sorting_desc_disabled {
     background-position: center right
 }
 table.dataTable thead .sorting_asc {
-    background-image: url("https://raw.githubusercontent.com/RedishHue/armory/master/images/sort_asc.png")
+    background-image: url("/images/sort_asc.png")
 }
 
 table.dataTable thead .sorting_desc {
-    background-image: url("https://raw.githubusercontent.com/RedishHue/armory/master/images/sort_desc.png")
+    background-image: url("/images/sort_desc.png")
 }
 
 /* Color Start */
 
+table.dataTable tbody td.child {
+    padding: 0;
+}
+
 .child {
-    background: url("https://raw.githubusercontent.com/RedishHue/armory/master/images/phb_bg.jpg");
+    background: url("/images/phb_bg.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
-
-
-
 
 table.dataTable tbody tr {
     background-color: #F2ece4
@@ -209,11 +305,11 @@ table.dataTable.display tbody tr.odd {
 }
 table.dataTable.stripe tbody tr.odd.selected,
 table.dataTable.display tbody tr.odd.selected {
-    background-color: #acbad4
+    background-color: #c3cc8c
 }
 table.dataTable.hover tbody tr:hover,
 table.dataTable.display tbody tr:hover {
-    background-color: #d0d0d0; /* Remember to change this */
+    background-color: #c4c9a5; /* Remember to change this */
 }
 table.dataTable.hover tbody tr:hover.selected,
 table.dataTable.display tbody tr:hover.selected {
@@ -222,15 +318,23 @@ table.dataTable.display tbody tr:hover.selected {
 
 /* Child Table Stuff */
 
-table.dataTable.display tbody tr.child {
-    background: transparent;
-}
-table.dataTable.display tbody tr table tr:hover {
-    background: transparent;
-}
 
 .child table tbody tr {
     background-color: transparent;
+}
+
+.child table tbody tr.child-even:hover {
+    background-color: transparent;
+}
+.child table tbody tr.child-even {
+    background-color: transparent;
+}
+
+.child table tbody tr.child-odd:hover {
+    background-color: #eccec3;
+}
+.child table tbody tr.child-odd {
+    background-color: #eccec3;
 }
 
 .slider table {
@@ -239,10 +343,13 @@ table.dataTable.display tbody tr table tr:hover {
 
 .slider table tr th,
 .slider table tr td {
-    border: solid #222222 1px;
     font-family: bookinsanity;
-    
+    padding: 2px 10px 2px 10px;
 }
+
+
+
+
 
 /* Alignment */
 

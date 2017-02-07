@@ -4,8 +4,7 @@
     <title>Magic Items</title>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
     <script src="jquery.dataTables.min.js"></script>
-    <script src="dataTables.txt"></script>
-    <script src="improvedData.txt"></script>
+    <script src="data.txt"></script>
     <script src="settings.js"></script>
     <script src="nightMode.js"></script>
     <link rel="stylesheet" type="text/css" href="theme.css">
@@ -13,12 +12,12 @@
 </head>
 <body>
     
-
-<div class=house>
-    <div class="top">
-        <!-- spacing at the top -->
+    <div style="z-index: 2; width: 100%; height: 100%;">
+        
     </div>
     
+    
+<div class=house>
     <table id="example" class="display" cellspacing="0" width="100%">
         <thead>
             <tr>
@@ -30,6 +29,7 @@
                 <th>Notes</th>
                 <th>Price</th>
                 <th>Source</th>
+                <th></th>
             </tr>
         </thead>
         <tfoot class="foot">
@@ -42,19 +42,56 @@
                 <th class="input-filter">Notes</th>
                 <th class="hidden">Price</th>
                 <th class="hidden">Source</th>
+                <th class="input-filter"></th>
             </tr>
         </tfoot>
     </table>
+        
     <div class="block">
-        <button class="button"></button>
+        <button class="btn" id="btnSlide" title="Crafting" />
+        <button class="button" title="Bad Nightmode" ></button>
+        <input type="text" id="details" class="deets" placeholder="Search Description"/>
+        
     </div>
-    
+    </div>
     <div class="bot">
-    </div>
-</div>    
+    </div>        
     
-    
+    <!-- expand -->
+    <div id="divSectionInfo" class="hidey">
+        <div id="NameAtTop"><span id="totName">Expand Row to Select Item</span></div>
+<table style="width: 100%; padding-top: 20px; margin-left: auto" class="craftingTable">
+  <tr>
+    <th>Schematic</th>
+    <th>Material <span id="result">0%</span></th>
+    <th>PC Helpers</th>
+    <th>Skilled Helpers</th>
+    <th>Magic Helpers</th>
+    <th>Cost per Day</th>
+    <th>Craft Time</th>
+    <th>Total Cost</th>
+  </tr>
+  <tr style="text-align: center">
+
+    <td><input type="checkbox" id="scheme" class="small" ></td>
+    <td><input type="range" id="price" class="small" min="0" max="50" value="0" /></td>
+    <td><input type="number" id="pc" class="small" min="0" value="0" ></td>
+    <td><input type="number" id="skill" class="small" min="0" value="0" ></td>
+    <td><input type="number" id="magic" class="small" min="0" value="0"></td>
+    <td><p id="totDaily">0</p></td>
+    <td><p id="totCraft">0</p></td>
+    <td><p id="totCost">0</p></td>
+  </tr>
+
+</table>
+</div>
+
+    <!-- expand end -->
 </body>
+    <script>
+        
+    
+    </script>
 </html>
 
 
