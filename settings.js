@@ -50,11 +50,17 @@ function format ( d ) {
 var craftCost = d.price/2
 
 function testFunction() {
-			
+    var x = document.getElementById("pc").value;
+    var y = document.getElementById("skill").value * 2;
+    var z = document.getElementById("magic").value * 5;
+    var k = craftCost + y + z; 
+    
 	function costCalc() {
+        
   		var p = document.getElementById("price").value;
         var z = (100 - p)/100;
-        var dd = z * craftCost;
+        
+        var dd = z * k;
         var dd = +dd.toFixed(2);
         return dd
   }
