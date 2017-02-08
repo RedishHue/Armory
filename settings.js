@@ -91,9 +91,9 @@ function testFunction() {
   }
   
   function costDaily() {
-  		var x = costCalc();
+  	var x = k;
         var y = timeCalc();
-   	    var daily = x / y
+   	var daily = x / y
         var daily = +daily.toFixed(2);
         return daily
    }
