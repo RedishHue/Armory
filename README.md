@@ -1,6 +1,6 @@
 # The Armory
 
-This is a list of Magic Items in a 5e D&D Campaign. It's 100% RAW at the moment but I plan to include homebrew items in the future. All Homebrew *items* will probably be marked, but there may be some unmarked alteration of rarities, general balance and such. I would **not** recommend using this if you happen to stumble on it as the information may prove inacurate. 
+This is a list of Magic Items in a 5e D&D Campaign. There may be some homebrew items or alterations of RAW items in this list so I would **not** reccomend using this list if you happen to stumble upon it.  The information will most likely be inaccurate.
 Prices are copied from the ["Sane Magic Item Prices"](http://www.giantitp.com/forums/showthread.php?424243-Sane-Magic-Item-Prices) list.
 
 
@@ -10,6 +10,8 @@ Prices are copied from the ["Sane Magic Item Prices"](http://www.giantitp.com/fo
  * For example, click "Rarity" and then shift-click "Names" to sort any items with the same rarity in alphabetical order.
 * Enable/Disable Nightmode by clicking the small round buttom in the bottom right corner.
 * Sort Individual Columns by using the search bars and dropdown menus.
+* Click the Anvil button to open up the crafting manu. 
+ * It'll automayically pull the data from any child row you open.
 
 
 ###0.0.1
@@ -51,15 +53,18 @@ Prices are copied from the ["Sane Magic Item Prices"](http://www.giantitp.com/fo
  * "display" is for the list and is either "Yes" or "No"
  * "Other" is either "" or "(requires attunement)" for nicer item descriptions. 
 
+###0.4.0
+* Added Crafting
+* Added remaining Items
+* Played around with CSS
+ * Added animated swords for child row expansion button
+ * Styled all the inputs
+ * Toyed with the nightmode but settled on just inverting the colours
+* Finally deleted the ghost search bar that's been hanging around 5000~px to the left for quite some time.
+* Added searchbar for item descriptions.
+
 
 ###To do
-* Add description for the remaining items
-* Style the child rows
- * Have child table mimic the PHB as well?
-* Find out where that one searchbar went...
-* *Try* to make everything look a bit nicer
-* *Try* to do proper nightmode rather than inverting all the colours.
 * *Try* to Add support for non-1920x1080 monitors.
  * Includes mobile, tablets, etc.
 * Acquire a better URL.
-* Searchbar for item descriptions?
