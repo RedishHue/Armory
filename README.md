@@ -11,7 +11,7 @@ Prices are copied from the ["Sane Magic Item Prices"](http://www.giantitp.com/fo
 * Enable/Disable Nightmode by clicking the small round buttom in the bottom right corner.
 * Sort Individual Columns by using the search bars and dropdown menus.
 * Click the Anvil button to open up the crafting manu. 
- * It'll automayically pull the data from any child row you open.
+ * It'll automatically pull the data from any child row you open.
 
 
 ###0.0.1
