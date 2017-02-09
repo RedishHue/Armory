@@ -4785,7 +4785,7 @@
 		"source":      "DMG 205"
     },
     {
-		"name":      "Stone of Good Luck (Luckstone)",
+		"name":      "Stone of Good Luck",
 		"type":      "Wondrous Item",
 		"rarity":      {
       		"display": 	"Uncommon",
