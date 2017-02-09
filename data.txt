@@ -973,7 +973,7 @@
 		},
 		"notes":      "",
 		"price":      16000,
-		"description": "This cube is about an inch across. Each face has a distinct marking on it that can be pressed. The cube starts with 36 charges, and it regains 1d20 expended charges daily at dawn.<br><br>You can use an action to press one of the cube’s faces, expending a number of charges based on the chosen face, as shown in the Cube of Force Faces table. Each face has a different effect. If the cube has insufficient charges remaining, nothing happens. Otherwise, a barrier of invisible force springs into existence, forming a cube 15 feet on a side. The barrier is centered on you, moves with you, and lasts for 1 minute, until you use an action to press the cube’s sixth face, or the cube runs out of charges. You can change the barrier’s effect by pressing a different face of the cube and expending the requisite number of charges, resetting the duration.<br><br>If your movement causes the barrier to come into contact with a solid object that can’t pass through the cube, you can’t move any closer to that object as long as the barrier remains. <table> <tr> <th colspan='3'>Cube of Force Faces</th> </tr> <tr class='child-even'> <th>Face</th> <th>Charges</th> <th>Effect</th> </tr> <tr class='child-odd'> <td>1</td> <td>1</td> <td>Gases, wind, and fog can’t pass through the barrier.</td> </tr> <tr class='child-even'> <td>2</td> <td>2</td> <td>Nonliving matter can’t pass through the barrier. Walls, floors, and ceilings can pass through at your discretion.</td> </tr> <tr class='child-odd'> <td>3</td> <td>3</td> <td>Living matter can’t pass through the barrier.</td> </tr> <tr class='child-even'> <td>4</td> <td>4</td> <td>Spell effects can’t pass through the barrier.</td> </tr> <tr class='child-odd'> <td>5</td> <td>5</td> <td>Nothing can pass through the barrier. Walls, floors, and ceilings can pass through at your discretion.</td> </tr> <tr class='child-even'> <td>6</td> <td>0</td> <td>The barrier deactivates.</td> </tr> </table> The cube loses charges when the barrier is targeted by certain spells or comes into contact with certain spell or magic item effects, as shown in the table below. <table> <tr class='child-even'> <th>Spell or Item</th> <th>Charges Lost</th> </tr> <tr class='child-odd'> <td>Disintegrate</td> <td>1d12</td> </tr> <tr class='child-even'> <td>Horn of Blasting</td> <td>1d10</td> </tr> <tr class='child-odd'> <td>Passwall</td> <td>1d6</td> </tr> <tr class='child-even'> <td>Prismatic Spray</td> <td>1d20</td> </tr> <tr class='child-odd'> <td>Wall of Fire</td> <td>1d4</td> </tr> </table>",
+		"description": "This cube is about an inch across. Each face has a distinct marking on it that can be pressed. The cube starts with 36 charges, and it regains 1d20 expended charges daily at dawn.<br><br>You can use an action to press one of the cube’s faces, expending a number of charges based on the chosen face, as shown in the Cube of Force Faces table. Each face has a different effect. If the cube has insufficient charges remaining, nothing happens. Otherwise, a barrier of invisible force springs into existence, forming a cube 15 feet on a side. The barrier is centered on you, moves with you, and lasts for 1 minute, until you use an action to press the cube’s sixth face, or the cube runs out of charges. You can change the barrier’s effect by pressing a different face of the cube and expending the requisite number of charges, resetting the duration.<br><br>If your movement causes the barrier to come into contact with a solid object that can’t pass through the cube, you can’t move any closer to that object as long as the barrier remains. <br> <table> <tr> <th colspan='3'>Cube of Force Faces</th> </tr> <tr class='child-even'> <th>Face</th> <th>Charges</th> <th>Effect</th> </tr> <tr class='child-odd'> <td>1</td> <td>1</td> <td>Gases, wind, and fog can’t pass through the barrier.</td> </tr> <tr class='child-even'> <td>2</td> <td>2</td> <td>Nonliving matter can’t pass through the barrier. Walls, floors, and ceilings can pass through at your discretion.</td> </tr> <tr class='child-odd'> <td>3</td> <td>3</td> <td>Living matter can’t pass through the barrier.</td> </tr> <tr class='child-even'> <td>4</td> <td>4</td> <td>Spell effects can’t pass through the barrier.</td> </tr> <tr class='child-odd'> <td>5</td> <td>5</td> <td>Nothing can pass through the barrier. Walls, floors, and ceilings can pass through at your discretion.</td> </tr> <tr class='child-even'> <td>6</td> <td>0</td> <td>The barrier deactivates.</td> </tr> </table> <br> The cube loses charges when the barrier is targeted by certain spells or comes into contact with certain spell or magic item effects, as shown in the table below. <br> <table> <tr class='child-even'> <th>Spell or Item</th> <th>Charges Lost</th> </tr> <tr class='child-odd'> <td>Disintegrate</td> <td>1d12</td> </tr> <tr class='child-even'> <td>Horn of Blasting</td> <td>1d10</td> </tr> <tr class='child-odd'> <td>Passwall</td> <td>1d6</td> </tr> <tr class='child-even'> <td>Prismatic Spray</td> <td>1d20</td> </tr> <tr class='child-odd'> <td>Wall of Fire</td> <td>1d4</td> </tr> </table>",
 		"source":      "DMG 159"
     },
     {
@@ -5336,8 +5336,8 @@
 	 		"sort": 	2
 	    },
 		"attunement":  {
-			"display":  "Yes",
-			"other":	"(requires attunement)"
+			"display":  "No",
+			"other":	""
 		},
 		"notes":      "",
 		"price":      1000,
@@ -5352,8 +5352,8 @@
 	 		"sort": 	3
 	    },
 		"attunement":  {
-			"display":  "Yes",
-			"other":	"(requires attunement)"
+			"display":  "No",
+			"other":	""
 		},
 		"notes":      "",
 		"price":      4000,
@@ -5368,8 +5368,8 @@
 	 		"sort": 	4
 	    },
 		"attunement":  {
-			"display":  "Yes",
-			"other":	"(requires attunement)"
+			"display":  "No",
+			"other":	""
 		},
 		"notes":      "",
 		"price":      16000,
