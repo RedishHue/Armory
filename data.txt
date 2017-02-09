@@ -3313,7 +3313,7 @@
 		"source":      "DMG 188"
     },
     {
-		"name":      "Potion of Posion",
+		"name":      "Potion of Poison",
 		"type":      "Potion",
 		"rarity":      {
       		"display": 	"Uncommon",
