@@ -112,6 +112,7 @@ label {
     border-radius: 10px;
     background: url('https://raw.githubusercontent.com/RedishHue/armory/master/images/anvil.png') no-repeat center center;
     background-size: 100%;
+    outline: none;
     
 }
 
