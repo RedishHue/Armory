@@ -50,22 +50,12 @@ function format ( d ) {
 var craftCost = d.price/2
 
 function testFunction() {
-    var x = document.getElementById("pc").value;
-    var y = document.getElementById("skill").value * 2;
-    var z = document.getElementById("magic").value * 5;
-    var k = craftCost + y + z; 
+    var y2 = document.getElementById("skill").value * 2;
+    var z2 = document.getElementById("magic").value * 5;
     
-	function costCalc() {
-        
-  		var p = document.getElementById("price").value;
-        var z = (100 - p)/100;
-        
-        var dd = z * k;
-        var dd = +dd.toFixed(2);
-        return dd
-  }
+	
 		
-  function timeCalc() {
+    function timeCalc() {
   		if (document.getElementById("scheme").checked === true) {
       	cTime = craftTime * 0.75
       } else {
@@ -88,15 +78,28 @@ function testFunction() {
       }
       
       return roundTime
+    }
+    
+    function costCalc() {
+        var s = timeCalc() * y2;
+        var m = timeCalc() * z2;
+  		var p = document.getElementById("price").value;
+        var z = (100 - p)/100;
+        
+        var dd = z * (craftCost + s + m);
+        var dd = +dd.toFixed(2);
+        return dd
   }
-  
-  function costDaily() {
-  	var x = k;
+    
+    
+    function costDaily() {
+  		var x = costCalc();
         var y = timeCalc();
-   	var daily = x / y
+   	    var daily = (x / y);
         var daily = +daily.toFixed(2);
         return daily
    }
+
 document.getElementById("totName").innerHTML = d.name;
 document.getElementById("totCraft").innerHTML = timeCalc();
 document.getElementById("totCost").innerHTML = costCalc();
