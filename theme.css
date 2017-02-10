@@ -211,7 +211,9 @@ select:focus {
     height: 50px;
 }
 
-
+.height {
+    height: 180px; !important
+}
 
 
 /* Bewarned, for here starts the mess */
