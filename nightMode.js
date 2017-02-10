@@ -7,6 +7,7 @@ $(document).ready(function(){
         $('#divSectionInfo').toggleClass('width100');
         $('#NameAtTop').toggleClass('AtTop');
         $('.btn').toggleClass('image2');
+        $('.bot').toggleClass('height');
     });
     
 });
